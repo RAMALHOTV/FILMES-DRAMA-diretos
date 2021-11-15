@@ -1,837 +1,836 @@
 #EXTM3U
 #EXTINF:-1, [B][COLOR yellow] RAMALHOTV[/B][/COLOR] [B][COLOR lime] FILMES  DRAMA [/B][/COLOR] 
-http://al
-#EXTINF:-1 tvg-id="" tvg-name="10 Segundos para Vencer" tvg-logo="http://listaccess.me:8880/images/sS2rp62G1mVqZYqqRJ3aAoKoP4k_small.jpg" group-title="FILMES | DRAMA",10 Segundos para Vencer
-http://vipeiptv.com:25461/movie/taylor/taylor/963260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Metros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xONHMx9skbDotapUuRMOj9huXTq.jpg" group-title="FILMES | DRAMA",100 Metros
-http://vipeiptv.com:25461/movie/taylor/taylor/963261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Herois" tvg-logo="http://listaccess.me:8880/images/j18021qCeRi3yUBtqd2UFj1c0RQ_small.jpg" group-title="FILMES | DRAMA",12 Herois
-http://vipeiptv.com:25461/movie/taylor/taylor/963262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="127 Horas" tvg-logo="http://listaccess.me:8880/images/c6Nu7UjhGCQtV16WXabqOQfikK6_small.jpg" group-title="FILMES | DRAMA",127 Horas
-http://vipeiptv.com:25461/movie/taylor/taylor/963263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="15h17 Trem para Paris" tvg-logo="http://listaccess.me:8080/images/qxJQ0VBCuJkJhJmuWzxI408ngwd_small.jpg" group-title="FILMES | DRAMA",15h17 Trem para Paris
-http://vipeiptv.com:25461/movie/taylor/taylor/963264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2 Filhos de Francisco" tvg-logo="http://listaccess.me:8880/images/2vYfnWXxfgXfDe5OwoAUG8zUa9j_small.jpg" group-title="FILMES | DRAMA",2 Filhos de Francisco
-http://vipeiptv.com:25461/movie/taylor/taylor/963265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 De Julho" tvg-logo="http://listaccess.me:8880/images/34osIViLgpz6lEnkxXpTJMbNRBW_small.jpg" group-title="FILMES | DRAMA",22 De Julho
-http://vipeiptv.com:25461/movie/taylor/taylor/963266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3096 Dias de Cativeiro" tvg-logo="http://212.8.243.43:8880/images/imP2ZZ7HxJCEfauxKVMho23mxjFGkcsL.jpg" group-title="FILMES | DRAMA",3096 Dias de Cativeiro
-http://vipeiptv.com:25461/movie/taylor/taylor/963267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="42 - A História de Uma Lenda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ToC9fhyGkEdDgJBwJbWPMrt8vc.jpg" group-title="FILMES | DRAMA",42 - A História de Uma Lenda
-http://vipeiptv.com:25461/movie/taylor/taylor/963268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="72 Horas" tvg-logo="http://listaccess.me:8880/images/odZECgJpQSUUK1tOMrkT7LWxSkI_small.jpg" group-title="FILMES | DRAMA",72 Horas
-http://vipeiptv.com:25461/movie/taylor/taylor/963269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="8 Mile - Rua das Ilusoes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86CyysIw6WvboRPN8qrjCP0M0nS.jpg" group-title="FILMES | DRAMA",8 Mile - Rua das Ilusoes
-http://vipeiptv.com:25461/movie/taylor/taylor/963270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A 13º Emenda" tvg-logo="http://listaccess.me:8880/images/tcKNWD6IFPPsvkpvyZ548naz0is_small.jpg" group-title="FILMES | DRAMA",A 13º Emenda
-http://vipeiptv.com:25461/movie/taylor/taylor/963271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Ano" tvg-logo="http://assistirpainel.ddns.net:8880/images/533ca932ec322282ed02d56795c74d20.jpg" group-title="FILMES | DRAMA",A Batalha do Ano
-http://vipeiptv.com:25461/movie/taylor/taylor/963272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cabana" tvg-logo="http://listaccess.me:8080/images/doAzav9kfdtsoSdw1MDFvjKq3J4_small.jpg" group-title="FILMES | DRAMA",A Cabana
-http://vipeiptv.com:25461/movie/taylor/taylor/963273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caca" tvg-logo="http://listaccess.me:8880/images/w2FROttU5Da0cOn6wGoUEP4pMJd_small.jpg" group-title="FILMES | DRAMA",A Caca
-http://vipeiptv.com:25461/movie/taylor/taylor/963274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa de Vidro" tvg-logo="http://listaccess.me:8880/images/6z52uWRcOHte8NFte2gXK0ApBPM_small.jpg" group-title="FILMES | DRAMA",A Casa de Vidro
-http://vipeiptv.com:25461/movie/taylor/taylor/963275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa dos Sonhos" tvg-logo="http://listaccess.me:8880/images/8MDE7wXp7gxf61yRDptSLowU2e6_small.jpg" group-title="FILMES | DRAMA",A Casa dos Sonhos
-http://vipeiptv.com:25461/movie/taylor/taylor/963276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Torta" tvg-logo="http://212.8.243.43:8880/images/AewyKG2cvgZQBG4XU6SVomfu1k5_small.jpg" group-title="FILMES | DRAMA",A Casa Torta
-http://vipeiptv.com:25461/movie/taylor/taylor/963277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cor Purpura" tvg-logo="http://listaccess.me:8880/images/2a50LyRInWGLWq3u3DeGBQnvBHR_small.jpg" group-title="FILMES | DRAMA",A Cor Purpura
-http://vipeiptv.com:25461/movie/taylor/taylor/963278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Corrente do Bem" tvg-logo="http://listaccess.me:8880/images/cDTbOPqbDeItp2kqfVJBOsI9mQs_small.jpg" group-title="FILMES | DRAMA",A Corrente do Bem
-http://vipeiptv.com:25461/movie/taylor/taylor/963279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Encruzilhada" tvg-logo="http://listaccess.me:8880/images/jSx2NtVcy3PJST6YHefNdxw5euZ_small.jpg" group-title="FILMES | DRAMA",A Encruzilhada
-http://vipeiptv.com:25461/movie/taylor/taylor/963280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escolha" tvg-logo="http://listaccess.me:8880/images/7EenqQdtZjOeBAAlxNtnG1eLHnf_small.jpg" group-title="FILMES | DRAMA",A Escolha
-http://vipeiptv.com:25461/movie/taylor/taylor/963281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Favorita" tvg-logo="http://listaccess.me:8880/images/cwBq0onfmeilU5xgqNNjJAMPfpw_small.jpg" group-title="FILMES | DRAMA",A Favorita
-http://vipeiptv.com:25461/movie/taylor/taylor/963282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera" tvg-logo="http://listaccess.me:8080/images/yp7k0Run4cDGygfAmXpee4qEwAA_small.jpg" group-title="FILMES | DRAMA",A Fera
-http://vipeiptv.com:25461/movie/taylor/taylor/963283.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Forma da Água" tvg-logo="http://listaccess.me:8080/images/k4FwHlMhuRR5BISY2Gm2QZHlH5Q_small.jpg" group-title="FILMES | DRAMA",A Forma da Água
-http://vipeiptv.com:25461/movie/taylor/taylor/963284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Garota no Trem" tvg-logo="http://listaccess.me:8880/images/AhTO2QWG0tug7yDoh0XoaMhPt3J_small.jpg" group-title="FILMES | DRAMA",A Garota no Trem
-http://vipeiptv.com:25461/movie/taylor/taylor/963285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gripe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5RJvivnXItnJOFP3fJfuu8wt8M.jpg" group-title="FILMES | DRAMA",A Gripe
-http://vipeiptv.com:25461/movie/taylor/taylor/963286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Historia Sem Fim" tvg-logo="http://listaccess.me:8880/images/kpgv4C338cFHhDrFyjDVIbJQqp4_small.jpg" group-title="FILMES | DRAMA",A Historia Sem Fim
-http://vipeiptv.com:25461/movie/taylor/taylor/963287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Historia Verdadeira" tvg-logo="http://listaccess.me:8880/images/hBG9DzRbzId4uC4aUv3XTDZCn4i_small.jpg" group-title="FILMES | DRAMA",A Historia Verdadeira
-http://vipeiptv.com:25461/movie/taylor/taylor/963288.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lagoa Azul" tvg-logo="http://listaccess.me:8880/images/tUSjRfPZwKZA0RuuBwn3G5YJDoE_small.jpg" group-title="FILMES | DRAMA",A Lagoa Azul
-http://vipeiptv.com:25461/movie/taylor/taylor/963289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lagoa Azul 2" tvg-logo="http://listaccess.me:8880/images/jhUTLuPgc3Qcvr5xtji8oiWSfYy_small.jpg" group-title="FILMES | DRAMA",A Lagoa Azul 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavalo Prateado" tvg-logo="http://listaccess.me:8880/images/rkcYteAua7NVH8sRnSMBD4QqixE_small.jpg" group-title="FILMES | DRAMA",A Lenda do Cavalo Prateado
-http://vipeiptv.com:25461/movie/taylor/taylor/963291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lista de Schindler" tvg-logo="http://listaccess.me:8880/images/yPisjyLweCl1tbgwgtzBCNCBle_small.jpg" group-title="FILMES | DRAMA",A Lista de Schindler
-http://vipeiptv.com:25461/movie/taylor/taylor/963292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Luneta do Tempo" tvg-logo="http://listaccess.me:8080/images/jXjiZIYJII6kmgx8E9qGUGiTKUs_small.jpg" group-title="FILMES | DRAMA",A Luneta do Tempo
-http://vipeiptv.com:25461/movie/taylor/taylor/963293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Magia de um Sonho" tvg-logo="http://listaccess.me:8080/images/gUex3Twn97Jp8F27Op1r7OnMTFt_small.jpg" group-title="FILMES | DRAMA",A Magia de um Sonho
-http://vipeiptv.com:25461/movie/taylor/taylor/963294.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Melhor Escolha" tvg-logo="http://listaccess.me:8880/images/pizynKUzJ9YucGff1O1MYisY1WM_small.jpg" group-title="FILMES | DRAMA",A Melhor Escolha
-http://vipeiptv.com:25461/movie/taylor/taylor/963295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte Lhe Cai Bem" tvg-logo="http://listaccess.me:8880/images/rG6IE4QcXuCHVQSbh5ILz8jNAcO_small.jpg" group-title="FILMES | DRAMA",A Morte Lhe Cai Bem
-http://vipeiptv.com:25461/movie/taylor/taylor/963296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher De Preto" tvg-logo="http://listaccess.me:8880/images/y4Z9m5jbPhFAEMWsMHo71Bh1vzi_small.jpg" group-title="FILMES | DRAMA",A Mulher De Preto
-http://vipeiptv.com:25461/movie/taylor/taylor/963297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noviça Rebelde" tvg-logo="http://listaccess.me:8880/images/459fPVvI4lkEV0piSfcq0irKHi8_small.jpg" group-title="FILMES | DRAMA",A Noviça Rebelde
-http://vipeiptv.com:25461/movie/taylor/taylor/963298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Onda" tvg-logo="http://listaccess.me:8880/images/h3FL7Un5LA5dAbg0AoRNjeWvsTK_small.jpg" group-title="FILMES | DRAMA",A Onda
-http://vipeiptv.com:25461/movie/taylor/taylor/963299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Historia Americana" tvg-logo="http://listaccess.me:8880/images/fXepRAYOx1qC3wju7XdDGx60775_small.jpg" group-title="FILMES | DRAMA",A Outra Historia Americana
-http://vipeiptv.com:25461/movie/taylor/taylor/963300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Terra" tvg-logo="http://listaccess.me:8880/images/qvGJK3lFzpifAdyIupMNdWNX0qr_small.jpg" group-title="FILMES | DRAMA",A Outra Terra
-http://vipeiptv.com:25461/movie/taylor/taylor/963301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pele Que Habito" tvg-logo="http://listaccess.me:8880/images/iFIgRIhz3CdWDuKBqEDURV4a4Ly_small.jpg" group-title="FILMES | DRAMA",A Pele Que Habito
-http://vipeiptv.com:25461/movie/taylor/taylor/963302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Morte" tvg-logo="http://listaccess.me:8880/images/eFxgujAuoCZ3mwqAjhHi5nvZ8Sd_small.jpg" group-title="FILMES | DRAMA",A Pequena Morte
-http://vipeiptv.com:25461/movie/taylor/taylor/963303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesinha" tvg-logo="http://listaccess.me:8080/images/a7LslH4Ofdvi1oam9Bbhb2UyMR2_small.jpg" group-title="FILMES | DRAMA",A Princesinha
-http://vipeiptv.com:25461/movie/taylor/taylor/963304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Procura Da Felicidade" tvg-logo="http://listaccess.me:8880/images/iMNp6gTeDBXbzjKRNYtorxZ76G2_small.jpg" group-title="FILMES | DRAMA",A Procura Da Felicidade
-http://vipeiptv.com:25461/movie/taylor/taylor/963305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Rede Social" tvg-logo="http://listaccess.me:8880/images/ok5Wh8385Kgblq9MSU4VGvazeMH_small.jpg" group-title="FILMES | DRAMA",A Rede Social
-http://vipeiptv.com:25461/movie/taylor/taylor/963306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sombra E A Escuridao" tvg-logo="http://listaccess.me:8880/images/3KEPs6RKlin9pT9fqjtW7MSLC8H_small.jpg" group-title="FILMES | DRAMA",A Sombra E A Escuridao
-http://vipeiptv.com:25461/movie/taylor/taylor/963307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Teoria De Tudo" tvg-logo="http://listaccess.me:8880/images/4jspr8hLLuju59bCnMiefzRW4p0_small.jpg" group-title="FILMES | DRAMA",A Teoria De Tudo
-http://vipeiptv.com:25461/movie/taylor/taylor/963308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Troca" tvg-logo="http://listaccess.me:8880/images/qtte2n6ygA1zVG5kLrjUGui28TJ_small.jpg" group-title="FILMES | DRAMA",A Troca
-http://vipeiptv.com:25461/movie/taylor/taylor/963309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Viagem" tvg-logo="http://listaccess.me:8880/images/8VNiyIp67ZxhpNgdrwACW0jgvP2_small.jpg" group-title="FILMES | DRAMA",A Viagem
-http://vipeiptv.com:25461/movie/taylor/taylor/963310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida em Si" tvg-logo="http://listaccess.me:8880/images/buQjT2YXHwdXQjrMmwiAOl0vO0w_small.jpg" group-title="FILMES | DRAMA",A Vida em Si
-http://vipeiptv.com:25461/movie/taylor/taylor/963311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Secreta de Zoe" tvg-logo="http://listaccess.me:8880/images/eTB263jLlyiQ6il7P7zjYHHStKd_small.jpg" group-title="FILMES | DRAMA",A Vida Secreta de Zoe
-http://vipeiptv.com:25461/movie/taylor/taylor/963312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vila" tvg-logo="http://listaccess.me:8880/images/v7UvYtKfIVaHLaHwVgfalyrK7Ho_small.jpg" group-title="FILMES | DRAMA",A Vila
-http://vipeiptv.com:25461/movie/taylor/taylor/963313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Jornada" tvg-logo="http://listaccess.me:8880/images/5gGkt84bCPt7XRo35FcsrOeer78_small.jpg" group-title="FILMES | DRAMA",A Última Jornada
-http://vipeiptv.com:25461/movie/taylor/taylor/963314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Música" tvg-logo="http://listaccess.me:8880/images/deOzvJHnSSl8FI1HEJjPGgOsS9U_small.jpg" group-title="FILMES | DRAMA",A Última Música
-http://vipeiptv.com:25461/movie/taylor/taylor/963315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adoraveis Mulheres" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vY6BCA4LdbYmi2K3JqbljHV9P9.jpg" group-title="FILMES | DRAMA",Adoraveis Mulheres
-http://vipeiptv.com:25461/movie/taylor/taylor/963316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Advogado do Diabo" tvg-logo="http://listaccess.me:8880/images/eSivb4EyOAyEum70mOSHtAWiUe3_small.jpg" group-title="FILMES | DRAMA",Advogado do Diabo
-http://vipeiptv.com:25461/movie/taylor/taylor/963317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alcatraz: Fuga Impossível" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ChgAP1Ck1BEXaATqyPS8nMExim.jpg" group-title="FILMES | DRAMA",Alcatraz: Fuga Impossível
-http://vipeiptv.com:25461/movie/taylor/taylor/963318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alfa" tvg-logo="http://listaccess.me:8880/images/afdZAIcAQscziqVtsEoh2PwsYTW_small.jpg" group-title="FILMES | DRAMA",Alfa
-http://vipeiptv.com:25461/movie/taylor/taylor/963319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Além da Realidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9ib5aHPM4DV2V8tePev0F6HzkZ.jpg" group-title="FILMES | DRAMA",Além da Realidade
-http://vipeiptv.com:25461/movie/taylor/taylor/963320.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Além da Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAS6IC4fydLmEi0DaW7UpVZ1Eim.jpg" group-title="FILMES | DRAMA",Além da Vida
-http://vipeiptv.com:25461/movie/taylor/taylor/963321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Outras Drogas" tvg-logo="http://listaccess.me:8880/images/4jU64i4kAEtQUlsYsQPAdfpI7aP_small.jpg" group-title="FILMES | DRAMA",Amor e Outras Drogas
-http://vipeiptv.com:25461/movie/taylor/taylor/963322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Tulipas" tvg-logo="http://listaccess.me:8080/images/qoOWoobioQckgbk4B9Dqn2mBMSJ_small.jpg" group-title="FILMES | DRAMA",Amor e Tulipas
-http://vipeiptv.com:25461/movie/taylor/taylor/963323.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Annapolis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvRSI1aeLiPEqOHPAx0ZENdAx19.jpg" group-title="FILMES | DRAMA",Annapolis
-http://vipeiptv.com:25461/movie/taylor/taylor/963324.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Antes Que Eu Me Esqueca" tvg-logo="http://listaccess.me:8880/images/75acyO98KTWmPV0uq8FQIHEzCB_small.jpg" group-title="FILMES | DRAMA",Antes Que Eu Me Esqueca
-http://vipeiptv.com:25461/movie/taylor/taylor/963325.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Antes que Seja Tarde" tvg-logo="http://listaccess.me:8080/images/qWbomCnWq3wDU7t5j3AzGGegZGn_small.jpg" group-title="FILMES | DRAMA",Antes que Seja Tarde
-http://vipeiptv.com:25461/movie/taylor/taylor/963326.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aos Treze" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXMGy7SwmjOJ4x6sxNtSnxaA8Ix.jpg" group-title="FILMES | DRAMA",Aos Treze
-http://vipeiptv.com:25461/movie/taylor/taylor/963327.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Argo" tvg-logo="http://listaccess.me:8880/images/oai3xLBQHpIh18VJdRCcL7D0Yg0_small.jpg" group-title="FILMES | DRAMA",Argo
-http://vipeiptv.com:25461/movie/taylor/taylor/963328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de PI" tvg-logo="http://listaccess.me:8880/images/sLYdcz7easaS7CmJGwQcVVYZqiF_small.jpg" group-title="FILMES | DRAMA",As Aventuras de PI
-http://vipeiptv.com:25461/movie/taylor/taylor/963329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Boas Maneiras" tvg-logo="http://listaccess.me:8880/images/75YzE6l8sQ9gItm40Z7FE5pjyRn_small.jpg" group-title="FILMES | DRAMA",As Boas Maneiras
-http://vipeiptv.com:25461/movie/taylor/taylor/963330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Donas da Noite" tvg-logo="http://listaccess.me:8880/images/3rdg390l2AaoS0Y7jJ7G3MCLvjN_small.jpg" group-title="FILMES | DRAMA",As Donas da Noite
-http://vipeiptv.com:25461/movie/taylor/taylor/963331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Mil Palavras" tvg-logo="http://listaccess.me:8880/images/4T0nPirZLeLEaXOgLT7SGgopCui_small.jpg" group-title="FILMES | DRAMA",As Mil Palavras
-http://vipeiptv.com:25461/movie/taylor/taylor/963332.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassinos" tvg-logo="http://listaccess.me:8880/images/xjpMfoPmo4bX8MEZPpWl8lBq6rx_small.jpg" group-title="FILMES | DRAMA",Assassinos
-http://vipeiptv.com:25461/movie/taylor/taylor/963333.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ate o Ultimo Homem" tvg-logo="http://listaccess.me:8880/images/bndiUFfJxNd2fYx8XO610L9a07m_small.jpg" group-title="FILMES | DRAMA",Ate o Ultimo Homem
-http://vipeiptv.com:25461/movie/taylor/taylor/963334.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atracao Perigosa" tvg-logo="http://listaccess.me:8880/images/zX4fKmDXKGt4hlzhAJirdlRKFgO_small.jpg" group-title="FILMES | DRAMA",Atracao Perigosa
-http://vipeiptv.com:25461/movie/taylor/taylor/963335.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bastardos Inglorios" tvg-logo="http://listaccess.me:8880/images/6zYuTKyvcwmtNvXXvJZNT0IgBL0_small.jpg" group-title="FILMES | DRAMA",Bastardos Inglorios
-http://vipeiptv.com:25461/movie/taylor/taylor/963336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Americana" tvg-logo="http://listaccess.me:8080/images/or1MP8BZIAjqWYxPdPX724ydKar_small.jpg" group-title="FILMES | DRAMA",Beleza Americana
-http://vipeiptv.com:25461/movie/taylor/taylor/963337.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Oculta" tvg-logo="http://listaccess.me:8880/images/9fc7K82At056IlrK9dOzPSQYhSY_small.jpg" group-title="FILMES | DRAMA",Beleza Oculta
-http://vipeiptv.com:25461/movie/taylor/taylor/963338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Buscando" tvg-logo="http://listaccess.me:8880/images/pk9R56ZFlofbBzfwBnHlDyg5DMs_small.jpg" group-title="FILMES | DRAMA",Buscando
-http://vipeiptv.com:25461/movie/taylor/taylor/963339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitão Fantástico" tvg-logo="http://assistirpainel.ddns.net:8880/images/d1d03246e543e5dea2ea2860d7812584.jpg" group-title="FILMES | DRAMA",Capitão Fantástico
-http://vipeiptv.com:25461/movie/taylor/taylor/963340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cavalo De Guerra" tvg-logo="http://listaccess.me:8880/images/6wMoQyJddEiLCzLUHiX7LNWhDol_small.jpg" group-title="FILMES | DRAMA",Cavalo De Guerra
-http://vipeiptv.com:25461/movie/taylor/taylor/963341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cavalos Selvagens" tvg-logo="http://listaccess.me:8880/images/tNotOC9KQdX3Y170ku7GWaLBks5_small.jpg" group-title="FILMES | DRAMA",Cavalos Selvagens
-http://vipeiptv.com:25461/movie/taylor/taylor/963342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazuza o tempo nao para" tvg-logo="http://listaccess.me:8880/images/8Gornwn6Udc4AJCqYKYrZ2Mx8tb_small.jpg" group-title="FILMES | DRAMA",Cazuza o tempo nao para
-http://vipeiptv.com:25461/movie/taylor/taylor/963343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chico Xavier" tvg-logo="http://listaccess.me:8880/images/hzTUNJfE44VGVLw8cVALv1dIVld_small.jpg" group-title="FILMES | DRAMA",Chico Xavier
-http://vipeiptv.com:25461/movie/taylor/taylor/963344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cidade Louca" tvg-logo="http://listaccess.me:8880/images/i5FctRgBTs0Dleo7VkwtZgoCEKX_small.jpg" group-title="FILMES | DRAMA",Cidade Louca
-http://vipeiptv.com:25461/movie/taylor/taylor/963345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Liberdade" tvg-logo="http://listaccess.me:8080/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="FILMES | DRAMA",Cinquenta Tons de Liberdade
-http://vipeiptv.com:25461/movie/taylor/taylor/963346.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Closer" tvg-logo="http://listaccess.me:8880/images/fGGaokx4k00S0J603VG53Qlr9jz_small.jpg" group-title="FILMES | DRAMA",Closer
-http://vipeiptv.com:25461/movie/taylor/taylor/963347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Clube da Luta" tvg-logo="http://listaccess.me:8080/images/adw6Lq9FiC9zjYEpOqfq03ituwp_small.jpg" group-title="FILMES | DRAMA",Clube da Luta
-http://vipeiptv.com:25461/movie/taylor/taylor/963348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coco Antes de Chanel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5NEDjcTB75322aCiwtVTFbJMiX.jpg" group-title="FILMES | DRAMA",Coco Antes de Chanel
-http://vipeiptv.com:25461/movie/taylor/taylor/963349.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Codigo de Conduta" tvg-logo="http://listaccess.me:8880/images/p7zwLp8gCKyrNLCHP3RhmN5izHo_small.jpg" group-title="FILMES | DRAMA",Codigo de Conduta
-http://vipeiptv.com:25461/movie/taylor/taylor/963350.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colateral" tvg-logo="http://listaccess.me:8880/images/fmkv2eRuYCTq7A5jzMBNgoNe1vA_small.jpg" group-title="FILMES | DRAMA",Colateral
-http://vipeiptv.com:25461/movie/taylor/taylor/963351.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Comer Rezar Amar" tvg-logo="http://listaccess.me:8880/images/s57E4AfPIU1fxwpGGRahk6A0DUl_small.jpg" group-title="FILMES | DRAMA",Comer Rezar Amar
-http://vipeiptv.com:25461/movie/taylor/taylor/963352.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Como as Estrelas na Terra (LG)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SBqDgcYoQHyJbD09ITpjM8MKsx.jpg" group-title="FILMES | DRAMA",Como as Estrelas na Terra (LG)
-http://vipeiptv.com:25461/movie/taylor/taylor/963353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Contágio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WlftflKyF7nX1FTM6IhhZD9lmd.jpg" group-title="FILMES | DRAMA",Contágio
-http://vipeiptv.com:25461/movie/taylor/taylor/963354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corpo Fechado" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIwMjAxNzktNmEzYS00ZDY5LWEyZjktM2Y0MmUzZDkyYmZkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="FILMES | DRAMA",Corpo Fechado
-http://vipeiptv.com:25461/movie/taylor/taylor/963355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Selvagem" tvg-logo="http://listaccess.me:8880/images/3tfc2ga4JnWjZGvhKlAPIvOVMBy_small.jpg" group-title="FILMES | DRAMA",Corrida Selvagem
-http://vipeiptv.com:25461/movie/taylor/taylor/963356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Creed Nascido Para Lutar" tvg-logo="http://listaccess.me:8080/images/hKzhV274pkZBSpXfCjUyzbyYKLl_small.jpg" group-title="FILMES | DRAMA",Creed Nascido Para Lutar
-http://vipeiptv.com:25461/movie/taylor/taylor/963357.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cruzada" tvg-logo="http://listaccess.me:8880/images/aB4urkgTxBURJMUkd0kceDD7FUM_small.jpg" group-title="FILMES | DRAMA",Cruzada
-http://vipeiptv.com:25461/movie/taylor/taylor/963358.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Fora Para Dentro" tvg-logo="http://listaccess.me:8880/images/o8mGEiiEmR7yyoDqk9iSAeokYVZ_small.jpg" group-title="FILMES | DRAMA",De Fora Para Dentro
-http://vipeiptv.com:25461/movie/taylor/taylor/963359.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Volta Para Casa" tvg-logo="http://listaccess.me:8880/images/pE4VHzhDZgvbx2QOllaXXPADiW1_small.jpg" group-title="FILMES | DRAMA",De Volta Para Casa
-http://vipeiptv.com:25461/movie/taylor/taylor/963360.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desafiando os limites" tvg-logo="http://listaccess.me:8880/images/h3xDXEEjppiyuRtMv6Cy5bcMTrG_small.jpg" group-title="FILMES | DRAMA",Desafiando os limites
-http://vipeiptv.com:25461/movie/taylor/taylor/963361.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diamante de Sangue" tvg-logo="http://listaccess.me:8880/images/wRamTzV6udKaMXrspxqOuo02zk0_small.jpg" group-title="FILMES | DRAMA",Diamante de Sangue
-http://vipeiptv.com:25461/movie/taylor/taylor/963362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diario de Um Adolescente" tvg-logo="http://listaccess.me:8880/images/8BkedYL5LdpkyHc7JtuohMr8a9N_small.jpg" group-title="FILMES | DRAMA",Diario de Um Adolescente
-http://vipeiptv.com:25461/movie/taylor/taylor/963363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diarios de Motociclista" tvg-logo="http://listaccess.me:8880/images/uNMLsBv48WwIohS7n5DVe1fsFcb_small.jpg" group-title="FILMES | DRAMA",Diarios de Motociclista
-http://vipeiptv.com:25461/movie/taylor/taylor/963364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dirty Dancing 1" tvg-logo="http://listaccess.me:8880/images/jFoktPxTtabZfh9JeDy3F78g9w7_small.jpg" group-title="FILMES | DRAMA",Dirty Dancing 1
-http://vipeiptv.com:25461/movie/taylor/taylor/963365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dirty Dancing 2" tvg-logo="http://listaccess.me:8880/images/nuUKcfRYjifwjIJPN1J6kIGcSvD_small.jpg" group-title="FILMES | DRAMA",Dirty Dancing 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dirty Dancing 3" tvg-logo="http://listaccess.me:8880/images/bZ75Ycwp3rAy1NZczxscnYS3jU1_small.jpg" group-title="FILMES | DRAMA",Dirty Dancing 3
-http://vipeiptv.com:25461/movie/taylor/taylor/963367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Divino Amor" tvg-logo="http://assistirpainel.ddns.net:8880/images/0878fa5d584a2af2e525e35594926bcc.jpg" group-title="FILMES | DRAMA",Divino Amor
-http://vipeiptv.com:25461/movie/taylor/taylor/963368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doce Virginia" tvg-logo="http://listaccess.me:8880/images/qTch1l0ZMU4MiOBDEJ14jVmANVC_small.jpg" group-title="FILMES | DRAMA",Doce Virginia
-http://vipeiptv.com:25461/movie/taylor/taylor/963369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duelo de Titas" tvg-logo="http://listaccess.me:8880/images/iI12IRzif2VjTkQJRDQw3WyWKdS_small.jpg" group-title="FILMES | DRAMA",Duelo de Titas
-http://vipeiptv.com:25461/movie/taylor/taylor/963370.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dunkirk" tvg-logo="http://listaccess.me:8080/images/ebSnODDg9lbsMIaWg2uAbjn7TO5_small.jpg" group-title="FILMES | DRAMA",Dunkirk
-http://vipeiptv.com:25461/movie/taylor/taylor/963371.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emblema da Fe" tvg-logo="https://ia.media-imdb.com/images/M/MV5BNGZlZTAzMTAtMjNlMC00ZjMyLTlkZWQtZGE0OTZiYTU2Mjk4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" group-title="FILMES | DRAMA",Emblema da Fe
-http://vipeiptv.com:25461/movie/taylor/taylor/963372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Encontro Marcado" tvg-logo="http://listaccess.me:8880/images/s5maEXmEsVZYUx6dWc11GhL0zww_small.jpg" group-title="FILMES | DRAMA",Encontro Marcado
-http://vipeiptv.com:25461/movie/taylor/taylor/963373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Entre Irmaos" tvg-logo="http://listaccess.me:8880/images/rfLmpW2tzI40g91GiU0WSiMIxox_small.jpg" group-title="FILMES | DRAMA",Entre Irmaos
-http://vipeiptv.com:25461/movie/taylor/taylor/963374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Epidemia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RwcLqdlPmovMQkuCRpqkMN1q2Q.jpg" group-title="FILMES | DRAMA",Epidemia
-http://vipeiptv.com:25461/movie/taylor/taylor/963375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez" tvg-logo="http://listaccess.me:8880/images/q5nVchhxPcDnCguxaC8qDHHJ364_small.jpg" group-title="FILMES | DRAMA",Era Uma Vez
-http://vipeiptv.com:25461/movie/taylor/taylor/963376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escobar - A Traicao" tvg-logo="http://listaccess.me:8880/images/xFc8RCsQGQv016ELpggiEKoBNAe_small.jpg" group-title="FILMES | DRAMA",Escobar - A Traicao
-http://vipeiptv.com:25461/movie/taylor/taylor/963377.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Estrelas Além do Tempo" tvg-logo="http://listaccess.me:8880/images/4Hu1LCeUXFGBDNfppTtEP3AqRby2r0Ny.jpg" group-title="FILMES | DRAMA",Estrelas Além do Tempo
-http://vipeiptv.com:25461/movie/taylor/taylor/963378.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Estrelas Além do Tempo" tvg-logo="http://listaccess.me:8880/images/6cbIDZLfwUTmttXTmNi8Mp3Rnmg_small.jpg" group-title="FILMES | DRAMA",Estrelas Além do Tempo
-http://vipeiptv.com:25461/movie/taylor/taylor/963379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu Mato Gigantes" tvg-logo="http://listaccess.me:8880/images/cvit6HDbXHE6W5kGPd47jd0wthQ_small.jpg" group-title="FILMES | DRAMA",Eu Mato Gigantes
-http://vipeiptv.com:25461/movie/taylor/taylor/963380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu So Posso Imaginar" tvg-logo="http://listaccess.me:8880/images/veZszwMZu8d3WMU6TJX9sV5w1Y4_small.jpg" group-title="FILMES | DRAMA",Eu So Posso Imaginar
-http://vipeiptv.com:25461/movie/taylor/taylor/963381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu Tonya" tvg-logo="http://listaccess.me:8880/images/6gNXwSHxaksR1PjVZRqNapmkgj3_small.jpg" group-title="FILMES | DRAMA",Eu Tonya
-http://vipeiptv.com:25461/movie/taylor/taylor/963382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Everest" tvg-logo="http://listaccess.me:8880/images/t3ELL46AnqjS9djz1vEVh4MpKv0_small.jpg" group-title="FILMES | DRAMA",Everest
-http://vipeiptv.com:25461/movie/taylor/taylor/963383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Exodo Deuses e Reis" tvg-logo="http://listaccess.me:8880/images/ycDcPCpWM7hSdIR6tFkOzQPkve2_small.jpg" group-title="FILMES | DRAMA",Exodo Deuses e Reis
-http://vipeiptv.com:25461/movie/taylor/taylor/963384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Exterminio 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBOXqgyClYtbyXhgU61pIjqSwL5.jpg" group-title="FILMES | DRAMA",Exterminio 1
-http://vipeiptv.com:25461/movie/taylor/taylor/963385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Exterminio 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5CJD9e6wuGpbOv7VryokMiBIDO.jpg" group-title="FILMES | DRAMA",Exterminio 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Extraordinário" tvg-logo="http://listaccess.me:8080/images/ouYgAatYH4JzIThj6FI3UYf31RI_small.jpg" group-title="FILMES | DRAMA",Extraordinário
-http://vipeiptv.com:25461/movie/taylor/taylor/963387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Faroeste Caboclo" tvg-logo="http://listaccess.me:8880/images/qWdjGxfdoGO8kAifO7ROUB2GKk5_small.jpg" group-title="FILMES | DRAMA",Faroeste Caboclo
-http://vipeiptv.com:25461/movie/taylor/taylor/963388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Favela" tvg-logo="http://listaccess.me:8880/images/p3bw0Pgm2KFJvu2tqMeP2DbQwDW_small.jpg" group-title="FILMES | DRAMA",Favela
-http://vipeiptv.com:25461/movie/taylor/taylor/963389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Filhos da Esperanca" tvg-logo="http://listaccess.me:8880/images/gZ6i32Da76EUxta06GL2BxpC4Cn_small.jpg" group-title="FILMES | DRAMA",Filhos da Esperanca
-http://vipeiptv.com:25461/movie/taylor/taylor/963390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fique Rico ou Morra Tentando" tvg-logo="http://listaccess.me:8880/images/wKeSnhQfdwrycHorc9OPQ5KxVxJ_small.jpg" group-title="FILMES | DRAMA",Fique Rico ou Morra Tentando
-http://vipeiptv.com:25461/movie/taylor/taylor/963391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fome de Poder" tvg-logo="http://listaccess.me:8880/images/fxvlzT7yyKiZneTDPwk85BSw1JF_small.jpg" group-title="FILMES | DRAMA",Fome de Poder
-http://vipeiptv.com:25461/movie/taylor/taylor/963392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Free Willy 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIjiTSNA52VGGP9eeegNaMKXNhf.jpg" group-title="FILMES | DRAMA",Free Willy 1
-http://vipeiptv.com:25461/movie/taylor/taylor/963393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Free Willy 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44l5WNsywfEaZVz7JbcRYUXTpr6.jpg" group-title="FILMES | DRAMA",Free Willy 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963394.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Free Willy 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ohHn7XETI1stieBJ8MHsYsJYZs.jpg" group-title="FILMES | DRAMA",Free Willy 3
-http://vipeiptv.com:25461/movie/taylor/taylor/963395.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gente de Bem" tvg-logo="http://listaccess.me:8880/images/e2cdubbzgDBIVG8lELeQUq50qiZ_small.jpg" group-title="FILMES | DRAMA",Gente de Bem
-http://vipeiptv.com:25461/movie/taylor/taylor/963396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Get on Up: A História de James Brown" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eodvYgqvqQylOWsB9CJE637AxRR.jpg" group-title="FILMES | DRAMA",Get on Up: A História de James Brown
-http://vipeiptv.com:25461/movie/taylor/taylor/963397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gol 1" tvg-logo="http://listaccess.me:8880/images/8OCGYpzbFZHEubCUzjtyQEEOmV_small.jpg" group-title="FILMES | DRAMA",Gol 1
-http://vipeiptv.com:25461/movie/taylor/taylor/963398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gol 2" tvg-logo="http://listaccess.me:8880/images/sKKej989oVbZahldAkrMVmyB8pU_small.jpg" group-title="FILMES | DRAMA",Gol 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963399.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gol 3 (LG)" tvg-logo="http://listaccess.me:8880/images/ak5yYUtaZ7yoe2SesHXi7sjBp5V_small.jpg" group-title="FILMES | DRAMA",Gol 3 (LG)
-http://vipeiptv.com:25461/movie/taylor/taylor/963400.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gonzaga De Pai Pra Filho" tvg-logo="http://listaccess.me:8880/images/8f97oxuD8NLB4m5BsqW6Gr70LOo_small.jpg" group-title="FILMES | DRAMA",Gonzaga De Pai Pra Filho
-http://vipeiptv.com:25461/movie/taylor/taylor/963401.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gotti: O Chefe da Máfia" tvg-logo="http://listaccess.me:8880/images/B2omqEFhWXu4PyYfLTN4vC1c7TupWkSB.jpg" group-title="FILMES | DRAMA",Gotti: O Chefe da Máfia
-http://vipeiptv.com:25461/movie/taylor/taylor/963402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gran Torino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DsR0kXmUC4UGXwKVpfL0UVvnyl.jpg" group-title="FILMES | DRAMA",Gran Torino
-http://vipeiptv.com:25461/movie/taylor/taylor/963403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Grandes Esperanças" tvg-logo="http://listaccess.me:8880/images/djLsfl3lm7BZKWsKfVZ2wM1ZMrP_small.jpg" group-title="FILMES | DRAMA",Grandes Esperanças
-http://vipeiptv.com:25461/movie/taylor/taylor/963404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guerra e Guerra" tvg-logo="http://listaccess.me:8880/images/1CiX92V4St4PTViqjvEwMhW2Y2s_small.jpg" group-title="FILMES | DRAMA",Guerra e Guerra
-http://vipeiptv.com:25461/movie/taylor/taylor/963405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Heide" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjI4ODQ0NTk1MF5BMl5BanBnXkFtZTgwMTg4NDM1NzE@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="FILMES | DRAMA",Heide
-http://vipeiptv.com:25461/movie/taylor/taylor/963406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Heranca de Sangue" tvg-logo="http://listaccess.me:8880/images/nRHFI0oGyCIMjno7p7iGheVDJre_small.jpg" group-title="FILMES | DRAMA",Heranca de Sangue
-http://vipeiptv.com:25461/movie/taylor/taylor/963407.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hip Hop Sem Parar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/es9zAg9tPYwFsAhdY71SHUQZu6j.jpg" group-title="FILMES | DRAMA",Hip Hop Sem Parar
-http://vipeiptv.com:25461/movie/taylor/taylor/963408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Cruzadas" tvg-logo="http://listaccess.me:8880/images/6u85CuvnbrzWMhKbGk4Bm5RnO3V_small.jpg" group-title="FILMES | DRAMA",Historias Cruzadas
-http://vipeiptv.com:25461/movie/taylor/taylor/963409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homens de Honra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cubiycGx2iEat6R9JWd8kmRNYrL.jpg" group-title="FILMES | DRAMA",Homens de Honra
-http://vipeiptv.com:25461/movie/taylor/taylor/963410.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homens de Honrra" tvg-logo="http://listaccess.me:8080/images/wNUAnXV1mzOOfvnVBIYsalkk078_small.jpg" group-title="FILMES | DRAMA",Homens de Honrra
-http://vipeiptv.com:25461/movie/taylor/taylor/963411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honey" tvg-logo="http://listaccess.me:8880/images/xyqsfWcjC9TQZjGn2NLspL5YoJ4_small.jpg" group-title="FILMES | DRAMA",Honey
-http://vipeiptv.com:25461/movie/taylor/taylor/963412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honey 2" tvg-logo="http://listaccess.me:8880/images/2pVEMvhXtEUu2rnY94rCZUQ43HL_small.jpg" group-title="FILMES | DRAMA",Honey 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honey 3" tvg-logo="http://listaccess.me:8880/images/uWnBO4E1vkWy8nQ3KwZ4SVE19Qt_small.jpg" group-title="FILMES | DRAMA",Honey 3
-http://vipeiptv.com:25461/movie/taylor/taylor/963414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honey 4" tvg-logo="http://listaccess.me:8880/images/gzxUNGk79dHk2mUb5HrhvooHScV_small.jpg" group-title="FILMES | DRAMA",Honey 4
-http://vipeiptv.com:25461/movie/taylor/taylor/963415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honra ao Merito" tvg-logo="http://listaccess.me:8080/images/z8OKWw6DAZAOyz8F421euawr3Hs_small.jpg" group-title="FILMES | DRAMA",Honra ao Merito
-http://vipeiptv.com:25461/movie/taylor/taylor/963416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ilha do Medo" tvg-logo="http://listaccess.me:8880/images/aZqKsvpJDFy2UzUMsdskNFbfkOd_small.jpg" group-title="FILMES | DRAMA",Ilha do Medo
-http://vipeiptv.com:25461/movie/taylor/taylor/963417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interestelar" tvg-logo="http://listaccess.me:8880/images/nBNZadXqJSdt05SHLqgT0HuC5Gm_small.jpg" group-title="FILMES | DRAMA",Interestelar
-http://vipeiptv.com:25461/movie/taylor/taylor/963418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Intermediario.com" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bum49ZrG5sTKWTrRLVGtMh1OsJP.jpg" group-title="FILMES | DRAMA",Intermediario.com
-http://vipeiptv.com:25461/movie/taylor/taylor/963419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Invasão de Privacidade" tvg-logo="http://listaccess.me:8880/images/av21Dfu31DQPtp5jkorMMS58rQC_small.jpg" group-title="FILMES | DRAMA",Invasão de Privacidade
-http://vipeiptv.com:25461/movie/taylor/taylor/963420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Invencivel" tvg-logo="http://listaccess.me:8880/images/1un8i8UtCjSCnY3OfdxtB5kDRvF_small.jpg" group-title="FILMES | DRAMA",Invencivel
-http://vipeiptv.com:25461/movie/taylor/taylor/963421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Invencivel 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qulNWdtoFomUIjllKA0FJyh2kF1.jpg" group-title="FILMES | DRAMA",Invencivel 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Invictus" tvg-logo="http://listaccess.me:8080/images/esOAiQi9jLb9JyLIyLt2JuVd8fa_small.jpg" group-title="FILMES | DRAMA",Invictus
-http://vipeiptv.com:25461/movie/taylor/taylor/963423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jane Eyre" tvg-logo="http://listaccess.me:8880/images/oC7wvdrBA0RgbXaJZwcxsl1zKBR_small.jpg" group-title="FILMES | DRAMA",Jane Eyre
-http://vipeiptv.com:25461/movie/taylor/taylor/963424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogo da Vida" tvg-logo="http://listaccess.me:8880/images/uyPlrTdkN06sZv1I5nMC65qReGk_small.jpg" group-title="FILMES | DRAMA",Jogo da Vida
-http://vipeiptv.com:25461/movie/taylor/taylor/963425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogo Perigoso" tvg-logo="http://listaccess.me:8880/images/32dippiypDdaKv7XFEfUlQ7kPup_small.jpg" group-title="FILMES | DRAMA",Jogo Perigoso
-http://vipeiptv.com:25461/movie/taylor/taylor/963426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jornada pela Liberdade" tvg-logo="http://listaccess.me:8880/images/gSipFYPRTESPf9RD6c6nX9JRtqT_small.jpg" group-title="FILMES | DRAMA",Jornada pela Liberdade
-http://vipeiptv.com:25461/movie/taylor/taylor/963427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lagrimas do Sol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ht2bKCUULWftSaa2Xr3s5kHJqH.jpg" group-title="FILMES | DRAMA",Lagrimas do Sol
-http://vipeiptv.com:25461/movie/taylor/taylor/963428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LBJ A Esperanca De Uma Nacao" tvg-logo="http://listaccess.me:8880/images/o0ofwOnVHbcR8WhZtB2y7UkM1Qm_small.jpg" group-title="FILMES | DRAMA",LBJ A Esperanca De Uma Nacao
-http://vipeiptv.com:25461/movie/taylor/taylor/963429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legitimo Rei" tvg-logo="http://listaccess.me:8880/images/rT49ousKUWN3dV7UlhaC9onTNdl_small.jpg" group-title="FILMES | DRAMA",Legitimo Rei
-http://vipeiptv.com:25461/movie/taylor/taylor/963430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lion Uma Jornada Para Casa" tvg-logo="http://assistirpainel.ddns.net:8880/images/iBGRbLvg6kVc7wbS8wDdVHq6otm_small.jpg" group-title="FILMES | DRAMA",Lion Uma Jornada Para Casa
-http://vipeiptv.com:25461/movie/taylor/taylor/963431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Livre" tvg-logo="http://assistirpainel.ddns.net:8880/images/26f10164b53ff1cbf1994550a91d7e67.jpg" group-title="FILMES | DRAMA",Livre
-http://vipeiptv.com:25461/movie/taylor/taylor/963432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lutador de Rua" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzo2JLb3CJm3NBGGrZH9FnnZ6F4.jpg" group-title="FILMES | DRAMA",Lutador de Rua
-http://vipeiptv.com:25461/movie/taylor/taylor/963433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lutero" tvg-logo="http://listaccess.me:8880/images/gAV6H4y7CnEhczMdJ8hwhgL01xg_small.jpg" group-title="FILMES | DRAMA",Lutero
-http://vipeiptv.com:25461/movie/taylor/taylor/963434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maggie: A Transformação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK0kVIOSOQ4ZAoV3MNTehHnzZEL.jpg" group-title="FILMES | DRAMA",Maggie: A Transformação
-http://vipeiptv.com:25461/movie/taylor/taylor/963435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mais Forte Que o Mundo a Historia de Jose Aldo" tvg-logo="http://listaccess.me:8880/images/nQ4ogqsPqZhB0kMHlducs3UIp2k_small.jpg" group-title="FILMES | DRAMA",Mais Forte Que o Mundo a Historia de Jose Aldo
-http://vipeiptv.com:25461/movie/taylor/taylor/963436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mais que vencedor" tvg-logo="https://www.spovo.com.br//media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/v/dvd-mais-que-vencedor.jpg" group-title="FILMES | DRAMA",Mais que vencedor
-http://vipeiptv.com:25461/movie/taylor/taylor/963437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mar em Furia" tvg-logo="http://listaccess.me:8880/images/uARMPDyjiENKyUz7JRmQmLCH8L5_small.jpg" group-title="FILMES | DRAMA",Mar em Furia
-http://vipeiptv.com:25461/movie/taylor/taylor/963438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marcados Para Morrer" tvg-logo="http://listaccess.me:8880/images/suqikqv0DjOsW8e0hst4YWDTmAX_small.jpg" group-title="FILMES | DRAMA",Marcados Para Morrer
-http://vipeiptv.com:25461/movie/taylor/taylor/963439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marshall - Igualdade e Justica" tvg-logo="http://listaccess.me:8880/images/2z9oNW3TE5H5woLozFwfxlRRc0b_small.jpg" group-title="FILMES | DRAMA",Marshall - Igualdade e Justica
-http://vipeiptv.com:25461/movie/taylor/taylor/963440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marshall: Igualdade e Justiça" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y10LFOL0Nykp2UfKbRH9xdrTQ8C.jpg" group-title="FILMES | DRAMA",Marshall: Igualdade e Justiça
-http://vipeiptv.com:25461/movie/taylor/taylor/963441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mary Shelley" tvg-logo="http://listaccess.me:8880/images/e9lvDrTluU6rFF3SJlIZkU03g9w_small.jpg" group-title="FILMES | DRAMA",Mary Shelley
-http://vipeiptv.com:25461/movie/taylor/taylor/963442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Medo Profundo" tvg-logo="http://listaccess.me:8880/images/2IgdRUTdHyoI3nFORcnnYEKOGIH_small.jpg" group-title="FILMES | DRAMA",Medo Profundo
-http://vipeiptv.com:25461/movie/taylor/taylor/963443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Megan Leavey" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxOTk2NTkxNF5BMl5BanBnXkFtZTgwOTUyOTM3MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="FILMES | DRAMA",Megan Leavey
-http://vipeiptv.com:25461/movie/taylor/taylor/963444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Melanie A Ultima Esperanca" tvg-logo="http://listaccess.me:8880/images/33IDooA29ctGHNE7gQW6cwbmRP3_small.jpg" group-title="FILMES | DRAMA",Melanie A Ultima Esperanca
-http://vipeiptv.com:25461/movie/taylor/taylor/963445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Memorias de um Assassino" tvg-logo="http://listaccess.me:8880/images/Av7QU70w0aafHvisqfjRZF9xFbZ_small.jpg" group-title="FILMES | DRAMA",Memorias de um Assassino
-http://vipeiptv.com:25461/movie/taylor/taylor/963446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Menendez Irmaos de Sangue" tvg-logo="http://listaccess.me:8880/images/mle54EkdDyo0xwN4zWIYzYfLITc_small.jpg" group-title="FILMES | DRAMA",Menendez Irmaos de Sangue
-http://vipeiptv.com:25461/movie/taylor/taylor/963447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Mestre Minha Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PYe12eChx1PvlwXxG2RihNwU1L.jpg" group-title="FILMES | DRAMA",Meu Mestre Minha Vida
-http://vipeiptv.com:25461/movie/taylor/taylor/963448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PYe12eChx1PvlwXxG2RihNwU1L.jpg" group-title="FILMES | DRAMA",Minha Vida
-http://vipeiptv.com:25461/movie/taylor/taylor/963449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Rádio" tvg-logo="http://listaccess.me:8880/images/t4b6Ff8N0cvMBeYFtDNDm6xvyC9_small.jpg" group-title="FILMES | DRAMA",Meu Nome é Rádio
-http://vipeiptv.com:25461/movie/taylor/taylor/963450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres do Paraiso" tvg-logo="http://listaccess.me:8080/images/3sPIq0Uqe8SN5T0Pq7vUOFLb2Bk_small.jpg" group-title="FILMES | DRAMA",Milagres do Paraiso
-http://vipeiptv.com:25461/movie/taylor/taylor/963451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Millennium 1 Os Homens que Não Amavam as Mulheres" tvg-logo="http://listaccess.me:8880/images/9pRod9YBfBwC0tPfMijhYSdSlwU_small.jpg" group-title="FILMES | DRAMA",Millennium 1 Os Homens que Não Amavam as Mulheres
-http://vipeiptv.com:25461/movie/taylor/taylor/963452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Millennium 2 A Menina que Brincava com Fogo" tvg-logo="http://listaccess.me:8880/images/qHRpU2d9NWB0WDulwgFwg6a9JRK_small.jpg" group-title="FILMES | DRAMA",Millennium 2 A Menina que Brincava com Fogo
-http://vipeiptv.com:25461/movie/taylor/taylor/963453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Millennium 3 A Rainha do Castelo de Ar" tvg-logo="http://listaccess.me:8880/images/npbvrALDJ48MjXec5ZELpYvaAGs_small.jpg" group-title="FILMES | DRAMA",Millennium 3 A Rainha do Castelo de Ar
-http://vipeiptv.com:25461/movie/taylor/taylor/963454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha Primeira Luta" tvg-logo="http://listaccess.me:8080/images/zwmtK6A7jwriIY0gh0HUgvI1ETA_small.jpg" group-title="FILMES | DRAMA",Minha Primeira Luta
-http://vipeiptv.com:25461/movie/taylor/taylor/963455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mogli - Entre Dois Mundos" tvg-logo="http://listaccess.me:8880/images/wdj8FK2bCA7iNtZRSzJHrltAwnr_small.jpg" group-title="FILMES | DRAMA",Mogli - Entre Dois Mundos
-http://vipeiptv.com:25461/movie/taylor/taylor/963456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mogli - O Menino Lobo" tvg-logo="http://listaccess.me:8880/images/vOipe2myi26UDwP978hsYOrnUWC_small.jpg" group-title="FILMES | DRAMA",Mogli - O Menino Lobo
-http://vipeiptv.com:25461/movie/taylor/taylor/963457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Moneyball - O Homem que Mudo ou Jogo" tvg-logo="http://listaccess.me:8880/images/3oAa8mJJ97CH9AeGEY6vjAxqcvZ_small.jpg" group-title="FILMES | DRAMA",Moneyball - O Homem que Mudo ou Jogo
-http://vipeiptv.com:25461/movie/taylor/taylor/963458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mudo" tvg-logo="http://listaccess.me:8080/images/ihGg1xndLl3MW34Km332pNkyLH7_small.jpg" group-title="FILMES | DRAMA",Mudo
-http://vipeiptv.com:25461/movie/taylor/taylor/963459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Musica Amigos e Festa" tvg-logo="http://listaccess.me:8880/images/accc6f6h3Xi8kURvYpPoATOsm2Z_small.jpg" group-title="FILMES | DRAMA",Musica Amigos e Festa
-http://vipeiptv.com:25461/movie/taylor/taylor/963460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mãos Talentosas A Historia de Ben Carson" tvg-logo="http://listaccess.me:8880/images/zeHQSqzYintF4AmFHe5BTG9gCAG_small.jpg" group-title="FILMES | DRAMA",Mãos Talentosas A Historia de Ben Carson
-http://vipeiptv.com:25461/movie/taylor/taylor/963461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Natureza Selvagem" tvg-logo="http://assistirpainel.ddns.net:8880/images/0225eb1a274ece1a897b2d7c38a39d55.jpg" group-title="FILMES | DRAMA",Na Natureza Selvagem
-http://vipeiptv.com:25461/movie/taylor/taylor/963462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Trilha da Fama" tvg-logo="http://listaccess.me:8880/images/b1fdAQC87xpxKzfP1akrrmsDR6R_small.jpg" group-title="FILMES | DRAMA",Na Trilha da Fama
-http://vipeiptv.com:25461/movie/taylor/taylor/963463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nada a Perder" tvg-logo="http://listaccess.me:8880/images/l1XGiS2tXIR4IP4bdqdmlG6Hhbd_small.jpg" group-title="FILMES | DRAMA",Nada a Perder
-http://vipeiptv.com:25461/movie/taylor/taylor/963464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nascido Para Matar" tvg-logo="http://listaccess.me:8880/images/29veIwD38rVL2qY74emXQw4y25H_small.jpg" group-title="FILMES | DRAMA",Nascido Para Matar
-http://vipeiptv.com:25461/movie/taylor/taylor/963465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No Coração do Mar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0f6zLv2TwhscRFDRnbcw8McBeI.jpg" group-title="FILMES | DRAMA",No Coração do Mar
-http://vipeiptv.com:25461/movie/taylor/taylor/963466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noites de Tormenta" tvg-logo="http://listaccess.me:8880/images/kFQRUV5CspwoY7G0rVh5CZT8j6A_small.jpg" group-title="FILMES | DRAMA",Noites de Tormenta
-http://vipeiptv.com:25461/movie/taylor/taylor/963467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Lar" tvg-logo="http://listaccess.me:8880/images/ccUQPXzB48dUTG87AKX10n1MlrT_small.jpg" group-title="FILMES | DRAMA",Nosso Lar
-http://vipeiptv.com:25461/movie/taylor/taylor/963468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Náufrago" tvg-logo="http://listaccess.me:8880/images/w515BrZvczKIxbHurG6HIiYYrba_small.jpg" group-title="FILMES | DRAMA",Náufrago
-http://vipeiptv.com:25461/movie/taylor/taylor/963469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O 12 Homem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/labSb6IhlVZQY5D7SyQmCVByO7w.jpg" group-title="FILMES | DRAMA",O 12 Homem
-http://vipeiptv.com:25461/movie/taylor/taylor/963470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Abutre" tvg-logo="http://listaccess.me:8880/images/8oPY6ULFOTbAEskySNhgsUIN4fW_small.jpg" group-title="FILMES | DRAMA",O Abutre
-http://vipeiptv.com:25461/movie/taylor/taylor/963471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Anjo Malvado" tvg-logo="http://listaccess.me:8880/images/813ZVK1ox32vr3FexdTlv9PHFD6_small.jpg" group-title="FILMES | DRAMA",O Anjo Malvado
-http://vipeiptv.com:25461/movie/taylor/taylor/963472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Aviador" tvg-logo="http://listaccess.me:8880/images/8UXmFjBN5HiUflGzG6PHVYAvCEE_small.jpg" group-title="FILMES | DRAMA",O Aviador
-http://vipeiptv.com:25461/movie/taylor/taylor/963473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Banqueiro da Resistencia" tvg-logo="http://listaccess.me:8880/images/sqAJF2muVamUQfmGmrRK9w8s1KS_small.jpg" group-title="FILMES | DRAMA",O Banqueiro da Resistencia
-http://vipeiptv.com:25461/movie/taylor/taylor/963474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Canto da Sereia" tvg-logo="http://listaccess.me:8880/images/1gYQg0FD9ZVyFVgBP6K2tm7vqvc_small.jpg" group-title="FILMES | DRAMA",O Canto da Sereia
-http://vipeiptv.com:25461/movie/taylor/taylor/963475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Circulo" tvg-logo="http://assistirpainel.ddns.net:8880/images/bQVqd5rWrx5GbXhJNuvKy4Viz6j_small.jpg" group-title="FILMES | DRAMA",O Circulo
-http://vipeiptv.com:25461/movie/taylor/taylor/963476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Colecionador de Ossos" tvg-logo="http://listaccess.me:8880/images/dCTuPRukbDs3mOSx9SD0PCMRd2g_small.jpg" group-title="FILMES | DRAMA",O Colecionador de Ossos
-http://vipeiptv.com:25461/movie/taylor/taylor/963477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Conto" tvg-logo="http://listaccess.me:8880/images/aguq47xq3qhN807rSyz4lJyhAkX_small.jpg" group-title="FILMES | DRAMA",O Conto
-http://vipeiptv.com:25461/movie/taylor/taylor/963478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Curioso Caso de Benjamin Button" tvg-logo="http://listaccess.me:8080/images/4O4INOPtWTfHq3dd5vYTPV0TCwa_small.jpg" group-title="FILMES | DRAMA",O Curioso Caso de Benjamin Button
-http://vipeiptv.com:25461/movie/taylor/taylor/963479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Destino de uma Nação" tvg-logo="http://listaccess.me:8080/images/xa6G3aKlysQeVg9wOb0dRcIGlWu_small.jpg" group-title="FILMES | DRAMA",O Destino de uma Nação
-http://vipeiptv.com:25461/movie/taylor/taylor/963480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Diário de uma Adolescente" tvg-logo="http://listaccess.me:8880/images/tp6cKoQOb9gY9DbhQmWIk7wdMkS_small.jpg" group-title="FILMES | DRAMA",O Diário de uma Adolescente
-http://vipeiptv.com:25461/movie/taylor/taylor/963481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Encantador de Cavalos (LG)" tvg-logo="http://listaccess.me:8880/images/zKQM4JVDqd6UzBht4e7qeBT7gjC_small.jpg" group-title="FILMES | DRAMA",O Encantador de Cavalos (LG)
-http://vipeiptv.com:25461/movie/taylor/taylor/963482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Filme da Minha Vida" tvg-logo="http://listaccess.me:8880/images/tZ544US8qblE1saWrvbH2U17vUD_small.jpg" group-title="FILMES | DRAMA",O Filme da Minha Vida
-http://vipeiptv.com:25461/movie/taylor/taylor/963483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Guarda-Costas em Ação" tvg-logo="http://listaccess.me:8880/images/2Dk0QPwrKYTBuplnEzrfnwGPRyc_small.jpg" group-title="FILMES | DRAMA",O Guarda-Costas em Ação
-http://vipeiptv.com:25461/movie/taylor/taylor/963484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Inventou o Natal" tvg-logo="http://listaccess.me:8880/images/qRkzRue5rTzB6PESXBJCKqROOXC_small.jpg" group-title="FILMES | DRAMA",O Homem Que Inventou o Natal
-http://vipeiptv.com:25461/movie/taylor/taylor/963485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Mudou O Jogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8h3wKba6ERnihW44MzgkNh5Vchm.jpg" group-title="FILMES | DRAMA",O Homem Que Mudou O Jogo
-http://vipeiptv.com:25461/movie/taylor/taylor/963486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Impossivel" tvg-logo="http://listaccess.me:8880/images/wMHXE4qkxBdaahCNhCK2wPJHRKD_small.jpg" group-title="FILMES | DRAMA",O Impossivel
-http://vipeiptv.com:25461/movie/taylor/taylor/963487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Invisivel" tvg-logo="http://listaccess.me:8880/images/qmWEb9RTlGFaUKork4tIgKcLkqH_small.jpg" group-title="FILMES | DRAMA",O Invisivel
-http://vipeiptv.com:25461/movie/taylor/taylor/963488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Jardim das Aflicoes" tvg-logo="http://listaccess.me:8880/images/eu2e0zwmuR5RV0LLXAybBrUX26e_small.jpg" group-title="FILMES | DRAMA",O Jardim das Aflicoes
-http://vipeiptv.com:25461/movie/taylor/taylor/963489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Jardim das Aflições" tvg-logo="http://assistirpainel.ddns.net:8880/images/f27fa9a83959afaaa2c008b0e1d0373a.jpg" group-title="FILMES | DRAMA",O Jardim das Aflições
-http://vipeiptv.com:25461/movie/taylor/taylor/963490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Jardim Secreto" tvg-logo="http://listaccess.me:8080/images/u0viU22u7ABDESyoPMcvM2jr4hJ_small.jpg" group-title="FILMES | DRAMA",O Jardim Secreto
-http://vipeiptv.com:25461/movie/taylor/taylor/963491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Jardineiro Fiel" tvg-logo="http://listaccess.me:8880/images/r7QOXMcuIqZUeIVXVc4BCZrd9ni_small.jpg" group-title="FILMES | DRAMA",O Jardineiro Fiel
-http://vipeiptv.com:25461/movie/taylor/taylor/963492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Jogo da Imitação" tvg-logo="http://listaccess.me:8880/images/noUp0XOqIcmgefRnRZa1nhtRvWO_small.jpg" group-title="FILMES | DRAMA",O Jogo da Imitação
-http://vipeiptv.com:25461/movie/taylor/taylor/963493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Juiz - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVLxNo53QniZxxRaYPB3vY7PRFN.jpg" group-title="FILMES | DRAMA",O Juiz - 1995
-http://vipeiptv.com:25461/movie/taylor/taylor/963494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Juíz 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1NBG5CmYFAuLfOAoFQHzZhG1X.jpg" group-title="FILMES | DRAMA",O Juíz 2014
-http://vipeiptv.com:25461/movie/taylor/taylor/963495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Leitor" tvg-logo="http://listaccess.me:8880/images/mEqgCzhGO3gi9DkevgM7N6a5mY3_small.jpg" group-title="FILMES | DRAMA",O Leitor
-http://vipeiptv.com:25461/movie/taylor/taylor/963496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Livro de Genesis" tvg-logo="http://listaccess.me:8880/images/jQD2mWkE5Mvm1ISrgHBunUAqFzz_small.jpg" group-title="FILMES | DRAMA",O Livro de Genesis
-http://vipeiptv.com:25461/movie/taylor/taylor/963497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Lobo de Wall Street" tvg-logo="http://listaccess.me:8880/images/vK1o5rZGqxyovfIhZyMELhk03wO_small.jpg" group-title="FILMES | DRAMA",O Lobo de Wall Street
-http://vipeiptv.com:25461/movie/taylor/taylor/963498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mago das Mentiras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMBt2IsCoPfOheOTbQH9UtRdXlg.jpg" group-title="FILMES | DRAMA",O Mago das Mentiras
-http://vipeiptv.com:25461/movie/taylor/taylor/963499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Menino do Pijama Listrado" tvg-logo="http://listaccess.me:8880/images/f40R9to84FGF7T5bp3KGB84Lklb_small.jpg" group-title="FILMES | DRAMA",O Menino do Pijama Listrado
-http://vipeiptv.com:25461/movie/taylor/taylor/963500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério da Libélula" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbe2lBON4rBa8Ph7RJDBEvUqD90.jpg" group-title="FILMES | DRAMA",O Mistério da Libélula
-http://vipeiptv.com:25461/movie/taylor/taylor/963501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Nascimento de uma Nação" tvg-logo="http://assistirpainel.ddns.net:8880/images/1f930e3669937242f00f7bcb3ac1934b.jpg" group-title="FILMES | DRAMA",O Nascimento de uma Nação
-http://vipeiptv.com:25461/movie/taylor/taylor/963502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Nome da Morte" tvg-logo="http://listaccess.me:8880/images/6DFSDkkN31rNIch3OVEpDF5BrsF_small.jpg" group-title="FILMES | DRAMA",O Nome da Morte
-http://vipeiptv.com:25461/movie/taylor/taylor/963503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Odio que Voce Semeia" tvg-logo="http://listaccess.me:8880/images/2icwBom0t5nmOuZI9FVXF3gkMK0_small.jpg" group-title="FILMES | DRAMA",O Odio que Voce Semeia
-http://vipeiptv.com:25461/movie/taylor/taylor/963504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Patriota" tvg-logo="http://listaccess.me:8880/images/tgXOraQmKatqrVs2KMgnNn6QpO_small.jpg" group-title="FILMES | DRAMA",O Patriota
-http://vipeiptv.com:25461/movie/taylor/taylor/963505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Peregrino" tvg-logo="http://listaccess.me:8880/images/4T4p3OFaE9snIm76JZJblwm5UYr_small.jpg" group-title="FILMES | DRAMA",O Peregrino
-http://vipeiptv.com:25461/movie/taylor/taylor/963506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pianista" tvg-logo="http://listaccess.me:8880/images/iunmxWkOi7Vk17Ob3G2HwwjgHsr_small.jpg" group-title="FILMES | DRAMA",O Pianista
-http://vipeiptv.com:25461/movie/taylor/taylor/963507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Poder e a Lei" tvg-logo="http://listaccess.me:8880/images/bTXtxFUyqQ6T9FRa3ajSdMtwnAj_small.jpg" group-title="FILMES | DRAMA",O Poder e a Lei
-http://vipeiptv.com:25461/movie/taylor/taylor/963508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefao 1" tvg-logo="http://listaccess.me:8080/images/rPdtLWNsZmAtoZl9PK7S2wE3qiS_small.jpg" group-title="FILMES | DRAMA",O Poderoso Chefao 1
-http://vipeiptv.com:25461/movie/taylor/taylor/963509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefão 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yB3AkkGMFplGlnPqQZ38W7bdD10.jpg" group-title="FILMES | DRAMA",O Poderoso Chefão 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefao 3" tvg-logo="http://listaccess.me:8080/images/1hdm3Axw9LjITbApvAXBbqO58zE_small.jpg" group-title="FILMES | DRAMA",O Poderoso Chefao 3
-http://vipeiptv.com:25461/movie/taylor/taylor/963511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Preço da Liberdade" tvg-logo="http://listaccess.me:8080/images/ztpZw7YYLVC79mQMiPVWUoUVIPb_small.jpg" group-title="FILMES | DRAMA",O Preço da Liberdade
-http://vipeiptv.com:25461/movie/taylor/taylor/963512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Milhão" tvg-logo="http://listaccess.me:8880/images/saPIJPgg5EHyduryuRAEr8y3SuX_small.jpg" group-title="FILMES | DRAMA",O Primeiro Milhão
-http://vipeiptv.com:25461/movie/taylor/taylor/963513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Quarto de Jack" tvg-logo="http://listaccess.me:8880/images/eqFckcHuFCT1FrzLOAvXBb4jHwq_small.jpg" group-title="FILMES | DRAMA",O Quarto de Jack
-http://vipeiptv.com:25461/movie/taylor/taylor/963514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Que Te Faz Mais Forte" tvg-logo="http://listaccess.me:8880/images/2TDroy5YKKCthnXnAERjjGnusKw_small.jpg" group-title="FILMES | DRAMA",O Que Te Faz Mais Forte
-http://vipeiptv.com:25461/movie/taylor/taylor/963515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Quebra Cabeca" tvg-logo="http://listaccess.me:8880/images/axEHNlZguGLwmKfDXyRpGVMGRFI_small.jpg" group-title="FILMES | DRAMA",O Quebra Cabeca
-http://vipeiptv.com:25461/movie/taylor/taylor/963516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Refugiado" tvg-logo="http://listaccess.me:8080/images/2ID9xRpzM18lc8yIKPxvys4kYQB_small.jpg" group-title="FILMES | DRAMA",O Refugiado
-http://vipeiptv.com:25461/movie/taylor/taylor/963517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Show" tvg-logo="http://listaccess.me:8880/images/b9CeobiihCx1uG1tpw8hXmpi7nm_small.jpg" group-title="FILMES | DRAMA",O Rei do Show
-http://vipeiptv.com:25461/movie/taylor/taylor/963518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Resgate Do Soldado Ryan" tvg-logo="http://listaccess.me:8880/images/miDoEMlYDJhOCvxlzI0wZqBs9Yt_small.jpg" group-title="FILMES | DRAMA",O Resgate Do Soldado Ryan
-http://vipeiptv.com:25461/movie/taylor/taylor/963519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor das Armas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLxbDZ1h7wbHo7mkyX5AR9hjODe.jpg" group-title="FILMES | DRAMA",O Senhor das Armas
-http://vipeiptv.com:25461/movie/taylor/taylor/963520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Silêncio dos Inocentes" tvg-logo="http://212.8.243.43:8880/images/io8mD5Tk8qneF98qyoYlPqrahyfRsnGR.jpg" group-title="FILMES | DRAMA",O Silêncio dos Inocentes
-http://vipeiptv.com:25461/movie/taylor/taylor/963521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Sobrevivente" tvg-logo="http://listaccess.me:8880/images/hd491WgKPxeQus2LnvFbYmyUFmt_small.jpg" group-title="FILMES | DRAMA",O Sobrevivente
-http://vipeiptv.com:25461/movie/taylor/taylor/963522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Som do Coração" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gixbzn3p5sgopDSPWLvWNVblLkK.jpg" group-title="FILMES | DRAMA",O Som do Coração
-http://vipeiptv.com:25461/movie/taylor/taylor/963523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Trote" tvg-logo="http://listaccess.me:8880/images/j324TuN9jnuPiGIEbigybdlgel2_small.jpg" group-title="FILMES | DRAMA",O Trote
-http://vipeiptv.com:25461/movie/taylor/taylor/963524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Ultimo na Terra" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwMTUwODUzNV5BMl5BanBnXkFtZTgwMDIxMDE5NTE@._V1_UY209_CR0,0,140,209_AL_.jpg" group-title="FILMES | DRAMA",O Ultimo na Terra
-http://vipeiptv.com:25461/movie/taylor/taylor/963525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Vendedor de Sonhos" tvg-logo="http://listaccess.me:8880/images/hV6l4wOhPDbEflqM1A2047D4F0E_small.jpg" group-title="FILMES | DRAMA",O Vendedor de Sonhos
-http://vipeiptv.com:25461/movie/taylor/taylor/963526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Vizinho" tvg-logo="http://listaccess.me:8880/images/xrYPVqmUrmOolwh77bldbRfQdLx_small.jpg" group-title="FILMES | DRAMA",O Vizinho
-http://vipeiptv.com:25461/movie/taylor/taylor/963527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Voo" tvg-logo="http://listaccess.me:8880/images/8XEbkjgorAm9xk15mF63jqJ4ByV_small.jpg" group-title="FILMES | DRAMA",O Voo
-http://vipeiptv.com:25461/movie/taylor/taylor/963528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Zoológico de Varsóvia" tvg-logo="http://listaccess.me:8880/images/50KGpMiIvSkF4WHOgp0gM6r6sMU_small.jpg" group-title="FILMES | DRAMA",O Zoológico de Varsóvia
-http://vipeiptv.com:25461/movie/taylor/taylor/963529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Okja" tvg-logo="http://listaccess.me:8880/images/pHlRr2MfjK77VIIAO7p0R4jhsJI_small.jpg" group-title="FILMES | DRAMA",Okja
-http://vipeiptv.com:25461/movie/taylor/taylor/963530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Olga" tvg-logo="http://listaccess.me:8880/images/2K0g91dSCYdIApEHq02Svglxg25_small.jpg" group-title="FILMES | DRAMA",Olga
-http://vipeiptv.com:25461/movie/taylor/taylor/963531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Olhar de Anjo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6wXVORMReNWsLY502iBp6ztN42.jpg" group-title="FILMES | DRAMA",Olhar de Anjo
-http://vipeiptv.com:25461/movie/taylor/taylor/963532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Olhos da Justica" tvg-logo="http://listaccess.me:8880/images/jHaJkzzmxjwXnvNHBFqXd8l4UE4_small.jpg" group-title="FILMES | DRAMA",Olhos da Justica
-http://vipeiptv.com:25461/movie/taylor/taylor/963533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Onde os Fracos Nao Tem Vez" tvg-logo="http://listaccess.me:8880/images/nBaqryObPuxmuAndWUjDE5rriTd_small.jpg" group-title="FILMES | DRAMA",Onde os Fracos Nao Tem Vez
-http://vipeiptv.com:25461/movie/taylor/taylor/963534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operacao Baba" tvg-logo="http://listaccess.me:8880/images/mHFWjLbJYWFxgrfTAHgbLbVcFug_small.jpg" group-title="FILMES | DRAMA",Operacao Baba
-http://vipeiptv.com:25461/movie/taylor/taylor/963535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operacao Final" tvg-logo="http://listaccess.me:8880/images/nlIdPeH5IrR1qRErschnVQeZAQu_small.jpg" group-title="FILMES | DRAMA",Operacao Final
-http://vipeiptv.com:25461/movie/taylor/taylor/963536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operacao Valquiria" tvg-logo="http://listaccess.me:8880/images/54GgkO63zZyJJb5Fk2CKvNIoUvr_small.jpg" group-title="FILMES | DRAMA",Operacao Valquiria
-http://vipeiptv.com:25461/movie/taylor/taylor/963537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Orgulho e Preconceito" tvg-logo="http://listaccess.me:8880/images/lAb9l4kgc6QWnHamBzTnskt71A7_small.jpg" group-title="FILMES | DRAMA",Orgulho e Preconceito
-http://vipeiptv.com:25461/movie/taylor/taylor/963538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os 33" tvg-logo="http://listaccess.me:8880/images/6QkKCZCfFQ91jjRZgHndiE2npmw_small.jpg" group-title="FILMES | DRAMA",Os 33
-http://vipeiptv.com:25461/movie/taylor/taylor/963539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Dez Mandamentos" tvg-logo="http://listaccess.me:8080/images/34b7N1psBDjR4gBQIzji0pjxtmj_small.jpg" group-title="FILMES | DRAMA",Os Dez Mandamentos
-http://vipeiptv.com:25461/movie/taylor/taylor/963540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Miseraveis" tvg-logo="http://listaccess.me:8880/images/zyPZSyRWQGXe0usHOaYR2hyAA0S_small.jpg" group-title="FILMES | DRAMA",Os Miseraveis
-http://vipeiptv.com:25461/movie/taylor/taylor/963541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Piratas da Somalia" tvg-logo="http://listaccess.me:8880/images/a8dlDPwo9mnorurL6ukIpyHZZd7_small.jpg" group-title="FILMES | DRAMA",Os Piratas da Somalia
-http://vipeiptv.com:25461/movie/taylor/taylor/963542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Piratas da Somalia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11VlmlsgLXihYqwfTrhEalg8d7v.jpg" group-title="FILMES | DRAMA",Os Piratas da Somalia
-http://vipeiptv.com:25461/movie/taylor/taylor/963543.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ouro e Cobiça" tvg-logo="http://listaccess.me:8880/images/d6AipVF4SDYqxGeivfs3yzsNUs7_small.jpg" group-title="FILMES | DRAMA",Ouro e Cobiça
-http://vipeiptv.com:25461/movie/taylor/taylor/963544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paixao Sem Limites" tvg-logo="http://listaccess.me:8880/images/7DGYohz2tyo0mpkVxsccqBTf9vl_small.jpg" group-title="FILMES | DRAMA",Paixao Sem Limites
-http://vipeiptv.com:25461/movie/taylor/taylor/963545.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Papillon" tvg-logo="http://listaccess.me:8880/images/ahF5c6vyP8HWMqIwlhecbRALkjq_small.jpg" group-title="FILMES | DRAMA",Papillon
-http://vipeiptv.com:25461/movie/taylor/taylor/963546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Para Salvar Uma Vida" tvg-logo="http://listaccess.me:8880/images/qg9WrLmY29vvu57tL6A8yy0JaIV_small.jpg" group-title="FILMES | DRAMA",Para Salvar Uma Vida
-http://vipeiptv.com:25461/movie/taylor/taylor/963547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Para Sempre Chape" tvg-logo="http://listaccess.me:8880/images/zYskC9OPOqYq5FaBvrPl7yWODZR_small.jpg" group-title="FILMES | DRAMA",Para Sempre Chape
-http://vipeiptv.com:25461/movie/taylor/taylor/963548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Para Sempre Vencedor" tvg-logo="http://listaccess.me:8080/images/6UMwStGL0qHXe3xurnZkzc1k76i_small.jpg" group-title="FILMES | DRAMA",Para Sempre Vencedor
-http://vipeiptv.com:25461/movie/taylor/taylor/963549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Passageiros" tvg-logo="http://listaccess.me:8880/images/5gJkVIVU7FDp7AfRAbPSvvdbre2_small.jpg" group-title="FILMES | DRAMA",Passageiros
-http://vipeiptv.com:25461/movie/taylor/taylor/963550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patch Adams - O Amor É Contagioso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiVEMx2cBdhpQu2WkSfk1l334Qe.jpg" group-title="FILMES | DRAMA",Patch Adams - O Amor É Contagioso
-http://vipeiptv.com:25461/movie/taylor/taylor/963551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pearl Harbor" tvg-logo="http://listaccess.me:8880/images/gzjMpcyV1RksWonaA87DZ8wQTH0_small.jpg" group-title="FILMES | DRAMA",Pearl Harbor
-http://vipeiptv.com:25461/movie/taylor/taylor/963552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pecados de Guerra" tvg-logo="http://listaccess.me:8880/images/vwIkjKYMrlewvxjLICR4v4cfGPN_small.jpg" group-title="FILMES | DRAMA",Pecados de Guerra
-http://vipeiptv.com:25461/movie/taylor/taylor/963553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perdido Em marte" tvg-logo="http://listaccess.me:8880/images/5aGhaIHYuQbqlHWvWYqMCnj40y2_small.jpg" group-title="FILMES | DRAMA",Perdido Em marte
-http://vipeiptv.com:25461/movie/taylor/taylor/963554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historia de um Assassino" tvg-logo="http://listaccess.me:8880/images/zC9JHS6NlkJKPYFxOOqBl7fQCjT_small.jpg" group-title="FILMES | DRAMA",Historia de um Assassino
-http://vipeiptv.com:25461/movie/taylor/taylor/963555.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perigo Na Montanha" tvg-logo="http://listaccess.me:8080/images/253Bw5I3Zj3e2thCThjO7byEUCL_small.jpg" group-title="FILMES | DRAMA",Perigo Na Montanha
-http://vipeiptv.com:25461/movie/taylor/taylor/963556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Piratas do Vale do Silicio" tvg-logo="http://listaccess.me:8880/images/62NXimypwBEiu9IS2Z6R5OI5Ncu_small.jpg" group-title="FILMES | DRAMA",Piratas do Vale do Silicio
-http://vipeiptv.com:25461/movie/taylor/taylor/963557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Piratas Vale do Silicio" tvg-logo="http://listaccess.me:8880/images/62NXimypwBEiu9IS2Z6R5OI5Ncu_small.jpg" group-title="FILMES | DRAMA",Piratas Vale do Silicio
-http://vipeiptv.com:25461/movie/taylor/taylor/963558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ponte para Terabitia" tvg-logo="http://listaccess.me:8880/images/gihMBO2SmUprI1ecYe7Eo7Eg1yq_small.jpg" group-title="FILMES | DRAMA",Ponte para Terabitia
-http://vipeiptv.com:25461/movie/taylor/taylor/963559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Preciosa - Uma Historia de Esperanca" tvg-logo="http://listaccess.me:8880/images/lxfzUHApXiiigjSiidj9YBNkeil_small.jpg" group-title="FILMES | DRAMA",Preciosa - Uma Historia de Esperanca
-http://vipeiptv.com:25461/movie/taylor/taylor/963560.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Preciosa: Uma História de Esperança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hdU46d875iO4DYlJHrI9vleZmw.jpg" group-title="FILMES | DRAMA",Preciosa: Uma História de Esperança
-http://vipeiptv.com:25461/movie/taylor/taylor/963561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Precisamos Falar Sobre o Kevin" tvg-logo="http://listaccess.me:8880/images/TBNvX42VMq5vRNppY27mPYEz4Z_small.jpg" group-title="FILMES | DRAMA",Precisamos Falar Sobre o Kevin
-http://vipeiptv.com:25461/movie/taylor/taylor/963562.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Prenda Me Se For Capaz" tvg-logo="http://listaccess.me:8880/images/MywWCQGJNUr5kivAQ7eseCG7rm_small.jpg" group-title="FILMES | DRAMA",Prenda Me Se For Capaz
-http://vipeiptv.com:25461/movie/taylor/taylor/963563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primeiro Da Classe" tvg-logo="http://listaccess.me:8880/images/x7sHM9q72ygzvC1F3rprVBVsaYA_small.jpg" group-title="FILMES | DRAMA",Primeiro Da Classe
-http://vipeiptv.com:25461/movie/taylor/taylor/963564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="a Rainha do Deserto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9TN88abLK77JwKBkKXgYg0nCt8.jpg" group-title="FILMES | DRAMA",a Rainha do Deserto
-http://vipeiptv.com:25461/movie/taylor/taylor/963565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Programado Para Vencer" tvg-logo="http://listaccess.me:8880/images/w8sBqGSko8OBsKbK6z7gPvRfp7F_small.jpg" group-title="FILMES | DRAMA",Programado Para Vencer
-http://vipeiptv.com:25461/movie/taylor/taylor/963566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Promessas de Guerra" tvg-logo="http://listaccess.me:8880/images/kIlVtC22BDNiiAiCvSZoOS7FhY9_small.jpg" group-title="FILMES | DRAMA",Promessas de Guerra
-http://vipeiptv.com:25461/movie/taylor/taylor/963567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quando os Anjos Dormem" tvg-logo="http://listaccess.me:8880/images/zikvJ0XscL7vVeJln0ZagGXw5wY_small.jpg" group-title="FILMES | DRAMA",Quando os Anjos Dormem
-http://vipeiptv.com:25461/movie/taylor/taylor/963568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quase Amigos" tvg-logo="http://listaccess.me:8880/images/uJMknKxZagbhAYiiMjEaFnsZzRR_small.jpg" group-title="FILMES | DRAMA",Quase Amigos
-http://vipeiptv.com:25461/movie/taylor/taylor/963569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quase Deuses" tvg-logo="http://listaccess.me:8880/images/xPlaalqwyApbZkKRLnOyLVxkp09_small.jpg" group-title="FILMES | DRAMA",Quase Deuses
-http://vipeiptv.com:25461/movie/taylor/taylor/963570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quatro Amigas e Um Jeans Viajante 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hko3QJ0NR7bjS73LVjcX1MKrIt5.jpg" group-title="FILMES | DRAMA",Quatro Amigas e Um Jeans Viajante 1
-http://vipeiptv.com:25461/movie/taylor/taylor/963571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quatro Amigas e Um Jeans Viajante 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UefFbPLXtUNIwyUjT1Qy7KOoLl.jpg" group-title="FILMES | DRAMA",Quatro Amigas e Um Jeans Viajante 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963572.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quebrando a Banca" tvg-logo="http://212.8.243.43:8880/images/beced243c9d6f0f0fe158f058002ce05.jpg" group-title="FILMES | DRAMA",Quebrando a Banca
-http://vipeiptv.com:25461/movie/taylor/taylor/963573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quebrando Regras" tvg-logo="http://listaccess.me:8880/images/6vT35MJ67U3llfi6W7MbM5r2dav_small.jpg" group-title="FILMES | DRAMA",Quebrando Regras
-http://vipeiptv.com:25461/movie/taylor/taylor/963574.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quebrando Regras 2" tvg-logo="http://listaccess.me:8880/images/qeISu4rUk9l9sQTMs86fAoxSx8p_small.jpg" group-title="FILMES | DRAMA",Quebrando Regras 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963575.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quebrando Regras 3" tvg-logo="http://listaccess.me:8880/images/dYNS4o4Q4DDLiKRAAvZ9KcrhHuy_small.jpg" group-title="FILMES | DRAMA",Quebrando Regras 3
-http://vipeiptv.com:25461/movie/taylor/taylor/963576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quem Quer Ser um Milionário?" tvg-logo="http://listaccess.me:8080/images/9zknVczWOLhTKnT9nbX2IOCHtZn_small.jpg" group-title="FILMES | DRAMA",Quem Quer Ser um Milionário?
-http://vipeiptv.com:25461/movie/taylor/taylor/963577.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Recuperando a Esperanca" tvg-logo="http://listaccess.me:8880/images/6o9JGwMVNcupicJLht7mpbTFOxp_small.jpg" group-title="FILMES | DRAMA",Recuperando a Esperanca
-http://vipeiptv.com:25461/movie/taylor/taylor/963578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reine Sobre Mim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqfSRqabERrDAKoFOirsgwpwFmW.jpg" group-title="FILMES | DRAMA",Reine Sobre Mim
-http://vipeiptv.com:25461/movie/taylor/taylor/963579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Relatos Selvagens" tvg-logo="http://assistirpainel.ddns.net:8880/images/8qc4aWkYJVXaWcypDusuudnME18_small.jpg" group-title="FILMES | DRAMA",Relatos Selvagens
-http://vipeiptv.com:25461/movie/taylor/taylor/963580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Relação em Risco" tvg-logo="http://listaccess.me:8880/images/unJXZA2IeJ6aTs7tplTTbVRgBjZ_small.jpg" group-title="FILMES | DRAMA",Relação em Risco
-http://vipeiptv.com:25461/movie/taylor/taylor/963581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resgate Abaixo de Zero" tvg-logo="http://listaccess.me:8880/images/b25TensrtHJNGeYFFtI86GMO27a_small.jpg" group-title="FILMES | DRAMA",Resgate Abaixo de Zero
-http://vipeiptv.com:25461/movie/taylor/taylor/963582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ressurreição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hGh4z503k8wA8mLlmvwhTSGja.jpg" group-title="FILMES | DRAMA",Ressurreição
-http://vipeiptv.com:25461/movie/taylor/taylor/963583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Riphagen" tvg-logo="http://listaccess.me:8880/images/xiiDRtDBlU1kyN2yRBqVWEEeYl8_small.jpg" group-title="FILMES | DRAMA",Riphagen
-http://vipeiptv.com:25461/movie/taylor/taylor/963584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky" tvg-logo="http://listaccess.me:8080/images/9TUR3s1PMJHwDRbpm7PWQ0S7IRy_small.jpg" group-title="FILMES | DRAMA",Rocky
-http://vipeiptv.com:25461/movie/taylor/taylor/963585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 2" tvg-logo="http://listaccess.me:8080/images/fqJH7mI4dFANRay8qdJoGa7fK1k_small.jpg" group-title="FILMES | DRAMA",Rocky 2
-http://vipeiptv.com:25461/movie/taylor/taylor/963586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 3" tvg-logo="http://listaccess.me:8080/images/ns55NGqTDEEjcI9z2a9htA2cFtG_small.jpg" group-title="FILMES | DRAMA",Rocky 3
-http://vipeiptv.com:25461/movie/taylor/taylor/963587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 4" tvg-logo="http://listaccess.me:8080/images/jmvpwgW5M2kduR9zB0q8qGFC4zM_small.jpg" group-title="FILMES | DRAMA",Rocky 4
-http://vipeiptv.com:25461/movie/taylor/taylor/963588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 5" tvg-logo="http://listaccess.me:8080/images/5P2RiuLt31mWyb6duww8qlAhs6G_small.jpg" group-title="FILMES | DRAMA",Rocky 5
-http://vipeiptv.com:25461/movie/taylor/taylor/963589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 6" tvg-logo="http://listaccess.me:8080/images/n82AAPWnAafDAZjxkYK2rAPwk4A_small.jpg" group-title="FILMES | DRAMA",Rocky 6
-http://vipeiptv.com:25461/movie/taylor/taylor/963590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rounders" tvg-logo="http://listaccess.me:8080/images/j5IzmdWdO5CqgeoyJLZ1dO7w375_small.jpg" group-title="FILMES | DRAMA",Rounders
-http://vipeiptv.com:25461/movie/taylor/taylor/963591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rush No Limite da Emocao" tvg-logo="http://assistirpainel.ddns.net:8880/images/cjEepHZOZAwmK6nAj5jis6HV75E_small.jpg" group-title="FILMES | DRAMA",Rush No Limite da Emocao
-http://vipeiptv.com:25461/movie/taylor/taylor/963592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salvo Pela Graca" tvg-logo="http://listaccess.me:8880/images/46u4AO53PFXgMttPfDDwsVlzkTl_small.jpg" group-title="FILMES | DRAMA",Salvo Pela Graca
-http://vipeiptv.com:25461/movie/taylor/taylor/963593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Eu Ficar" tvg-logo="http://listaccess.me:8880/images/mLnBvLD3qJC82rhjJFZJijfYkFD_small.jpg" group-title="FILMES | DRAMA",Se Eu Ficar
-http://vipeiptv.com:25461/movie/taylor/taylor/963594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Secretariat" tvg-logo="http://listaccess.me:8880/images/nk7pQIFhMhAJV6rCYPyeuvRk9x3_small.jpg" group-title="FILMES | DRAMA",Secretariat
-http://vipeiptv.com:25461/movie/taylor/taylor/963595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sempre ao Seu Lado" tvg-logo="http://assistirpainel.ddns.net:8880/images/3MpVmIg6CgOCUrZ2TZ2P0yitCbM_small.jpg" group-title="FILMES | DRAMA",Sempre ao Seu Lado
-http://vipeiptv.com:25461/movie/taylor/taylor/963596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sequestro em Cleveland" tvg-logo="http://listaccess.me:8880/images/27F1JiEvBajlkP07srxmI37fho9_small.jpg" group-title="FILMES | DRAMA",Sequestro em Cleveland
-http://vipeiptv.com:25461/movie/taylor/taylor/963597.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Serra Pelada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkTVhx0ifMgYjyXbCOtA50KtDtX.jpg" group-title="FILMES | DRAMA",Serra Pelada
-http://vipeiptv.com:25461/movie/taylor/taylor/963598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sete Vidas" tvg-logo="http://listaccess.me:8880/images/mX8SsTw2uApc02W8SBIKeprcWr1_small.jpg" group-title="FILMES | DRAMA",Sete Vidas
-http://vipeiptv.com:25461/movie/taylor/taylor/963599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sociedade dos Poetas mortos" tvg-logo="http://listaccess.me:8880/images/3Ri2GReavqSHqWemlP6HYn8i2P9_small.jpg" group-title="FILMES | DRAMA",Sociedade dos Poetas mortos
-http://vipeiptv.com:25461/movie/taylor/taylor/963600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soldado Anonimo" tvg-logo="http://listaccess.me:8880/images/iEYnXqUsfTaKwO1svSa39Ap07of_small.jpg" group-title="FILMES | DRAMA",Soldado Anonimo
-http://vipeiptv.com:25461/movie/taylor/taylor/963601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Somos Tao Jovens" tvg-logo="http://listaccess.me:8880/images/bDAnBkJXa9CyDMZ8B9YsNCBdEYy_small.jpg" group-title="FILMES | DRAMA",Somos Tao Jovens
-http://vipeiptv.com:25461/movie/taylor/taylor/963602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Steve Jobs" tvg-logo="http://212.8.243.43:8880/images/ahUiUaeOE2lvnOy7srxaUJbbvYv_small.jpg" group-title="FILMES | DRAMA",Steve Jobs
-http://vipeiptv.com:25461/movie/taylor/taylor/963603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sully O Herói do Rio Hudson" tvg-logo="http://listaccess.me:8880/images/h6O5OE3ueRVdCc7V7cwTiQocI7D_small.jpg" group-title="FILMES | DRAMA",Sully O Herói do Rio Hudson
-http://vipeiptv.com:25461/movie/taylor/taylor/963604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Surf no Hawai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3cGcSrhdrZOFwyFQ0HApExmEkR.jpg" group-title="FILMES | DRAMA",Surf no Hawai
-http://vipeiptv.com:25461/movie/taylor/taylor/963605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tao Forte e Tao Perto" tvg-logo="http://listaccess.me:8880/images/EEf53z7xAUZzUHA5KVHVVLwgnQ_small.jpg" group-title="FILMES | DRAMA",Tao Forte e Tao Perto
-http://vipeiptv.com:25461/movie/taylor/taylor/963606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terra de Minas" tvg-logo="http://listaccess.me:8880/images/7TOYH2VDnYbXpBKlrkdQZUSC3Du_small.jpg" group-title="FILMES | DRAMA",Terra de Minas
-http://vipeiptv.com:25461/movie/taylor/taylor/963607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terra Selvagem" tvg-logo="http://listaccess.me:8080/images/pySivdR845Hom4u4T2WNkJxe6Ad_small.jpg" group-title="FILMES | DRAMA",Terra Selvagem
-http://vipeiptv.com:25461/movie/taylor/taylor/963608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terra Selvagem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sAYFKKYCfG8WaGYjUT15viDzax.jpg" group-title="FILMES | DRAMA",Terra Selvagem
-http://vipeiptv.com:25461/movie/taylor/taylor/963609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Post - A Guerra Secreta" tvg-logo="http://listaccess.me:8880/images/h4XG3g6uMMPIBPjAoQhC2QIMdkl_small.jpg" group-title="FILMES | DRAMA",The Post - A Guerra Secreta
-http://vipeiptv.com:25461/movie/taylor/taylor/963610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tim Maia" tvg-logo="http://listaccess.me:8880/images/fqrWfIopmUR3hFbqhU0A9n9imhE_small.jpg" group-title="FILMES | DRAMA",Tim Maia
-http://vipeiptv.com:25461/movie/taylor/taylor/963611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="http://listaccess.me:8080/images/kHXEpyfl6zqn8a6YuozZUujufXf_small.jpg" group-title="FILMES | DRAMA",Titanic
-http://vipeiptv.com:25461/movie/taylor/taylor/963612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Dia" tvg-logo="http://listaccess.me:8880/images/4UnME3icxSspwL0UoGZNSyyp7Xs_small.jpg" group-title="FILMES | DRAMA",Todo Dia
-http://vipeiptv.com:25461/movie/taylor/taylor/963613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo o Dinheiro do Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny7lgnihTGufLNQkC6roKjJi0hz.jpg" group-title="FILMES | DRAMA",Todo o Dinheiro do Mundo
-http://vipeiptv.com:25461/movie/taylor/taylor/963614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Anuncios Para um Crime" tvg-logo="http://listaccess.me:8880/images/vgvw6w1CtcFkuXXn004S5wQsHRl_small.jpg" group-title="FILMES | DRAMA",Tres Anuncios Para um Crime
-http://vipeiptv.com:25461/movie/taylor/taylor/963615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Troia" tvg-logo="http://listaccess.me:8880/images/edMlij7nw2NMla32xskDnzMCFBM_small.jpg" group-title="FILMES | DRAMA",Troia
-http://vipeiptv.com:25461/movie/taylor/taylor/963616.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tráfico de Mulheres" tvg-logo="http://listaccess.me:8880/images/pu7aInXeMnTyB0MqWpOQdaIFz53_small.jpg" group-title="FILMES | DRAMA",Tráfico de Mulheres
-http://vipeiptv.com:25461/movie/taylor/taylor/963617.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e Um Bebê" tvg-logo="http://listaccess.me:8880/images/a7XsxlzhIm1Lgv4bxYTFm3tq1h2_small.jpg" group-title="FILMES | DRAMA",Três Ladrões e Um Bebê
-http://vipeiptv.com:25461/movie/taylor/taylor/963618.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tudo e Todas as Coisas" tvg-logo="http://listaccess.me:8880/images/c8W3Go48Mw0GoNXsGK4W9hNO4Vf_small.jpg" group-title="FILMES | DRAMA",Tudo e Todas as Coisas
-http://vipeiptv.com:25461/movie/taylor/taylor/963619.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tudo por Amor" tvg-logo="http://listaccess.me:8880/images/ns1N0PjnCP7BZjtFFMNTQyjFo6f_small.jpg" group-title="FILMES | DRAMA",Tudo por Amor
-http://vipeiptv.com:25461/movie/taylor/taylor/963620.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tungstenio" tvg-logo="http://listaccess.me:8880/images/6t5yENUNF3sHyfPX7HoFgrsqhLa_small.jpg" group-title="FILMES | DRAMA",Tungstenio
-http://vipeiptv.com:25461/movie/taylor/taylor/963621.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Ato de Coragem" tvg-logo="http://listaccess.me:8880/images/4jX2XxZbpMy2rGSigoIaFAbhOez_small.jpg" group-title="FILMES | DRAMA",Um Ato de Coragem
-http://vipeiptv.com:25461/movie/taylor/taylor/963622.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Crime Perfeito" tvg-logo="http://listaccess.me:8880/images/3qVJPM6tYilp3x3ckSBb3l4NyzE_small.jpg" group-title="FILMES | DRAMA",Um Crime Perfeito
-http://vipeiptv.com:25461/movie/taylor/taylor/963623.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Dia de Fúria" tvg-logo="http://assistirpainel.ddns.net:8880/images/jBHJWSUvvOIZkXG067vwVRWvohB_small.jpg" group-title="FILMES | DRAMA",Um Dia de Fúria
-http://vipeiptv.com:25461/movie/taylor/taylor/963624.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Homem de Familia" tvg-logo="http://listaccess.me:8880/images/9iyQxVjLgFW0ztYKRxnEFtpVTSw_small.jpg" group-title="FILMES | DRAMA",Um Homem de Familia
-http://vipeiptv.com:25461/movie/taylor/taylor/963625.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Homem Entre Gigantes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8dQeUiQPs46U9nRSJdMsiXth69.jpg" group-title="FILMES | DRAMA",Um Homem Entre Gigantes
-http://vipeiptv.com:25461/movie/taylor/taylor/963626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Laço de Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EAXtAJ8kLsUVR1SCWaUqcESreR.jpg" group-title="FILMES | DRAMA",Um Laço de Amor
-http://vipeiptv.com:25461/movie/taylor/taylor/963627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Limite Entre Nos" tvg-logo="http://listaccess.me:8880/images/yZFBqealET1TunuVvu4YzcM1orT_small.jpg" group-title="FILMES | DRAMA",Um Limite Entre Nos
-http://vipeiptv.com:25461/movie/taylor/taylor/963628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Novo Olhar" tvg-logo="http://listaccess.me:8880/images/cXyObe5aB63ueOndEXxXabgAvIi_small.jpg" group-title="FILMES | DRAMA",Um Novo Olhar
-http://vipeiptv.com:25461/movie/taylor/taylor/963629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Olhar do Paraiso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmp1jcNqKFVQtcj51e1ovG5umBt.jpg" group-title="FILMES | DRAMA",Um Olhar do Paraiso
-http://vipeiptv.com:25461/movie/taylor/taylor/963630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Refugio" tvg-logo="http://listaccess.me:8080/images/ph5bSVXarzvkubcMayUBlZfOWYs_small.jpg" group-title="FILMES | DRAMA",Um Refugio
-http://vipeiptv.com:25461/movie/taylor/taylor/963631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Sonho de Liberdade" tvg-logo="http://listaccess.me:8080/images/9O7gLzmreU0nGkIB6K3BsJbzvNv_small.jpg" group-title="FILMES | DRAMA",Um Sonho de Liberdade
-http://vipeiptv.com:25461/movie/taylor/taylor/963632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Sonho Possível" tvg-logo="http://listaccess.me:8880/images/wEGFSgPebLk6g1ngKsJ6a46PYLV_small.jpg" group-title="FILMES | DRAMA",Um Sonho Possível
-http://vipeiptv.com:25461/movie/taylor/taylor/963633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Família de Dois" tvg-logo="http://listaccess.me:8880/images/muwaDIv5cLv2Z07CZFWOsL7lYuO_small.jpg" group-title="FILMES | DRAMA",Uma Família de Dois
-http://vipeiptv.com:25461/movie/taylor/taylor/963634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Lição de Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11m4SP31lSsFqXqCmBgXrzeUyma.jpg" group-title="FILMES | DRAMA",Uma Lição de Amor
-http://vipeiptv.com:25461/movie/taylor/taylor/963635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Longa Jornada" tvg-logo="http://listaccess.me:8880/images/9oduon4a0w5a398r2o1M28s3upC_small.jpg" group-title="FILMES | DRAMA",Uma Longa Jornada
-http://vipeiptv.com:25461/movie/taylor/taylor/963636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Questao de Fe" tvg-logo="http://listaccess.me:8880/images/mwVkW7sHqhPGdsZa5nb4X3J36vC_small.jpg" group-title="FILMES | DRAMA",Uma Questao de Fe
-http://vipeiptv.com:25461/movie/taylor/taylor/963637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Vida Com Propósito" tvg-logo="http://assistirpainel.ddns.net:8880/images/f85d63af54b3a0018b746b4a76399646.jpg" group-title="FILMES | DRAMA",Uma Vida Com Propósito
-http://vipeiptv.com:25461/movie/taylor/taylor/963638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Veloz Como o Vento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEX9zAKzOLyeAlwjfYTFp0uTkhj.jpg" group-title="FILMES | DRAMA",Veloz Como o Vento
-http://vipeiptv.com:25461/movie/taylor/taylor/963639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vice" tvg-logo="http://listaccess.me:8880/images/1gCab6rNv1r6V64cwsU4oEr649Y_small.jpg" group-title="FILMES | DRAMA",Vice
-http://vipeiptv.com:25461/movie/taylor/taylor/963640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vida" tvg-logo="http://listaccess.me:8880/images/tZ544US8qblE1saWrvbH2U17vUD_small.jpg" group-title="FILMES | DRAMA",Vida
-http://vipeiptv.com:25461/movie/taylor/taylor/963641.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vidas a Deriva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cejjvrBhIgnUx1RJQaKG0T3c1sG.jpg" group-title="FILMES | DRAMA",Vidas a Deriva
-http://vipeiptv.com:25461/movie/taylor/taylor/963642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vips" tvg-logo="http://listaccess.me:8880/images/eEpX5GoMecbyJMHfAtSh97nPJNZ_small.jpg" group-title="FILMES | DRAMA",Vips
-http://vipeiptv.com:25461/movie/taylor/taylor/963643.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vírus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXwshSzVsMvpJpGxvuPGsRxGzpV.jpg" group-title="FILMES | DRAMA",Vírus
-http://vipeiptv.com:25461/movie/taylor/taylor/963644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whiplash Em Busca da Perfeicao" tvg-logo="http://listaccess.me:8880/images/lIv1QinFqz4dlp5U4lQ6HaiskOZ_small.jpg" group-title="FILMES | DRAMA",Whiplash Em Busca da Perfeicao
-http://vipeiptv.com:25461/movie/taylor/taylor/963645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XOXO A Vida e Uma Festa" tvg-logo="http://listaccess.me:8880/images/3mCcVbVLz23MhCngELFihX2uSwb_small.jpg" group-title="FILMES | DRAMA",XOXO A Vida e Uma Festa
-http://vipeiptv.com:25461/movie/taylor/taylor/963646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zodiaco" tvg-logo="http://listaccess.me:8880/images/kIW7N2bKV42OWk1kkMeq5ewZQVh_small.jpg" group-title="FILMES | DRAMA",Zodiaco
-http://vipeiptv.com:25461/movie/taylor/taylor/963647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Nome Não é Johnny" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9G1voavqsLFx0k66PXw11AUUaj.jpg" group-title="FILMES | DRAMA",Meu Nome Não é Johnny
-http://vipeiptv.com:25461/movie/taylor/taylor/963648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com as Próprias Mãos" tvg-logo="http://assistirpainel.ddns.net:8880/images/ba179c57a84be7ccd75c035debd15866.jpg" group-title="FILMES | DRAMA",Com as Próprias Mãos
-http://vipeiptv.com:25461/movie/taylor/taylor/963649.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cisne Negro" tvg-logo="http://assistirpainel.ddns.net:8880/images/fda7ac9a13666500a8dda7bea1ab297d.jpg" group-title="FILMES | DRAMA",Cisne Negro
-http://vipeiptv.com:25461/movie/taylor/taylor/963650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Dono do Jogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vcLstd2hYn0XhyuEKaPbBZAqSh.jpg" group-title="FILMES | DRAMA",O Dono do Jogo
-http://vipeiptv.com:25461/movie/taylor/taylor/963651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ensaio Sobre a Cegueira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipBaKBbeeFtYiZzvZmEIeiuNFem.jpg" group-title="FILMES | DRAMA",Ensaio Sobre a Cegueira
-http://vipeiptv.com:25461/movie/taylor/taylor/963652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gênio Indomável" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlXkMIEjvk2Npc15zyL0r3P4HBH.jpg" group-title="FILMES | DRAMA",Gênio Indomável
-http://vipeiptv.com:25461/movie/taylor/taylor/963653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Físico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6koFQEuyZKNYcBMSVEHYtAeIpUE.jpg" group-title="FILMES | DRAMA",O Físico
-http://vipeiptv.com:25461/movie/taylor/taylor/963654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Até as Últimas Consequências" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iacsGPAdtpLNiXeSFuLhLKPAsHS.jpg" group-title="FILMES | DRAMA",Até as Últimas Consequências
-http://vipeiptv.com:25461/movie/taylor/taylor/963655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acredite em Mim: A História de Lisa Mcvey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5osEwU9NdsmgPIMbD5Mq3KU4PHR.jpg" group-title="FILMES | DRAMA",Acredite em Mim: A História de Lisa Mcvey
-http://vipeiptv.com:25461/movie/taylor/taylor/963656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Crime Americano (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WMtnaSl3qVolN2jGsslzn28j5P.jpg" group-title="FILMES | DRAMA",Um Crime Americano (2007)
-http://vipeiptv.com:25461/movie/taylor/taylor/963657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bar Luva Dourada" tvg-logo="http://assistirpainel.ddns.net:8880/images/082c1552ebcf2e1f300507e3ca1850d5.jpg" group-title="FILMES | DRAMA",O Bar Luva Dourada
-http://vipeiptv.com:25461/movie/taylor/taylor/963658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Farol" tvg-logo="http://assistirpainel.ddns.net:8880/images/6dad8b6261fefb22eb77967a941bfbc1.jpg" group-title="FILMES | DRAMA",O Farol
-http://vipeiptv.com:25461/movie/taylor/taylor/963659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Jogada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP6M8pond5C5nJ2z4qWgRANa6Pb.jpg" group-title="FILMES | DRAMA",A Grande Jogada (2017)
-http://vipeiptv.com:25461/movie/taylor/taylor/963660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inimigos Íntimos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b63u6pfSUqZt0BXgYIxpPLw3SA.jpg" group-title="FILMES | DRAMA",Inimigos Íntimos
-http://vipeiptv.com:25461/movie/taylor/taylor/963661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Missão" tvg-logo="http://assistirpainel.ddns.net:8880/images/8a025ae7822cf1d6ce4f6bd919651f26.jpg" group-title="FILMES | DRAMA",A Missão
-http://vipeiptv.com:25461/movie/taylor/taylor/963662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cortina de Fogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMchjXbVeuZUHByb1U8Dt3TYkRs.jpg" group-title="FILMES | DRAMA",Cortina de Fogo
-http://vipeiptv.com:25461/movie/taylor/taylor/963663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cassino" tvg-logo="http://assistirpainel.ddns.net:8880/images/dbf5f8fb196943b0efb1a408598aa60e.jpg" group-title="FILMES | DRAMA",Cassino
-http://vipeiptv.com:25461/movie/taylor/taylor/963664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Frankenstein de Mary Shelley" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXyYDa83z39PMpvCs7TFJwAXnzL.jpg" group-title="FILMES | DRAMA",Frankenstein de Mary Shelley
-http://vipeiptv.com:25461/movie/taylor/taylor/963665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homens em Fúria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOtvdDsUHhCCYO3Pb2uUkf3Wqi3.jpg" group-title="FILMES | DRAMA",Homens em Fúria
-http://vipeiptv.com:25461/movie/taylor/taylor/963666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Pastor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApS1M1YQXbz6JfDlLE2W3vpvpiP.jpg" group-title="FILMES | DRAMA",O Bom Pastor
-http://vipeiptv.com:25461/movie/taylor/taylor/963667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Despertar de Um Homem" tvg-logo="http://assistirpainel.ddns.net:8880/images/327b7d90fa22bb4add3bb9caa07a928e.jpg" group-title="FILMES | DRAMA",O Despertar de Um Homem
-http://vipeiptv.com:25461/movie/taylor/taylor/963668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Enviado" tvg-logo="http://assistirpainel.ddns.net:8880/images/ec7d6948b608e1f4aef54f734e7590bf.jpg" group-title="FILMES | DRAMA",O Enviado
-http://vipeiptv.com:25461/movie/taylor/taylor/963669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Franco Atirador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chUEp082nv4uoOnzi5mtjWfnrbt.jpg" group-title="FILMES | DRAMA",O Franco Atirador
-http://vipeiptv.com:25461/movie/taylor/taylor/963670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Lado Bom da Vida" tvg-logo="http://assistirpainel.ddns.net:8880/images/87e02945063b305959808d0ed6a3441d.jpg" group-title="FILMES | DRAMA",O Lado Bom da Vida
-http://vipeiptv.com:25461/movie/taylor/taylor/963671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Bons Companheiros" tvg-logo="http://assistirpainel.ddns.net:8880/images/3793e8e5825c6a1cde2bc76f87fda00e.jpg" group-title="FILMES | DRAMA",Os Bons Companheiros
-http://vipeiptv.com:25461/movie/taylor/taylor/963672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Intocáveis (LG)" tvg-logo="http://assistirpainel.ddns.net:8880/images/5c1263eb89313c2ed920f38881cca89d.jpg" group-title="FILMES | DRAMA",Os Intocáveis (LG)
-http://vipeiptv.com:25461/movie/taylor/taylor/963673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sleepers: A Vingança Adormecida" tvg-logo="http://assistirpainel.ddns.net:8880/images/3832efe8cd15e7de244272ba9f19ff6e.jpg" group-title="FILMES | DRAMA",Sleepers: A Vingança Adormecida
-http://vipeiptv.com:25461/movie/taylor/taylor/963674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Taxi Driver: Motorista de Táxi" tvg-logo="http://assistirpainel.ddns.net:8880/images/34446209e8fe0f44f0fc2d09d0993ff0.jpg" group-title="FILMES | DRAMA",Taxi Driver: Motorista de Táxi
-http://vipeiptv.com:25461/movie/taylor/taylor/963675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Obsessiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4De1IpEbyhSmRrPivUrpurU7llG.jpg" group-title="FILMES | DRAMA",Obsessiva
-http://vipeiptv.com:25461/movie/taylor/taylor/963676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inteligência Artificial: Ascensão das Máquinas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyxIX3Fz1G49AKeYOqAFSyM9Fp7.jpg" group-title="Ficção Científica",Inteligência Artificial: Ascensão das Máquinas (2018)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/12673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança a Sangue. Frio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3dO43VmKK2k3UTJeKOnHrmT4fq.jpg" group-title="Drama",Vingança a Sangue. Frio
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gotti O Chefe Da Mafia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTnn8JonPD6mK0RypPyMvXUvaWP.jpg" group-title="Drama",Gotti O Chefe Da Mafia
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/1023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Arqueira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vverWoOxH00f4jM9hrd6oPGW0EE.jpg" group-title="Drama",A Arqueira
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/1026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beleza Adormecida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaS4EYuz8Kzbsm0xS9T3htvKwfv.jpg" group-title="Drama",Beleza Adormecida
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/1189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Taberna Do Inferno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdXHLDsfFTW8LyaK3TRKvmjsMlK.jpg" group-title="Drama",A Taberna Do Inferno
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/1555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Fé Que Nos Une" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2wMgojA3bGkHD3QvWlBRrStPEQ.jpg" group-title="Drama",A Fé Que Nos Une
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/1569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="12 Heróis - 2018" tvg-logo="http://18.231.98.213:8080/images/19b2641ae3a16d42c954f647639c9df9.jpg" group-title="Drama",12 Heróis - 2018
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Goodbye Christopher Robin - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QiSaWZk7zLxQXQQKIhzqv3VvTK.jpg" group-title="Drama",Goodbye Christopher Robin - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Forma da Água - 2017" tvg-logo="http://18.231.98.213:8080/images/4ec6b8708702677aa85e81fddd47ee39.jpg" group-title="Drama",A Forma da Água - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Incrível História de Adaline" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8hjlqWjCHXXBQzhYLrG40m5MEH.jpg" group-title="Drama",A Incrível História de Adaline
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luz Divina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFRgUkTq5TH0g0gRMd2eBrBO3rq.jpg" group-title="Drama",A Luz Divina
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Melhor Escolha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3V9A6E55krJNDcGhLsYK4YL0Mun.jpg" group-title="Drama",A Melhor Escolha
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Revolução" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCRZzRIlmtg6xFPwSWQy0dFiEQs.jpg" group-title="Drama",Amor e Revolução
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Tulipas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48bxtOU9pO45buUxiNAuvK3Nbel.jpg" group-title="Drama",Amor e Tulipas
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Morte " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gQmDPqWn7ogA8Urn7szfTAdZz1.jpg" group-title="Drama",Anjos da Morte 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apenas um Garoto em Nova York (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taVjqLZ3uGArNmKNzhUH6m97DqV.jpg" group-title="Drama",Apenas um Garoto em Nova York (2017)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armas na Mesa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hm51PwRJ8LuwuAWIHmFPwXOLE39.jpg" group-title="Drama",Armas na Mesa
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Brigsby Bear" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcmtWeQt7WPAs2yQOHBbUbC1fpw.jpg" group-title="Drama",As Aventuras de Brigsby Bear
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batalha Incerta " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guEl1ufiYglB4mSk1wdPeMhDseq.jpg" group-title="Drama",Batalha Incerta 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beleza Oculta " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krZlGuXTXoXCHcy3Rwf8D4txoVL.jpg" group-title="Drama",Beleza Oculta 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDuE9wvdil8rm5x3i6ZSDwFa5uh.jpg" group-title="Drama",Depois do Apocalipse
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto: Uma Luz na Escuridão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMWOo7Y0ntOkNuMk2svZxkoRb29.jpg" group-title="Drama",Deus Não Está Morto: Uma Luz na Escuridão
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Donnie Darko" tvg-logo="http://54.232.170.134:8080/images/e31e62d5306ab64a502556a24582cfa1.jpg" group-title="Drama",Donnie Darko
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca de Vingança - 2017" tvg-logo="http://18.231.98.213:8080/images/ae7c911aac44810b5447499f0923061e.jpg" group-title="Drama",Em Busca de Vingança - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escobar - A Traição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4dbcumv4ruZRZEvsOorqnAGrRG.jpg" group-title="Drama",Escobar - A Traição
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wonder - Encantador - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGoTUHAcma2sY0rQ7iQiFZoPF1R.jpg" group-title="Drama",Wonder - Encantador - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fallen - O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4wfwph9hvvrtLcQdNf0JwK3fVR.jpg" group-title="Drama",Fallen - O Filme
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasmas do Passado - 2017" tvg-logo="http://18.231.98.213:8080/images/a994efea55d7472e3ae5ee53686e496f.jpg" group-title="Drama",Fantasmas do Passado - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El faro de las orcas - 2016" tvg-logo="http://18.231.98.213:8080/images/0981343c964fb0ece66fbd94db10428f.jpg" group-title="Drama",El faro de las orcas - 2016
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fazenda Dos Cisnes - 2015" tvg-logo="http://18.231.98.213:8080/images/becde65b45249d707c03c4c7039d1708.jpg" group-title="Drama",Fazenda Dos Cisnes - 2015
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frank & Lola " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZdlnjePpUhxRWz69KjqhIe7H5U.jpg" group-title="Drama",Frank & Lola 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gente de Bem - 2018" tvg-logo="http://18.231.98.213:8080/images/f01e052197a956525dab97099e81d73e.jpg" group-title="Drama",Gente de Bem - 2018
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hanna - 2011" tvg-logo="http://18.231.98.213:8080/images/cbaf5b3c616fe95c264011ea2e5fc54f.jpg" group-title="Drama",Hanna - 2011
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hereditário - 2018" tvg-logo="http://18.231.98.213:8080/images/ec9051556735010c85c17e0b01a1f1e6.jpg" group-title="Drama",Hereditário - 2018
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horas de Medo - 2010" tvg-logo="http://18.231.98.213:8080/images/571be303c51899248a6f6ae015549537.jpg" group-title="Drama",Horas de Medo - 2010
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte Profundo - Desastre no Golfo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZonlNSZIZpRprgaiKUB1bfWrWe.jpg" group-title="Drama",Horizonte Profundo - Desastre no Golfo
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kite - Anjo da Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCOHumIAdy2RWIH5098zb7Dpj4H.jpg" group-title="Drama",Kite - Anjo da Vingança
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Uma Chance" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0LxunoOD30s1d9fgwFQ0JTUCva.jpg" group-title="Drama",Mais Uma Chance
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Menashe - 2017" tvg-logo="http://18.231.98.213:8080/images/f04527da62c8e2f341a1cdc6a2bcecc5.jpg" group-title="Drama",Menashe - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Na Mira do Atirador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtUzmCmIPefVfOA8r3YY1kd4eXl.jpg" group-title="Drama",Na Mira do Atirador
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nina - 2016" tvg-logo="http://18.231.98.213:8080/images/6e91193a0c8133476b58822573b29c76.jpg" group-title="Drama",Nina - 2016
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No Coração da Escuridão - 2018" tvg-logo="http://18.231.98.213:8080/images/250c189a18ed05d3d2b9ed8d92458785.jpg" group-title="Drama",No Coração da Escuridão - 2018
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noite de Lobos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4X2x5WlJnI7GG9qQVyISVgKUsKE.jpg" group-title="Drama",Noite de Lobos
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nuestros amantes - 2016" tvg-logo="http://18.231.98.213:8080/images/1f700e14f6e4cd3a0c12cfe70881e0c9.jpg" group-title="Drama",Nuestros amantes - 2016
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Começo de Um Grande Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbgib1gTRScoqsaWFYscj4zWsR.jpg" group-title="Drama",O Começo de Um Grande Amor
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Viu o Infinito - 2016" tvg-logo="http://18.231.98.213:8080/images/b9f0d62ada9b8f0f32fc817bcb23655c.jpg" group-title="Drama",O Homem Que Viu o Infinito - 2016
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Juramento....." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFOl3gdmdu7gM1IZ7X1b9bvjbjP.jpg" group-title="Drama",O Juramento.....
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mago das Mentiras - 2017" tvg-logo="http://18.231.98.213:8080/images/23483d41856e66f950dc15a7873a2480.jpg" group-title="Drama",O Mago das Mentiras - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor Presente é o Amor - 2018" tvg-logo="http://18.231.98.213:8080/images/f71f2417ae73a20c11a9707608a60128.jpg" group-title="Drama",O Melhor Presente é o Amor - 2018
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino do Pijama Listrado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHJ3t0xfWzUFSM87tE42rI0ZgSZ.jpg" group-title="Drama",O Menino do Pijama Listrado
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operação Sombra - Jack Ryan - 2014" tvg-logo="http://18.231.98.213:8080/images/4817ffb20cf71380083da2f63c9df111.jpg" group-title="Drama",Operação Sombra - Jack Ryan - 2014
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Preço da Liberdade - 2016" tvg-logo="http://18.231.98.213:8080/images/2dada38e833a62d358f3396419c5096c.jpg" group-title="Drama",O Preço da Liberdade - 2016
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amantes - 1991" tvg-logo="http://18.231.98.213:8080/images/d918c6ba4491ae6d82818a949a0ef4f9.jpg" group-title="Drama",Amantes - 1991
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo do Céu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fnH73K2Do53AfArYlqNm5YQlht.jpg" group-title="Drama",O Segredo do Céu
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Para Sempre Minha Garota - 2018" tvg-logo="http://18.231.98.213:8080/images/0d6d0ca92f213e34dfc55e89bbc21f5a.jpg" group-title="Drama",Para Sempre Minha Garota - 2018
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso Perdido - 2018" tvg-logo="http://18.231.98.213:8080/images/fdf3d4ba23136e9487551c89c472e6f6.jpg" group-title="Drama",Paraíso Perdido - 2018
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pelé: O Nascimento de uma Lenda - 2016" tvg-logo="http://18.231.98.213:8080/images/0034cbe8954361a7be69ecccafa2c475.jpg" group-title="Drama",Pelé: O Nascimento de uma Lenda - 2016
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Permissão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9tY1NTDadaX9WNvKGAUg7a4i49.jpg" group-title="Drama",Permissão
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perseguição Radical" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lylPFrL4LWLvz1LYfGp3xf0T8vG.jpg" group-title="Drama",Perseguição Radical
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Presa na Escuridão - 2013" tvg-logo="http://18.231.98.213:8080/images/1a8f5a486452cae5efc9cf91b8ae3116.jpg" group-title="Drama",Presa na Escuridão - 2013
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roxanne, Roxanne - 2017" tvg-logo="http://18.231.98.213:8080/images/8c423ab26a71bcd05eef1efeb59802d0.jpg" group-title="Drama",Roxanne, Roxanne - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Santuário - 1951" tvg-logo="http://18.231.98.213:8080/images/d7d1896b1bf9c23e2ce4d6cb4da05bf6.jpg" group-title="Drama",Santuário - 1951
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor da Guerra " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLxbDZ1h7wbHo7mkyX5AR9hjODe.jpg" group-title="Drama",O Senhor da Guerra 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sete Dias com Marilyn - 2011" tvg-logo="http://18.231.98.213:8080/images/f986dcbae81cec634ef95675921b57e1.jpg" group-title="Drama",Sete Dias com Marilyn - 2011
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sicário 2 - Dia do Soldado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV9q6XPA4R19dzhwEmj5W20fhY5.jpg" group-title="Drama",Sicário 2 - Dia do Soldado
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sierra Burgess Is a Loser - 2018" tvg-logo="http://18.231.98.213:8080/images/c4736da7148de5babeda50ae19fb5db0.jpg" group-title="Drama",Sierra Burgess Is a Loser - 2018
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Sol da Meia-Noite " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBjiEpnHgKJm8vbsYYq2qixcdoy.jpg" group-title="Drama",O Sol da Meia-Noite 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Vida - 2017" tvg-logo="http://18.231.98.213:8080/images/47a342262cc9037edfb624c378258518.jpg" group-title="Drama",Sombras da Vida - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stardust - O Mistério da Estrela Cadente - 2007" tvg-logo="http://18.231.98.213:8080/images/c15f1fbdbcac315938b7c591a2d26c85.jpg" group-title="Drama",Stardust - O Mistério da Estrela Cadente - 2007
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terra de Minas - 2015" tvg-logo="http://18.231.98.213:8080/images/36860fc7ef5021d05c8cd72f7bf7a291.jpg" group-title="Drama",Terra de Minas - 2015
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Time Trap - 2017" tvg-logo="http://18.231.98.213:8080/images/89ce2079fc4bb4435d8061aae04ce9ab.jpg" group-title="Drama",Time Trap - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem de Família - 2000" tvg-logo="http://18.231.98.213:8080/images/48fd4a76bd7c44318f14f71144343509.jpg" group-title="Drama",Um Homem de Família - 2000
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Laço De Amor - 2017" tvg-logo="http://18.231.98.213:8080/images/5fbbb09122995a8b7b9b722c6b9e16bd.jpg" group-title="Drama",Um Laço De Amor - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Limite Entre Nós" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVv22WNrXCAFkTZFHYR6u77mfr.jpg" group-title="Drama",Um Limite Entre Nós
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="À Deriva " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luMywmW9MjLbid6bH899mXWzvsR.jpg" group-title="Drama",À Deriva 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vício Frenético" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/430a0yCFKlGipOB99eaTjmlpT1U.jpg" group-title="Drama",Vício Frenético
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Cidade Perdida de Z - 2017" tvg-logo="http://18.231.98.213:8080/images/34209bc9a491f9536c99a84d56749392.jpg" group-title="Drama",A Cidade Perdida de Z - 2017
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linha Reta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nTAmBALXArLPnRbZThvNHCp1jh.jpg" group-title="Drama",Linha Reta
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sully - O Herói do Rio Hudson" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckmKU6zffpux1gY3pGZ8ZAxKNRD.jpg" group-title="Drama",Sully - O Herói do Rio Hudson
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Até o Último Homem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iVdjPGTWQ3PcEE6faZSoIAOPvX.jpg" group-title="Drama",Até o Último Homem
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7YlnbMDbdvVein71i2FjPy6twi.jpg" group-title="Drama",A Cura 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4S727ZuY6Rs88TrSyRvMf0kVDGk.jpg" group-title="Drama",A Escolha
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Onda " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIWcH7KeFninWT5iOYU3LdyBGPH.jpg" group-title="Drama",A Onda 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor de Mim " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80bRCqknHtx6L1Kogiu2ybnN47N.jpg" group-title="Drama",O Melhor de Mim 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Menino que Descobriu o Vento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haUdPprsRrN7YkgC1adh9YvnqvR.jpg" group-title="Drama",O Menino que Descobriu o Vento
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="7 Desejos" tvg-logo="http://oldteam.ddns.net:8080/images/84612936681809063de7118947e1b54b.jpg" group-title="Drama",7 Desejos
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Realidades " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avg1yyBcliKER3xV80A1qbv3KPC.jpg" group-title="Drama",Entre Realidades 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/3931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inimigos Íntimos" tvg-logo="http://oldteam.ddns.net:8080/images/50ba232a0444a5510c65333fa540f295.jpg" group-title="Drama",Inimigos Íntimos
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/3774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6ezmpjjL8UgzahVEGHzd2mbwzn.jpg" group-title="Drama",O Rei 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Com Ferro Fere" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DORnWkVXQHI7ZUefV6c4Ox2B1m.jpg" group-title="Drama",Quem Com Ferro Fere
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/2945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Sexto Sentido " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaghZWWBamw5vcyUyzFScWlIr1J.jpg" group-title="Drama",O Sexto Sentido 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Imperdoáveis " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bSmXJ4v4dp2j6qfTOn02JVUilE.jpg" group-title="Drama",Os Imperdoáveis 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por Lugares Incríveis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SafxuMKQiw4reBiWKVZJpJn80I.jpg" group-title="Drama",Por Lugares Incríveis
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruna Surfistinha " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5bgtmf0pZisPV0GRo16ttm9PkY.jpg" group-title="Drama",Bruna Surfistinha 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Quebrada" tvg-logo="http://oldteam.ddns.net:8080/images/73bfc6f0a1375c7d0626673fd8098775.jpg" group-title="Drama",Na Quebrada
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Trincheira Infinita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l28g28lT2yv1eIX0XNqNP4osPw.jpg" group-title="Drama",A Trincheira Infinita
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Secreta de Zoe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlQexUhUygUrH8cFQ05buxr6m9a.jpg" group-title="Drama",A Vida Secreta de Zoe
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Decisão de Risco " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCNjRsBxmE3wZnJr4yPFghefkqa.jpg" group-title="Drama",Decisão de Risco 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dirty Dancing - Ritmo Quente " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXuxTStJzK3ygqZHYlYKpU430Df.jpg" group-title="Drama",Dirty Dancing - Ritmo Quente 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost - Do Outro Lado da Vida " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlbPxCyGhXoIUkrQY0xsY61xah7.jpg" group-title="Drama",Ghost - Do Outro Lado da Vida 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proposta Indecente " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXwdC36CjPCc1sSTcVSwCExfnY5.jpg" group-title="Drama",Proposta Indecente 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Quem É a Culpa?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1No7DCXC4jcAeHqn50mgjZ2NRgY.jpg" group-title="Drama",De Quem É a Culpa?
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coach Carter - Treino para a Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqZJV6lKaiuAjrVMhvlM7TRIshT.jpg" group-title="Drama",Coach Carter - Treino para a Vida
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fome de Poder " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YpHj6aV1yKWP20hKj1KUiLaIbi.jpg" group-title="Drama",Fome de Poder 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Olhar do Paraíso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmp1jcNqKFVQtcj51e1ovG5umBt.jpg" group-title="Drama",Um Olhar do Paraíso
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Perigoso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW4uNwPERWdAL9ozDEhVznh5Rpm.jpg" group-title="Drama",Jogo Perigoso
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nunca Diga Seu Nome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emTRGi9UsyZIhkiBneOtn9FCDs1.jpg" group-title="Drama",Nunca Diga Seu Nome
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exorcismo de Emily Rose" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tE6r2IaABY08EcIKF51qACri8H.jpg" group-title="Drama",O Exorcismo de Emily Rose
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lost Girls - Os Crimes de Long Island" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKAOyKRjsGXn6Pwz49e2s1nf5S.jpg" group-title="Drama",Lost Girls - Os Crimes de Long Island
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/4847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Premonições " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOWeHhbv8XA9HW7R0JoJpwxXu5Q.jpg" group-title="Drama",Premonições 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mundos Opostos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qggnUJX0x7knOiucAYmVjDNaaT.jpg" group-title="Drama",Mundos Opostos
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Obsessão Secreta" tvg-logo="http://oldteam.ddns.net:8080/images/d60b2f12f5155091851aadab21f2dc18.jpg" group-title="Drama",Obsessão Secreta
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando as Luzes se Apagam " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK6odVtROe2fnROz0pAWRFbxGoW.jpg" group-title="Drama",Quando as Luzes se Apagam 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roda Gigante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkfebRm9rO6rQmIelznLIybPTHi.jpg" group-title="Drama",Roda Gigante
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Durante a Tormenta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnm6f637xpbfJuhMCEbpu3hwyDP.jpg" group-title="Drama",Durante a Tormenta
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu, Daniel Blake " tvg-logo="http://oldteam.ddns.net:8080/images/41b8fc2a95511dd37a72b0c73c205ebc.jpg" group-title="Drama",Eu, Daniel Blake 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garota Exemplar" tvg-logo="http://oldteam.ddns.net:8080/images/f733e71f63b21e547c1bcb46b3805427.jpg" group-title="Drama",Garota Exemplar
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ultras" tvg-logo="http://oldteam.ddns.net:8080/images/56b4dcf7cd5a38106b04a70d56dbc742.jpg" group-title="Drama",Ultras
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gShIscjUsRrrJ0LeKbaNf4vOthR.jpg" group-title="Drama",A Casa
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cargo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPSUck4tBRvRu6DFk6XciDrssn.jpg" group-title="Drama",Cargo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corajosos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Shjb5CaMPSoF5p0t9HaU6d0ZrF.jpg" group-title="Drama",Corajosos
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filmando Casablanca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HiajDFxybaxXdwF7LIJYPpLmra.jpg" group-title="Drama",Filmando Casablanca
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gravidade " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg" group-title="Drama",Gravidade 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres do Paraíso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elOVqkrWgAmvAQTK8oICgfrgtsh.jpg" group-title="Drama",Milagres do Paraíso
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passageiros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaGwtY9Tbvg9kMWZYrh4ggDm7Wi.jpg" group-title="Drama",Passageiros
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paradoxo Cloverfield" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5tMtsPWiypKCKk0fHyjAqz93gU.jpg" group-title="Drama",O Paradoxo Cloverfield
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Notas de Rebeldia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neUgCuBhafxYQyXTKxwjQejqqa7.jpg" group-title="Drama",Notas de Rebeldia
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cascavel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca9IhQ2H72TRmnHf2ZDJXbffIdX.jpg" group-title="Drama",Cascavel
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Colega de Quarto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skKilr1WjLMBzARRk4AlLZLFduy.jpg" group-title="Drama",Colega de Quarto
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Céu é de Verdade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/civ2ZxxyE40WR0PvazdJkPS7Gzu.jpg" group-title="Drama",O Céu é de Verdade
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viral" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldAHAtz7oLcJz9wqb9JDbWHNopk.jpg" group-title="Drama",Viral
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Bamba " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg" group-title="Drama",La Bamba 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Embalos de Sábado à Noite " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgE5s52w0whbZBkA0lN9vgtbPKu.jpg" group-title="Drama",Os Embalos de Sábado à Noite 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apóstolo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7KGpuO13YUsRxFSPcANFs1MAx1.jpg" group-title="Drama",Apóstolo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Campo do Medo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wG0tORn6XqSwjN2tBAZJrFTh7n0.jpg" group-title="Drama",Campo do Medo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Forrest Gump - O Contador de Histórias " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGkF8b8fEiPsFNxLWzsrvUJQtGT.jpg" group-title="Drama",Forrest Gump - O Contador de Histórias 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gênio Indomável " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlXkMIEjvk2Npc15zyL0r3P4HBH.jpg" group-title="Drama",Gênio Indomável 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lavender" tvg-logo="http://oldteam.ddns.net:8080/images/a757cd21479d6070e4caf39cabb18eae.jpg" group-title="Drama",Lavender
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Espaço Entre Nós" tvg-logo="http://oldteam.ddns.net:8080/images/4ce36e03ea9fa76d1777e16e6fe1243e.jpg" group-title="Drama",O Espaço Entre Nós
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Gatsby " tvg-logo="http://oldteam.ddns.net:8080/images/9e757e8eddf5a4fa192cb96114cd8aec.jpg" group-title="Drama",O Grande Gatsby 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jardim Secreto " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHIgpy7yAyqxQx79PtvqEoiXuk8.jpg" group-title="Drama",O Jardim Secreto 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Brutos Também Amam " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIs9wj2JnY3sHj6EdwoWk2PqpM.jpg" group-title="Drama",Os Brutos Também Amam 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sete Vidas " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxJOJUV9UVYMlHmQVUh4zcXCOSf.jpg" group-title="Drama",Sete Vidas 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vestígios do Dia " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtwipjmSypSQuSvz5BNirSxZqbg.jpg" group-title="Drama",Vestígios do Dia 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paris A Qualquer Preço " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fMUn05fI2418BaKWfaFi68GlTB.jpg" group-title="Drama",Paris A Qualquer Preço 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Sétima Profecia " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sacVmBZWwKydqzAckR0cx9w4AO.jpg" group-title="Drama",A Sétima Profecia 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário de uma Paixão " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1ttV3XhgryvmJMlBfpbzUfm6bG.jpg" group-title="Drama",Diário de uma Paixão 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsessão Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQRwtMCDKVqNm88A1CMg0Tj7dpq.jpg" group-title="Drama",Obsessão Secreta
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ponto de Decisão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6H5Jp4qMuESFtSCYNeiBNl9bpPu.jpg" group-title="Drama",Ponto de Decisão
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refém do Medo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg" group-title="Drama",Refém do Medo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amar " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyMtH3LYpYMsvy3rJxhtLpvUyoJ.jpg" group-title="Drama",Amar 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comer, Rezar, Amar (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CMhiQnnLsKx5bgtndz6C5vhgRr.jpg" group-title="Drama",Comer, Rezar, Amar (2010)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desafiando Gigantes " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33gkfCURxgBBpiAnrWua4Txmrvs.jpg" group-title="Drama",Desafiando Gigantes 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista Com o Vampiro " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaDf4b3syL9Led18G2OCikENlQZ.jpg" group-title="Drama",Entrevista Com o Vampiro 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Viu o Infinito " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70GdZPmwI0l0cjPUEbN5b826hz7.jpg" group-title="Drama",O Homem Que Viu o Infinito 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobisomem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAPXjlsaJfqWzmoXlqYwMJ4pnc0.jpg" group-title="Drama",O Lobisomem
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mínimo Para Viver" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyybTvHQyPvkAld7EnKYp92KYSD.jpg" group-title="Drama",O Mínimo Para Viver
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sérgio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7auQAKMXPKQdRxE5mmlR3MRdEc.jpg" group-title="Drama",Sérgio 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sete Minutos Depois da Meia-Noite " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bX5Y8ZaHBl8lalYCQ18l313y9TJ.jpg" group-title="Drama",Sete Minutos Depois da Meia-Noite 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Lição de Amor " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iAzhSeWlv1uTsib2NAuFGnKLn6.jpg" group-title="Drama",Uma Lição de Amor 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jovem e Bela " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dYpQaaTVq59KQMTkjgrMQrwwEr.jpg" group-title="Drama",Jovem e Bela 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lion: Uma Jornada para Casa " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svbUqOL9FdwCF9cKe4aEagVmteR.jpg" group-title="Drama",Lion: Uma Jornada para Casa 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Ritmo da Sedução " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saV1CqXus9dvPSlwGflCWxChfKN.jpg" group-title="Drama",No Ritmo da Sedução 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soul Surfer: Coragem de Viver " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvgRxrEupUFeJ0xzUExJo4dMXbL.jpg" group-title="Drama",Soul Surfer: Coragem de Viver 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Perfection " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg" group-title="Drama",The Perfection 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa das Almas Perdidas" tvg-logo="http://oldteam.ddns.net:8080/images/2e3cbc9c89f5ccf499b778cf45e169c2.jpg" group-title="Drama",A Casa das Almas Perdidas
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dias Sem Fim " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xiV8j18GhWnnrfMGaDR0E5oOif.jpg" group-title="Drama",Dias Sem Fim 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentiras Perigosas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg" group-title="Drama",Mentiras Perigosas
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vendedor de Sonhos" tvg-logo="http://oldteam.ddns.net:8080/images/87a116a24886a0787ece03094e8b0294.jpg" group-title="Drama",O Vendedor de Sonhos
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha História " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0vo1yoEVlbpJ0Fkn0FgU7dTrO8.jpg" group-title="Drama",Minha História 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Órfãos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRXzwckAK3GqMfgbl2h0uWN6Id0.jpg" group-title="Drama",Os Órfãos 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="18 Presentes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHowEoR2BHEwlLI5LkwUhdXEJUg.jpg" group-title="Drama",18 Presentes
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Riqueza Tóxica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCQXpRgxydssEpFARoiAFdIcbyB.jpg" group-title="Drama",Riqueza Tóxica
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Descoberta " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgLyPfWHkmt8v8ulz04NL2FFHQ4.jpg" group-title="Drama",A Descoberta 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andar Montar Rodeio - A Virada de Amberley" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QTtPymPoq97vfZ2mVN0siOHUKs.jpg" group-title="Drama",Andar Montar Rodeio - A Virada de Amberley
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nada a Perder " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1XGiS2tXIR4IP4bdqdmlG6Hhbd.jpg" group-title="Drama",Nada a Perder 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue & Chocolate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fjyqkMly7L00CsWqoKtFtdeKyW.jpg" group-title="Drama",Sangue & Chocolate
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sublime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/285yCXj3JIe7rXdedZJ0FD4KPnS.jpg" group-title="Drama",Sublime
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Através do Fogo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko5WkikNQBp2yBTWK3fVCW5Ubon.jpg" group-title="Drama",Através do Fogo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paixão Obsessiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ooa62LiAjetWtdFOjLiGusS514.jpg" group-title="Drama",Paixão Obsessiva
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raça e Redenção" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SZw4eBmDRDGjgG7ACxBdiiKBpO.jpg" group-title="Drama",Raça e Redenção
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por um Corredor Escuro " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvMXZHRrdPdvP9Z9l6eT9lJ7bVS.jpg" group-title="Drama",Por um Corredor Escuro 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/5993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Medo: Incidente em Ghostland" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7p3JKIAwysHpZsmdINLNeVjApg.jpg" group-title="Drama",A Casa do Medo: Incidente em Ghostland
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho de Frankenstein " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hop8IKgDYHfFI7uMvZ0gcDYqqXZ.jpg" group-title="Drama",O Filho de Frankenstein 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6015.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Público " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fK81tBV5tBOEySpT5RH3IdyqYE.jpg" group-title="Drama",O Público 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Revolução em Paris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgJAKz7eSNGNenjrI9Wbmi7MZeR.jpg" group-title="Drama",A Revolução em Paris
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Samantha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwnHb1sR2cfhyNzvTRIruybsg7C.jpg" group-title="Drama",A Maldição de Samantha
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Volta por Cima" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bZYa2Jw4B8xcOTLsuIed0wsGx6.jpg" group-title="Drama",A Volta por Cima
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destacamento Blood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg" group-title="Drama",Destacamento Blood
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dominados pelo Ódio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kByOoEoipXEd6DKb3TgHJCW54b5.jpg" group-title="Drama",Dominados pelo Ódio
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hip-Hop Beats" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8P13nIvkkizVBzd2RpegsRt5zP.jpg" group-title="Drama",Hip-Hop Beats
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Atalho " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4hBkWAovkBN8CX1g3xKYc16Zbc.jpg" group-title="Drama",O Atalho 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sedução Perigosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dztS7aqdW1BMbyr4beisngVf7kE.jpg" group-title="Drama",Sedução Perigosa
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha das Correntes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hXJRUdM785ogYuaOo0lXWjOCda.jpg" group-title="Drama",A Batalha das Correntes
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quarto dos Desejos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HzK757cMoFxbRGxn8xo3gBUJcu.jpg" group-title="Drama",O Quarto dos Desejos
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Casamento " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TpNDW2AnJIH8XFGHKBZ2S9jHll.jpg" group-title="Drama",Depois do Casamento 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoje Eu Quero Voltar Sozinho" tvg-logo="http://oldteam.ddns.net:8080/images/bf83eb4fb04f080ef75f5bbd4b430cc3.jpg" group-title="Drama",Hoje Eu Quero Voltar Sozinho
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninguém Sabe que Estou Aqui" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7skWvQPBYJV5YPNHg1cgG15E3Z8.jpg" group-title="Drama",Ninguém Sabe que Estou Aqui
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Monstro no Caminho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UB2BONFa0eNUqqwT1DjUnzqFcd.jpg" group-title="Drama",Um Monstro no Caminho
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Valley: The Revenge of Bloody Bill" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzM4MjY2YWUtODQyMS00YjZjLWE5ODktMTgzOGJlY2MxMDM1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SY1000_CR0,0,749,1000_AL_.jpg" group-title="Drama",Death Valley: The Revenge of Bloody Bill
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Segredos da Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1oGbCFLwIibp5jdjAtP9Y6cQ8s.jpg" group-title="Drama",Segredos da Família
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caça" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCv1p4wgbNwSuIOS1qStvdYhYz7.jpg" group-title="Drama",A Caça
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cinco Passos de Você" tvg-logo="http://oldteam.ddns.net:8080/images/81d6095634f7fff0d4824f0050d7ccc5.jpg" group-title="Drama",A Cinco Passos de Você
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista de Schindler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tagKKnJLK8W5qKJW7Cl2GR2OPCs.jpg" group-title="Drama",A Lista de Schindler
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além da Suspeita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kdIYiFtSsjc4ZajhzYpcZMran1.jpg" group-title="Drama",Além da Suspeita
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lendas da Paixão " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVSUm5Ad0mDF2cASwFNM5AuBdZF.jpg" group-title="Drama",Lendas da Paixão 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Midsommar: O Mal Não Espera a Noite " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZ6Bjq1VVfiTrALlev0ganz7uka.jpg" group-title="Drama",Midsommar: O Mal Não Espera a Noite 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem que Mudou o Jogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v1cWJquR9r7UVGX1L1EFDxK6lh.jpg" group-title="Drama",O Homem que Mudou o Jogo
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adú" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFen11ZNKbvfhZo8WBKbC5te8Hi.jpg" group-title="Drama",Adú
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno de Ben " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3UFAEzXsUc8Nu0748g5arct1vE.jpg" group-title="Drama",O Retorno de Ben 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vozes da Escuridão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fguce8M1bZnWjVkRWCFh9P3kt6A.jpg" group-title="Drama",Vozes da Escuridão
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Winter, o Golfinho 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEcPfHq3KJWGc40p03V8SjEJCm9.jpg" group-title="Drama",Winter, o Golfinho 2
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Águas Rasas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZxPtVGK4oix9BYCnD4EDKjKUnk.jpg" group-title="Drama",Águas Rasas
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="99 Casas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHKquMw8tT7eOjWb1ecR41soLzD.jpg" group-title="Drama",99 Casas
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Próxima Pele " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40cw0s6IwTBebxkXHApBwKOIcn4.jpg" group-title="Drama",A Próxima Pele 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elisa e Marcela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeiTUo8xhosPHSjuCTZWcK3jmW6.jpg" group-title="Drama",Elisa e Marcela
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ligue Djá: O Lendário Walter Mercado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBqSHu6jkWHbyNFmIvc2rmKQspN.jpg" group-title="Drama",Ligue Djá: O Lendário Walter Mercado
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho de Deus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dawSGD2qjDGNL29yIF9oW4dICgS.jpg" group-title="Drama",O Filho de Deus
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Limite da Traição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQqmFcKOSg7RVtaIKOTtv1vWQPx.jpg" group-title="Drama",O Limite da Traição
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Silêncio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE0rAuyupUL326JsgG5FwK7a2tb.jpg" group-title="Drama",O Silêncio
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Hora da Zona Morta " tvg-logo="http://oldteam.ddns.net:8080/images/a19c6fe0e450eba2e0cd97fdcfc8e7dc.jpg" group-title="Drama",Na Hora da Zona Morta 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Donas Da Noite" tvg-logo="http://oldteam.ddns.net:8080/images/5ef6ba92a321f478d14eb5592bd85f7a.jpg" group-title="Drama",As Donas Da Noite
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Lar" tvg-logo="http://oldteam.ddns.net:8080/images/d6d24eea9b6415f637203fb22d5367c1.jpg" group-title="Drama",Nosso Lar
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ilusionista " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvHWsmniMfN8vfXerzwQueacv6w.jpg" group-title="Drama",O Ilusionista 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jardim das Aflições" tvg-logo="http://oldteam.ddns.net:8080/images/f27fa9a83959afaaa2c008b0e1d0373a.jpg" group-title="Drama",O Jardim das Aflições
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério da Fé" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maR1FZDzb0WvpehEPBRLPFs6aw7.jpg" group-title="Drama",O Mistério da Fé
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo das Águas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q21FRJlJdKkCjDu4TPNVZxHsDcY.jpg" group-title="Drama",O Segredo das Águas
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unidos pelo Destino" tvg-logo="http://oldteam.ddns.net:8080/images/6d4737102d0f52f59c853d0465f9569d.jpg" group-title="Drama",Unidos pelo Destino
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vidro" tvg-logo="http://oldteam.ddns.net:8080/images/dc117876a6bc17621273b25e3a41b2c9.jpg" group-title="Drama",Vidro
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/6811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontro Fatal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s47hEzm44GkO6uxfIh29j5XL1Na.jpg" group-title="Drama",Encontro Fatal
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After" tvg-logo="http://oldteam.ddns.net:8080/images/c65865f4da790ed295bc2a189fde670f.jpg" group-title="Drama",After
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ali" tvg-logo="http://oldteam.ddns.net:8080/images/ca7844ebe0de2846a56f52d0238b8bab.jpg" group-title="Drama",Ali
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Assombrado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiSzY66WSoqYqewlTQcmnJ45B6P.jpg" group-title="Drama",Amor Assombrado
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calmaria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3DVBrlCv4wp1tibgWhxZ5bLmsz.jpg" group-title="Drama",Calmaria
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primeiro, Mataram o Meu Pai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umBuMm1xry8SfOdetIyaNX56hed.jpg" group-title="Drama",Primeiro, Mataram o Meu Pai
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invencível" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ewpP8s2PBOvsxQN9waaMWPCniy.jpg" group-title="Drama",Invencível
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uptzFTOz5nk7hPE7dUT54hflu9f.jpg" group-title="Drama",Minha Vida
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Final " tvg-logo="http://oldteam.ddns.net:8080/images/0a08ce3fe58965d838734abaa2b4c195.jpg" group-title="Drama",Operação Final 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selah e Os Espadas" tvg-logo="http://oldteam.ddns.net:8080/images/43f34b5b329059f41454ed83f28f9e4e.jpg" group-title="Drama",Selah e Os Espadas
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Prova de Fogo" tvg-logo="http://oldteam.ddns.net:8080/images/24a836235317a29a8118cdb1d6e1a4e0.jpg" group-title="Drama",À Prova de Fogo
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Firma " tvg-logo="http://oldteam.ddns.net:8080/images/643513bdf725b3d5e08392c63e9610e7.jpg" group-title="Drama",A Firma 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando o Sol se Põe " tvg-logo="http://oldteam.ddns.net:8080/images/09293ac926bdd8eef16b7f6b0869ac35.jpg" group-title="Drama",Quando o Sol se Põe 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vastidão da Noite" tvg-logo="http://oldteam.ddns.net:8080/images/8c8f438617b11361cffb8f8f57023c03.jpg" group-title="Drama",A Vastidão da Noite
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Carga" tvg-logo="http://oldteam.ddns.net:8080/images/df60788a5173aaa8590dd66940768e03.jpg" group-title="Drama",A Carga
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DsfRsCxrhkHQHGLeY9m8oi9q46.jpg" group-title="Drama",Cinderela
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flying Lessons " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PoMPQmByfbn1vm6WNX5J1vwBTb.jpg" group-title="Drama",Flying Lessons 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rede de Ódio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGHWfUGlHHrrqVxb3bvjeGumqwV.jpg" group-title="Drama",Rede de Ódio (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K9BEKVxYxRfGZpziYNBxKt3QYT.jpg" group-title="Drama",A Bela e a Fera 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto Selvagem " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gC1QF3vCkbcqKJjzYfQcz01zEC4.jpg" group-title="Drama",Instinto Selvagem 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Story: Uma História de Amor " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/777ikYhXDwLYr6tWE8vpa2zEU3p.jpg" group-title="Drama",Love Story: Uma História de Amor 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pesadelo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nCMttsiT50XoZdq0BIlieeyTH6.jpg" group-title="Drama",O Pesadelo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walt Antes do Mickey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cbUzGAF3WcykjsdqIhDxzDN1KY.jpg" group-title="Drama",Walt Antes do Mickey
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Biutiful" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uorFpk3qtCiymrefPNMT8PcG9yJ.jpg" group-title="Drama",Biutiful
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa Grande " tvg-logo="http://1.servidor.biz:8080/images/0a48f7ff1d7aff7437c2df48ab897739.jpg" group-title="Drama",Casa Grande 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Distúrbio" tvg-logo="http://1.servidor.biz:8080/images/8664f38b6945bd50f95fb05dbbea393e.jpg" group-title="Drama",Distúrbio
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Footloose " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzTuPCtIBuL4LPJBbNA5RnXDzPZ.jpg" group-title="Drama",Footloose 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longe dos Homens " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xETsINWbkOH9MWnaDAzMKXo3GwP.jpg" group-title="Drama",Longe dos Homens 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Olhe " tvg-logo="http://1.servidor.biz:8080/images/5489ae436e178874152d55298867f807.jpg" group-title="Drama",Não Olhe 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei da Montanha" tvg-logo="http://1.servidor.biz:8080/images/f215c0ef3ec03c631bbe7e5c935c1976.jpg" group-title="Drama",O Rei da Montanha
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Presença " tvg-logo="http://1.servidor.biz:8080/images/79ac3e3630792f7eca42deb194f6146f.jpg" group-title="Drama",A Presença 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventura Perigosa " tvg-logo="http://1.servidor.biz:8080/images/579c92697b9b24e8f41d5ab88c2350c6.jpg" group-title="Drama",Aventura Perigosa 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasmas do Passado" tvg-logo="http://1.servidor.biz:8080/images/fedc4922aebfdfa088fd09fcbd9c19f9.jpg" group-title="Drama",Fantasmas do Passado
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acampando No Inferno " tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3MjIxOTc1Nl5BMl5BanBnXkFtZTcwNDU1MzI4Mg@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Drama",Acampando No Inferno 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Titã" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZNgL1aXLdXSSTGdf9acxW7a5gR.jpg" group-title="Drama",Titã
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unidade Wega " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kcsDvatFHC6jR3YEjn4EonkiJE.jpg" group-title="Drama",Unidade Wega 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Química que Há Entre Nós" tvg-logo="http://1.servidor.biz:8080/images/3abf7cefeb2d28b3186e7cbce553de58.jpg" group-title="Drama",A Química que Há Entre Nós
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cão Branco " tvg-logo="http://1.servidor.biz:8080/images/558a69b60407e535b5723eba083d5cdb.jpg" group-title="Drama",O Cão Branco 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gilda: Não Me Arrependo Desse Amor" tvg-logo="http://1.servidor.biz:8080/images/06e3340205d796f4beb693659f8c77ed.jpg" group-title="Drama",Gilda: Não Me Arrependo Desse Amor
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Linha Vermelha do Destino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQfSIreXxSilnDJFOKhZzdN58ZK.jpg" group-title="Drama",A Linha Vermelha do Destino
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Preço da Verdade" tvg-logo="http://1.servidor.biz:8080/images/98bee3ae15626a3cd2d25beb6af7f921.jpg" group-title="Drama",O Preço da Verdade
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Ama, Odeia " tvg-logo="http://1.servidor.biz:8080/images/9d99dff168332abe1a71581ec11fe8f5.jpg" group-title="Drama",Quem Ama, Odeia 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cidade Onde Envelheço" tvg-logo="http://54.232.170.134:8080/images/3d78dcbf7c4b7b0db2a5b702164e84d7.jpg" group-title="Drama",A Cidade Onde Envelheço
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Canibais " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2Tsdtt58Q6Gq61nu6BF7hvdV1C.jpg" group-title="Drama",Amores Canibais 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calibre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCVOQzV7Z556WnJFNeX7y8BFhyW.jpg" group-title="Drama",Calibre
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Apocalipse " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDuE9wvdil8rm5x3i6ZSDwFa5uh.jpg" group-title="Drama",Depois do Apocalipse 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despertar - Data Limite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ha6r0JOUQlspTbPF4CJyJoWo8G9.jpg" group-title="Drama",Despertar - Data Limite
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasores" tvg-logo="http://54.232.170.134:8080/images/339b9f1538a3f43f0c7dc40f5191a1c0.jpg" group-title="Drama",Invasores
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando os Anjos Dormem " tvg-logo="http://54.232.170.134:8080/images/7adfe9f3f6e3ac85664c2dd0515aeb64.jpg" group-title="Drama",Quando os Anjos Dormem 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refúgio do Medo " tvg-logo="http://54.232.170.134:8080/images/541b0015b96f7eb8f69c9f2f66500f96.jpg" group-title="Drama",Refúgio do Medo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Regresso do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFjdf9UDNrs5mgSRokpCM0cUWv6.jpg" group-title="Drama",Regresso do Mal
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/7876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois da Escuridão " tvg-logo="http://54.232.170.134:8080/images/0ab43c1744426219b9355eab5f43ade0.jpg" group-title="Drama",Depois da Escuridão 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escândalo" tvg-logo="http://54.232.170.134:8080/images/703f477899248d9341e15311712ec679.jpg" group-title="Drama",O Escândalo
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quase uma Rockstar" tvg-logo="http://54.232.170.134:8080/images/0ca004c542f614866b2b4165739ec517.jpg" group-title="Drama",Quase uma Rockstar
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além da Morte " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNO7ciFO3kNHMCPAWPzBsjBDb7g.jpg" group-title="Drama",Além da Morte 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes de Dormir" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fW0DmRxyuBLlVq1aps3DJUwmfpQ.jpg" group-title="Drama",Antes de Dormir
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Decisão " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFjiWhsBwgNg3Fyl3al4N3SXw9A.jpg" group-title="Drama",Decisão 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estou Pensando em Acabar com Tudo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg" group-title="Drama",Estou Pensando em Acabar com Tudo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Verdade ou Consequência " tvg-logo="http://54.232.170.134:8080/images/06e59123f5e4647f917f77195b5efc3f.jpg" group-title="Drama",Verdade ou Consequência 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8 Mile: Rua das Ilusões" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86CyysIw6WvboRPN8qrjCP0M0nS.jpg" group-title="Drama",8 Mile: Rua das Ilusões
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Escolha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuo46ONWRe5Sy3QSHmBGtXwmkmw.jpg" group-title="Drama",A Grande Escolha
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cubo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcSWAcLOSJqq63bBIjQIOlKHb6L.jpg" group-title="Drama",Cubo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lion: Uma Jornada para Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svbUqOL9FdwCF9cKe4aEagVmteR.jpg" group-title="Drama",Lion: Uma Jornada para Casa
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Garotas de Cor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNvpYGMgymq5nUq3J6BLqff5Q6a.jpg" group-title="Drama",Para Garotas de Cor
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tráfico de Mulheres " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aK2J9k73gUw0DcbO6RiCh3vHVE.jpg" group-title="Drama",Tráfico de Mulheres 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Incrível História de Adaline " tvg-logo="http://54.232.170.134:8080/images/e4836d34c30101d7235a1a84d9ef7eec.jpg" group-title="Drama",A Incrível História de Adaline 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dilúvio: A Ira de um Rio " tvg-logo="http://54.232.170.134:8080/images/b040ee39d1d86909b06760b1f44c316f.jpg" group-title="Drama",Dilúvio: A Ira de um Rio 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pódio para Todos " tvg-logo="http://54.232.170.134:8080/images/965506498509a264f21654a3e15ec118.jpg" group-title="Drama",Pódio para Todos 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beleza Americana" tvg-logo="http://54.232.170.134:8080/images/de88b51d3145a61f44d559f375d8f629.jpg" group-title="Drama",Beleza Americana
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gauguin: Viagem ao Taiti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5tyY5ReaOr5ZFE8ttfoBzoaewr.jpg" group-title="Drama",Gauguin: Viagem ao Taiti
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lua de Fel " tvg-logo="http://54.232.170.134:8080/images/b7bac44b7a54b2ca08f2b28cff50871b.jpg" group-title="Drama",Lua de Fel 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota do Livro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liRzUzDxYvKbSRGiDFsqDm9D462.jpg" group-title="Drama",A Garota do Livro
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Liberdade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ9J66C5UwHy3YUIi1Hm34ISnk7.jpg" group-title="Drama",Cinquenta Tons de Liberdade
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed: Nascido para Lutar " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53VTzu0nhbNYmIbqdDbFqobsLHt.jpg" group-title="Drama",Creed: Nascido para Lutar 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dilema das Redes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VAXS2hbKwCKd3DEz57Cr6ch61s.jpg" group-title="Drama",O Dilema das Redes
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fantasma de Canterville" tvg-logo="http://54.232.170.134:8080/images/8c180f7f61ca6a717fecb546b11f72a0.jpg" group-title="Drama",O Fantasma de Canterville
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa" tvg-logo="http://54.232.170.134:8080/images/eb1227d389ac643e945586bf3664303f.jpg" group-title="Drama",Rocky Balboa
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky II -  A Revanche" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGMd0KljOO5rkDVgwuGjWBAJMME.jpg" group-title="Drama",Rocky II -  A Revanche
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky III: O Desafio Supremo " tvg-logo="http://54.232.170.134:8080/images/9ce6aacc9cc7f6e7960a9cb427dfa12f.jpg" group-title="Drama",Rocky III: O Desafio Supremo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky IV " tvg-logo="http://54.232.170.134:8080/images/ed9568a6200f2cd21553831acbbb2bd3.jpg" group-title="Drama",Rocky IV 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky: Um Lutador " tvg-logo="http://54.232.170.134:8080/images/b89880020ff813905ce3199607c67150.jpg" group-title="Drama",Rocky: Um Lutador 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEuhU1Ty1glOGLxj7uUgbm2n0Ym.jpg" group-title="Drama",A Cura 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amaldiçoada " tvg-logo="http://54.232.170.134:8080/images/4257fb1b16370b1f51d36fbf7919abcd.jpg" group-title="Drama",Amaldiçoada 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contornando a Morte" tvg-logo="http://54.232.170.134:8080/images/5bfaba83e7c4b555c2f7dae17be73c67.jpg" group-title="Drama",Contornando a Morte
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Habitantes do Mar " tvg-logo="http://54.232.170.134:8080/images/fdf3c63a9c2b698a35e3969b4da91f6b.jpg" group-title="Drama",Habitantes do Mar 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nascido em 4 de Julho " tvg-logo="http://54.232.170.134:8080/images/8f5757b4d6db94b7744e3fa6adde925e.jpg" group-title="Drama",Nascido em 4 de Julho 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Crime do Padre Amaro " tvg-logo="http://54.232.170.134:8080/images/6818ab6dd1bcc418eaa6bef91a08d45b.jpg" group-title="Drama",O Crime do Padre Amaro 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1898 - Os Ultimos das Filipinas " tvg-logo="http://54.232.170.134:8080/images/ce5e56fdca18d2b77174b1f8fc4b2b5d.jpg" group-title="Drama",1898 - Os Ultimos das Filipinas 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peles" tvg-logo="http://54.232.170.134:8080/images/3ebca74084a9f1ca75b3ee980d8aa626.jpg" group-title="Drama",Peles
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Remédio Amargo " tvg-logo="http://54.232.170.134:8080/images/0b4d4df57c53b2b7ada191f63217ddb1.jpg" group-title="Drama",Remédio Amargo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8fErMpGD4s81VtWwspeyHYdiI.jpg" group-title="Drama",Sobrenatural
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Luto Impossível" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Drama",O Luto Impossível
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Valquíria " tvg-logo="http://54.232.170.134:8080/images/f9bfb60087cca1c8daaf99418d3112f9.jpg" group-title="Drama",Operação Valquíria 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trama Fantasma " tvg-logo="http://54.232.170.134:8080/images/12658d19ca562ed44477375ecd1e9c84.jpg" group-title="Drama",Trama Fantasma 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Canção para Latasha " tvg-logo="http://54.232.170.134:8080/images/04f09c16853440427f7eaa74ed0e386e.jpg" group-title="Drama",Uma Canção para Latasha 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrie - A Estranha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f60bJjQ6FUfxr0msrA1aMrwa9aV.jpg" group-title="Drama",Carrie - A Estranha
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agora ou Nunca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nt1qLr78e6f4iJOlel1WyVWZ7gL.jpg" group-title="Drama",Agora ou Nunca
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bojangles" tvg-logo="https://media.fstatic.com/13Wt6u4ynovrBORC4kTlWqPzDMk=/290x478/smart/media/movies/covers/2013/01/6990efa8071a4b7236d864cd82116567.jpg" group-title="Drama",Bojangles
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dívida de Honra " tvg-logo="http://54.232.170.134:8080/images/646a3fc2bd4cc34413d5a6788481b2e8.jpg" group-title="Drama",Dívida de Honra 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos de Guerra - O Código Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiKPyzCgn3Ftc8icCRvBOFwgPPW.jpg" group-title="Drama",Jogos de Guerra - O Código Mortal
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão no Mar Vermelho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6M9BPXLIVvPNs0gZW4yNyGobuW.jpg" group-title="Drama",Missão no Mar Vermelho
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Platoon" tvg-logo="http://54.232.170.134:8080/images/27d2e14799087776fb2b75c6c07721f4.jpg" group-title="Drama",Platoon
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Rapazes da Banda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D2gi13hnrXWaspWuWmdbEZ8bef.jpg" group-title="Drama",Os Rapazes da Banda
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/8968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher de Preto 2 - Anjo da Morte" tvg-logo="http://54.232.170.134:8080/images/210cd3523bfa00089b5968f24a6eda3b.jpg" group-title="Drama",A Mulher de Preto 2 - Anjo da Morte
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demência" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dlZ4YoxJS9UHS7Di3SN3jMCXKg.jpg" group-title="Drama",Demência
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrevivente " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i87ZhhIXO4Z15np1lhGNQXLzwBS.jpg" group-title="Drama",Sobrevivente 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fascínio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufbubTLEUvt2aEyFs2u9ow9XxWe.jpg" group-title="Drama",O Fascínio
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Mortes de Dick Johnson" tvg-logo="http://54.232.170.134:8080/images/29961b90e1510da6d7864230fce10048.jpg" group-title="Drama",As Mortes de Dick Johnson
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentira Incondicional" tvg-logo="http://54.232.170.134:8080/images/63bcc5e56003d93bb9f9883b5225a722.jpg" group-title="Drama",Mentira Incondicional
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quarto de Guerra " tvg-logo="http://54.232.170.134:8080/images/6ae9e1d8571eb26ebbec8d5ba9bb5e20.jpg" group-title="Drama",Quarto de Guerra 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Vantagens de Ser Invisível " tvg-logo="http://54.232.170.134:8080/images/ec63308188ef9be56afac1db837e8aa9.jpg" group-title="Drama",As Vantagens de Ser Invisível 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruc: O Desafio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2s3EEWXsfXQ5eGy17PBEDVzfzhf.jpg" group-title="Drama",Bruc: O Desafio 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Que Brilham " tvg-logo="http://54.232.170.134:8080/images/b2794061534e63360a767963ec411dae.jpg" group-title="Drama",Mentes Que Brilham 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ratos e Homens " tvg-logo="http://54.232.170.134:8080/images/f6eab7f83827aa978b134af0f8eb57b7.jpg" group-title="Drama",Ratos e Homens 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Rússia " tvg-logo="http://54.232.170.134:8080/images/8f0ad0d8cfd32607487fc1b1c305d9f6.jpg" group-title="Drama",A Casa da Rússia 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Teoria de Tudo " tvg-logo="http://54.232.170.134:8080/images/e623aea06bf769cc6b45d193a096f6b0.jpg" group-title="Drama",A Teoria de Tudo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Era Antes de Você " tvg-logo="http://54.232.170.134:8080/images/705bd0f8d8e6b46a40584fd0e1b826e2.jpg" group-title="Drama",Como Eu Era Antes de Você 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Eu Ficar " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hErdSm2KCx4X3LAzFwbxbqEe4B5.jpg" group-title="Drama",Se Eu Ficar 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nunca sem minha filha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyeuUo8qBxKAlLy6AfJhu0au0Yy.jpg" group-title="Drama",Nunca sem minha filha
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poder do Ritmo" tvg-logo="http://54.232.170.134:8080/images/d24767d2077707247d6fbeffd603f631.jpg" group-title="Drama",O Poder do Ritmo
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orgulho e Preconceito " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmnY0Zs8uMSHkMiol7M3xOlvvkK.jpg" group-title="Drama",Orgulho e Preconceito 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os 7 de Chicago " tvg-logo="http://54.232.170.134:8080/images/19f9c562d8470c6c1107a0ce6030ffe9.jpg" group-title="Drama",Os 7 de Chicago 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rain Man" tvg-logo="http://54.232.170.134:8080/images/77d1531960ddf47d512eead3401772da.jpg" group-title="Drama",Rain Man
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suprema " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbxyzSWJ2yoDmz0nDe9etP2K6Ml.jpg" group-title="Drama",Suprema 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebecca - A Mulher Inesquecível" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7efwXeiNPymjN3WBSe3OnnkhSOw.jpg" group-title="Drama",Rebecca - A Mulher Inesquecível
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kadaver" tvg-logo="http://54.232.170.134:8080/images/c47121dcbc6d7e0303b57a5c373e315b.jpg" group-title="Drama",Kadaver
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Massacre do Moinho de Vento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGlcVC9ZX3qX9j8f4ylWDsvsI5P.jpg" group-title="Drama",O Massacre do Moinho de Vento
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Relação em Risco " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/968EbINo97rHeWDBkRPA5eYwofM.jpg" group-title="Drama",Relação em Risco 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu, Daniel Blake " tvg-logo="http://18.231.146.110:8080/images/736ba9c9d4a76ee951e447c160c87f84.jpg" group-title="Drama",Eu, Daniel Blake 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Ficou Para Trás " tvg-logo="http://18.231.146.110:8080/images/b1bb9ec070469a066fb36fd9b9a788f2.jpg" group-title="Drama",O Que Ficou Para Trás 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos de Saqqara (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NyihqDHhkF4xIdGHvNJgjytB55.jpg" group-title="Drama",Os Segredos de Saqqara (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed II" tvg-logo="http://18.231.146.110:8080/images/55f4e46ffac0ef147f0f346be908a9df.jpg" group-title="Drama",Creed II
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coringa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg" group-title="Drama",Coringa
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher de Preto " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g167H1JgOLAVx7YgHctBIq5kHeI.jpg" group-title="Drama",A Mulher de Preto 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lição de Moremi " tvg-logo="http://iptv.qhq.cc:8080/images/f03dd5bbe1b70239635072fd1f95a2ed.jpg" group-title="Drama",A Lição de Moremi 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rosa e Momo " tvg-logo="http://iptv.qhq.cc:8080/images/a437f2edd329eb1209b56d15ebd7ec45.jpg" group-title="Drama",Rosa e Momo 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lição" tvg-logo="http://iptv.qhq.cc:8080/images/e83b876ec44c95dbe2185393b506075c.jpg" group-title="Drama",A Lição
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando a Vida Acontece " tvg-logo="http://iptv.qhq.cc:8080/images/2708e60230e558c5c1ff7ba582260b4d.jpg" group-title="Drama",Quando a Vida Acontece 
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sono da Morte (2016)" tvg-logo="http://iptv.qhq.cc:8080/images/5d8ff0a2269f9852d324db49e2483fd5.jpg" group-title="Drama",O Sono da Morte (2016)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/9957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia (2013)" tvg-logo="http://iptv.qhq.cc:8080/images/b4a6d674742795f9d136e0ffd1f9229d.jpg" group-title="Drama",A Colônia (2013)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peste Negra (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9efQbCwDsqszngsmq8e5FncYJk.jpg" group-title="Drama",Peste Negra (2002)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Homem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg" group-title="Drama",O Primeiro Homem (2018)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuba e o Cameraman (2017)" tvg-logo="http://iptv.qhq.cc:8080/images/219b3d4a174200f9ecd6c561b58734d2.jpg" group-title="Drama",Cuba e o Cameraman (2017)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Seu Sangue (2019)" tvg-logo="http://iptv.qhq.cc:8080/images/65bc84aefac091b4fb2c7ece812ec598.jpg" group-title="Drama",Sem Seu Sangue (2019)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tio Frank (2020)" tvg-logo="http://iptv.qhq.cc:8080/images/665cab7ae237ce2115dce1f3ae494187.jpg" group-title="Drama",Tio Frank (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era uma vez um sonho (2020)" tvg-logo="http://iptv.qhq.cc:8080/images/a96bd8c4d471a59d2409d9ab6123e723.jpg" group-title="Drama",Era uma vez um sonho (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Tentação de Cristo (1988)" tvg-logo="http://iptv.qhq.cc:8080/images/85b91f15514b5678d350fcabfb9202d2.jpg" group-title="Drama",A Última Tentação de Cristo (1988)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caderno de Tomy (2020)" tvg-logo="http://iptv.qhq.cc:8080/images/7649fcf40941770ea08fdcb6b43c9ab3.jpg" group-title="Drama",O Caderno de Tomy (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Winter, o Golfinho (2011)" tvg-logo="http://iptv.qhq.cc:8080/images/aba3de966bcfcb7a824b4bbe73c6c7e4.jpg" group-title="Drama",Winter, o Golfinho (2011)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Submarino, Prova Mortal (2001)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODA4NDY0MzEtYmRmMy00OTUxLWFjYjktYzM1NTYyODQ4NTI2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY268_CR18,0,182,268_AL_.jpg" group-title="Drama",Submarino, Prova Mortal (2001)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Gira (2020)" tvg-logo="http://iptv.qhq.cc:8080/images/55693bc25682743f57a5fb29510899ba.jpg" group-title="Drama",A Vida Gira (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Som do Silêncio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVHgv6leYDCKrW4bdzA77NlMXXM.jpg" group-title="Drama",O Som do Silêncio (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divã (2009)" tvg-logo="http://iptv.qhq.cc:8080/images/839bedbfc035876439d43f2c0e28f4b4.jpg" group-title="Drama",Divã (2009)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emicida: AmarElo - É Tudo Pra Ontem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac23UNPF7aNpxCRGdx9Aqfg4jsU.jpg" group-title="Drama",Emicida: AmarElo - É Tudo Pra Ontem (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confia em Mim (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbjZbSY6P1atMG53Brf0avFM4fo.jpg" group-title="Drama",Confia em Mim (2014)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo: Ouse Sonhar (2020)" tvg-logo="http://iptv.qhq.cc:8080/images/ee62dd643c0daa3d699e4d395b45c74e.jpg" group-title="Drama",O Segredo: Ouse Sonhar (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Céu da Meia-Noite (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgWWLoRyWvE5s6rrKgAIf2a0pni.jpg" group-title="Drama",O Céu da Meia-Noite (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pieces of a Woman (2020)" tvg-logo="http://iptv.qhq.cc:8080/images/a506b93efc70a3bbf54997ad65522b48.jpg" group-title="Drama",Pieces of a Woman (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/10675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo de Brokeback Mountain (2005)" tvg-logo="http://iptv.qhq.cc:8080/images/7bbd12e6597f11c3abed267ef90553a1.jpg" group-title="Drama",O Segredo de Brokeback Mountain (2005)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/ea2d15b4e4c78e97573c38be234c4b5b.jpg" group-title="Drama",A Escavação (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Me Chame Pelo Seu Nome (2017)" tvg-logo="http://iptv.qhq.cc:8080/images/9631f95a8c51720a403a8c6666ee06ed.jpg" group-title="Drama",Me Chame Pelo Seu Nome (2017)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Paraíso (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/cf0614b12c0485f2fd6280207fa8a68c.jpg" group-title="Drama",O Último Paraíso (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pole Dance: Dança do Poder (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/6b4450ead570485fa81035bb691cce74.jpg" group-title="Drama",Pole Dance: Dança do Poder (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm e Marie (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/67f76ca9b1126f6ba97797cf0dc756d0.jpg" group-title="Drama",Malcolm e Marie (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tim Maia (2014)" tvg-logo="http://iptv.qhq.cc:8080/images/76d032241be820840dd9709e6ae61839.jpg" group-title="Drama",Tim Maia (2014)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho Eterno (2016)" tvg-logo="http://iptv.qhq.cc:8080/images/76520cc2dc57beb6316cf9b8a7a8b4b1.jpg" group-title="Drama",O Filho Eterno (2016)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ponto Vermelho (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/e3fd6567c04491c7e1e49945afa4ca04.jpg" group-title="Drama",Ponto Vermelho (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto Selvagem (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gC1QF3vCkbcqKJjzYfQcz01zEC4.jpg" group-title="Drama",Instinto Selvagem (1992)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Som e a Fúria (2015)" tvg-logo="http://iptv.qhq.cc:8080/images/d8040c5bfaa2938afbd93dda0ea0713d.jpg" group-title="Drama",O Som e a Fúria (2015)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu, Christiane F. - 13 Anos, Drogada e Prostituída (1981)" tvg-logo="http://iptv.qhq.cc:8080/images/6114287e11a623daa4278f9bdc04049a.jpg" group-title="Drama",Eu, Christiane F. - 13 Anos, Drogada e Prostituída (1981)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11504.avi
+#EXTINF:-1 tvg-id="" tvg-name="Pelé (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/166eb65eb7d3a23cebaf32cab60dbb17.jpg" group-title="Drama",Pelé (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babel (2006)" tvg-logo="http://iptv.qhq.cc:8080/images/52cf7d798888c9ef60979f18a4dcb742.jpg" group-title="Drama",Babel (2006)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Desconhecido (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGAsSGdVRS4G51Hux0pluFC3iKv.jpg" group-title="Drama",A Caminho do Desconhecido (2016)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chance (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sz3wnLibsQXO0HW3A0h8x6DoVV.jpg" group-title="Drama",A Chance (1983)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filhos de Istambul (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2senMBNIfRXkbqGmA65PcM7VKSO.jpg" group-title="Drama",Filhos de Istambul (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Semana da Minha Vida (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/2c49088324de56d2e32c61ad54120442.jpg" group-title="Drama",A Semana da Minha Vida (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Mesma Onda (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/68771d7ce92176cee3276c853a757795.jpg" group-title="Drama",Na Mesma Onda (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Resgate do Soldado Ryan (1998)" tvg-logo="http://iptv.qhq.cc:8080/images/0669ecd77e1c95495c563e221cf28427.jpg" group-title="Drama",O Resgate do Soldado Ryan (1998)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Trás da Inocência (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/b99ddcc1ded3d3c4f6a9ff66dc5d3d4d.jpg" group-title="Drama",Por Trás da Inocência (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos de Madame Claude (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/ff0220c5451c5ba362fb8600084dad07.jpg" group-title="Drama",Os Segredos de Madame Claude (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Cowboy (2020)" tvg-logo="http://iptv.qhq.cc:8080/images/98368bce30d7aec95df1ad63bff46650.jpg" group-title="Drama",Alma de Cowboy (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo por Ela (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/fa21da82b527349456b9aa479946022d.jpg" group-title="Drama",Tudo por Ela (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/11894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Batida do Coração (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMezVjxjNu7lb7AShUqx6Y1uPqM.jpg" group-title="Drama",Na Batida do Coração (2020)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/12085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vozes e Vultos (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/6caceef0100cdeb201e6728c9cd83443.jpg" group-title="Drama",Vozes e Vultos (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/12086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oxigênio (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/641b02e70ea9ef85bd3727352f2c43af.jpg" group-title="Drama",Oxigênio (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/12106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Lab (2021)" tvg-logo="http://iptv.qhq.cc:8080/images/8af6560d0221e647eadd16012b78efb6.jpg" group-title="Drama",Ghost Lab (2021)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/12218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não me Abandone Jamais (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfmyrcs3qWC436TAQLG5HMGTCrP.jpg" group-title="Drama",Não me Abandone Jamais (2010)
+http://iptv.qhq.cc:8080/movie/a82008d08190/1969ZEUS2018THOR/12219.mkv
