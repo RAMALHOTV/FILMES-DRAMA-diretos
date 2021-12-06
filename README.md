@@ -1362,3 +1362,371 @@ http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211271.mp4
 http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211272.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quase uma Rockstar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QIpIHoYdlt9ekD6mSIxe0FylpR.jpg" group-title="FILMES | DRAMA",Quase uma Rockstar (2020)
 http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queen e Slim (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfIJOmsiBcum6EGosiy5gTF6ihk.jpg" group-title="FILMES | DRAMA",Queen e Slim (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que Haja Luz (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGSITQuMpB96RF05b0UGEclrxit.jpg" group-title="FILMES | DRAMA",Que Haja Luz (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Cantará as suas Canções? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmV5TX3IYy7NEd6WEHgpnM6VLZx.jpg" group-title="FILMES | DRAMA",Quem Cantará as suas Canções? (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Quer Ser um Milionário? (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8HmRSbytAkXgHV1oWQoiRC5usr.jpg" group-title="FILMES | DRAMA",Quem Quer Ser um Milionário? (2008)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Somos Agora (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rR5JMNGIsFtsVSMLcoVn77fPJoi.jpg" group-title="FILMES | DRAMA",Quem Somos Agora (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Você Pensa que Sou? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj0j9thBfwPIgiJQzZECp5PVbhF.jpg" group-title="FILMES | DRAMA",Quem Você Pensa que Sou? (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Questão de Honra (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCmeHNiTpEPZwnRW9GoSjfZBuOu.jpg" group-title="FILMES | DRAMA",Questão de Honra (1992)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rainha de Copas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPMs9VSGr5VzPxfC150T9MmwEh.jpg" group-title="FILMES | DRAMA",Rainha de Copas (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rainha de Katwe (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYOzbMAJ9xwS3OUDVVbKaBa5h7u.jpg" group-title="FILMES | DRAMA",Rainha de Katwe (2016)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ray (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPefp7xbKR44SnuAXJJODN4a8z.jpg" group-title="FILMES | DRAMA",Ray (2004)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raça e Redenção (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SZw4eBmDRDGjgG7ACxBdiiKBpO.jpg" group-title="FILMES | DRAMA",Raça e Redenção (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Recuperando a Esperança (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eNp72UT2BwxqVRAgyo8UoOCqjN.jpg" group-title="FILMES | DRAMA",Recuperando a Esperança (2013)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rede de Ódio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGHWfUGlHHrrqVxb3bvjeGumqwV.jpg" group-title="FILMES | DRAMA",Rede de Ódio (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei Charles III (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gzutk4mrOBPQgg9nQHu79cR7AY.jpg" group-title="FILMES | DRAMA",Rei Charles III (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei dos Ladrões (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkI8oBMIOAnCEJFbgFgI7IZ302G.jpg" group-title="FILMES | DRAMA",Rei dos Ladrões (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reine Sobre Mim (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo5DfBmmrJUiR9DMmNxCS2EEO4L.jpg" group-title="FILMES | DRAMA",Reine Sobre Mim (2012)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Relação em Risco (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/968EbINo97rHeWDBkRPA5eYwofM.jpg" group-title="FILMES | DRAMA",Relação em Risco (2013)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Relatos Selvagens (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkhHsHoa5PYBmhT93mYOC28Hhd2.jpg" group-title="FILMES | DRAMA",Relatos Selvagens (2014)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg" group-title="FILMES | NETFLIX",Resgate (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate Abaixo de Zero " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPdsXeIGwN2mIUJa5Pw7isS9q4o.jpg" group-title="FILMES | DISNEY +",Resgate Abaixo de Zero 
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Riphagen (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZRG9HwtK5xv0uaqbjLIAdGCVEi.jpg" group-title="FILMES | DRAMA",Riphagen (2016)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ritmo de um Sonho (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpPDQblSI38cFScBBv2REzKyp9s.jpg" group-title="FILMES | DRAMA",Ritmo de um Sonho (2005)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocketman (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCfzNtsMVGYVJNsAEgVCBmuXHYF.jpg" group-title="FILMES | DRAMA",Rocketman (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rock my Heart (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFl6xsdaDNzM4KxhJOIJkq9wXBp.jpg" group-title="FILMES | DRAMA",Rock my Heart (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky: Um Lutador (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ5rLUltZALHgM0hPUcnfrJehA7.jpg" group-title="FILMES | AÇÃO",Rocky: Um Lutador (1976)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgheMOLFVkpiZ3KhG3PGrMAPdXn.jpg" group-title="FILMES | AÇÃO",Rocky Balboa (2006)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky II -  A Revanche (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zw9qyckcMnwwXAVkkWVsjgWkJG.jpg" group-title="FILMES | AÇÃO",Rocky II -  A Revanche (1979)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky III: O Desafio Supremo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld5nRxC99l082bkcM9tjcB4nuLu.jpg" group-title="FILMES | AÇÃO",Rocky III: O Desafio Supremo (1982)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky IV (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vNpJ1EpPWO0smF8NQuGKD6ezgC.jpg" group-title="FILMES | AÇÃO",Rocky IV (1985)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky V (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJc3IuQlRgnLfiztfwUt0czaJQR.jpg" group-title="FILMES | AÇÃO",Rocky V (1990)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roda Gigante (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkfebRm9rO6rQmIelznLIybPTHi.jpg" group-title="FILMES | DRAMA",Roda Gigante (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rosa e Momo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6QqW954LzK1Fs6Dc1mM9iSZgyD.jpg" group-title="FILMES | NETFLIX",Rosa e Momo (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rush - No Limite da Emoção (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/va0WgAJBvrdIUnr0uetSqidNG6N.jpg" group-title="FILMES | DRAMA",Rush - No Limite da Emoção (2013)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rápida Vingança (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRwsd7JqmWAkgKbKDA9nAXoGbSR.jpg" group-title="FILMES | DRAMA",Rápida Vingança (2010)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salome (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4QSeCYI0Ag7FVfZB78ANj4Sefp.jpg" group-title="FILMES | DRAMA",Salome (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salvo pela Graça (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utG8iiezSfmQyU8SuifRJjHReuR.jpg" group-title="FILMES | DRAMA",Salvo pela Graça (2016)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue de Pelicano (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTYT5t3ggGroIcxGgFec9fxqN4J.jpg" group-title="FILMES | DRAMA",Sangue de Pelicano (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se a Rua Beale Falasse (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gbiabIdvVv3iZcpdZEqHtbe0aU.jpg" group-title="FILMES | DRAMA",Se a Rua Beale Falasse (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seberg Contra Todos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yxef9PA6WRYqpQjKxbst7BKdzW.jpg" group-title="FILMES | DRAMA",Seberg Contra Todos (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Secretária (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7nyLw8qvgsda94Mn1YTXy4Gq2n.jpg" group-title="FILMES | DRAMA",Secretária (2002)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sedução Perigosa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dztS7aqdW1BMbyr4beisngVf7kE.jpg" group-title="FILMES | DRAMA",Sedução Perigosa (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Eu Ficar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hErdSm2KCx4X3LAzFwbxbqEe4B5.jpg" group-title="FILMES | DRAMA",Se Eu Ficar (2014)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segredos da Família (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79AbHd7tkM7KXFRQbTe8MjhOSPr.jpg" group-title="FILMES | DRAMA",Segredos da Família (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selena (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8xX3yBAFOayfSaImgLZPnAcdWz.jpg" group-title="FILMES | DRAMA",Selena (1997)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Perdão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Xnj3lzoESup4WhheKVd2gIbzjQ.jpg" group-title="FILMES | DRAMA",Sem Perdão (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sempre ao Seu Lado (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1wvmDOD6OBBNhoTAFNfZ5eRofa.jpg" group-title="FILMES | DRAMA",Sempre ao Seu Lado (2009)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Seu Sangue (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwRj6djKmyyFJdTOJnu9KuUCE09.jpg" group-title="FILMES | DRAMA",Sem Seu Sangue (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Separação e Reencontro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFmC2QHAOOmhvN5oEesR4Q8oBKL.jpg" group-title="FILMES | DRAMA",Separação e Reencontro (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Separados Pelo Destino (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgOlHmNzzVcZ01ZRrM42Kgu8Y3n.jpg" group-title="FILMES | DRAMA",Separados Pelo Destino (2010)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sequestros Em Cleveland (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2iCc5fjyJvKRQAW7d6XWwDFzmr.jpg" group-title="FILMES | DRAMA",Sequestros Em Cleveland (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sérgio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LzBpItheKPnyu0zRktaazl3LOt.jpg" group-title="FILMES | DRAMA",Sérgio (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Serra Pelada (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkTVhx0ifMgYjyXbCOtA50KtDtX.jpg" group-title="FILMES | DRAMA",Serra Pelada (2013)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sete Anos no Tibet (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6GP0N7kOa3bMP9bn9oYvSwqt78.jpg" group-title="FILMES | DRAMA",Sete Anos no Tibet (1997)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sete Dias Sem Fim (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDxWCy3bpDcxskGNCWWstSawRzB.jpg" group-title="FILMES | DRAMA",Sete Dias Sem Fim (2014)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Setembro em Shiraz (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7BZsQDslgmltoM7Mxv8ZOBuCUY.jpg" group-title="FILMES | DRAMA",Setembro em Shiraz (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sete Vidas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxJOJUV9UVYMlHmQVUh4zcXCOSf.jpg" group-title="FILMES | DRAMA",Sete Vidas (2008)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simonal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9vlhHRr8M6w6qVuWUYy6gtoQPY.jpg" group-title="FILMES | DRAMA",Simonal (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sleepers: A Vingança Adormecida (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB5HSsQbSDWyrIJXb717dYStD2b.jpg" group-title="FILMES | DRAMA",Sleepers: A Vingança Adormecida (1996)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobibor: A Revolta que Mudou os Rumos da Humanidade (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggX7hyJr3toYvNzu8FtcYNUQlME.jpg" group-title="FILMES | GUERRA",Sobibor: A Revolta que Mudou os Rumos da Humanidade (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sociedade dos Poetas Mortos (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufmT4SaTd0vfTRIsUIVpgckridb.jpg" group-title="FILMES | DRAMA",Sociedade dos Poetas Mortos (1989)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sócrates (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omWPX3LbB3spgpbfQPaaJb4MpY8.jpg" group-title="FILMES | DRAMA",Sócrates (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Anônimo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvTRt108bXFypyDQ12pG9K5jwGd.jpg" group-title="FILMES | DRAMA",Soldado Anônimo (2005)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra Ardente (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCht1R80JpEr6F3Xj2j1f7uL6bW.jpg" group-title="FILMES | DRAMA",Sombra Ardente (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somos Tão Jovens (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxfcBlYe9mw4D5dJOaMweva1Unb.jpg" group-title="FILMES | DRAMA",Somos Tão Jovens (2013)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somos Todos Iguais (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAKIMoKf6lQ5LTEM0WPg1BLNlyR.jpg" group-title="FILMES | DRAMA",Somos Todos Iguais (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonho de Uma Noite de Verão - O Filme (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eP10eqYHMCov0aaIxuDhP1MEUNa.jpg" group-title="FILMES | DRAMA",Sonho de Uma Noite de Verão - O Filme (1996)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonora (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5JoieisiLZLm814K81oRK7pNBA.jpg" group-title="FILMES | DRAMA",Sonora (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Starfish: Vozes e Segredos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dzSOqAT2SiXuURJGAJJMTQpdxs.jpg" group-title="FILMES | DRAMA",Starfish: Vozes e Segredos (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Steve Jobs (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCzMkFxRE9IolEKSJBt2LlyQCg0.jpg" group-title="FILMES | DRAMA",Steve Jobs (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Straight Outta Compton: A História do N.W.A. (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKwSxAvShaQ3C0T3i08haOFbw7g.jpg" group-title="FILMES | DRAMA",Straight Outta Compton: A História do N.W.A. (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Dance - Dois Mundos Um Sonho (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqWSenAtDQsWjMLVTMEDvcCtafU.jpg" group-title="FILMES | DRAMA",Street Dance - Dois Mundos Um Sonho (2010)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Flow (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8x5zUAUaVH38Ec78eXgmTdYRENP.jpg" group-title="FILMES | DRAMA",Street Flow (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Striptease (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zMy6R7acotCmGoDk4sjzRtDwKn.jpg" group-title="FILMES | DRAMA",Striptease (1996)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stuck - Presos no Estacionamento (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpsuaUZr6r9M796zQeDMDPKTuFl.jpg" group-title="FILMES | DRAMA",Stuck - Presos no Estacionamento (2014)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suburra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4ojY2BIOaXomY5pnNAdevItbTR.jpg" group-title="FILMES | DRAMA",Suburra (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sully: O Herói do Rio Hudson (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouxowmfrAv6lswjk10ZGC4pL2Vy.jpg" group-title="FILMES | DRAMA",Sully: O Herói do Rio Hudson (2016)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Summer: Descobrindo O Meu Lugar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbS1rn04lQ8eRZxl2v3sIs6vX4Y.jpg" group-title="FILMES | DRAMA",Summer: Descobrindo O Meu Lugar (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superação: O Milagre da Fé (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg" group-title="FILMES | RELIGIOSO",Superação: O Milagre da Fé (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tão Forte e Tão Perto (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtGC278lQrtQ7lNVncq6Dx4RBsH.jpg" group-title="FILMES | DRAMA",Tão Forte e Tão Perto (2011)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempestade Branca (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grpwmRPKURr7kr7Oi880xNlURTP.jpg" group-title="FILMES | DRAMA",Tempestade Branca (2013)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempo de Esperança (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6m8kP4SVZr2Ni3WpaDJ50s1XBz.jpg" group-title="FILMES | DRAMA",Tempo de Esperança (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempo de Matar (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhHAoH0QakR5aZK7L8h7TTKQsgu.jpg" group-title="FILMES | DRAMA",Tempo de Matar (1996)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Temporada (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCLmnSXPHLj6iXfrKQUhHvRdEER.jpg" group-title="FILMES | DRAMA",Temporada (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ternura (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNODwniLY1Qibh05KBg92nL3rFS.jpg" group-title="FILMES | DRAMA",A Ternura (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra de Minas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugCWhwmvWGuFuw593holVFe8a5K.jpg" group-title="FILMES | DRAMA",Terra de Minas (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra Estranha (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cURPX6OjTv4EZkwGlEStYEWRNFG.jpg" group-title="FILMES | DRAMA",Terra Estranha (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra Selvagem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r72s9cCmf0A2Z1tYPdj3rmOtIV3.jpg" group-title="FILMES | DRAMA",Terra Selvagem (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Território Restrito (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvfhfNq21WSqdwVQwSxWdxEJ9k6.jpg" group-title="FILMES | DRAMA",Território Restrito (2009)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teu Mundo não cabe nos Meus Olhos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQl8mvS9Q8cNBldaZ0MBO9e4yse.jpg" group-title="FILMES | DRAMA",Teu Mundo não cabe nos Meus Olhos (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Doors (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14Jw0oYnpRoJ2BPoJwje3wrNOwp.jpg" group-title="FILMES | DRAMA",The Doors (1991)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Kill Team (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvt4AGfzRq0ajGzrLrzaV7tSReY.jpg" group-title="FILMES | DRAMA",The Kill Team (2013)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mustang" tvg-logo="data:image/jpeg;base64,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" group-title="FILMES | DRAMA",The Mustang
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Laços de um Crime (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSeL2lJTuVoqy7fJNNwkJhRV1h0.jpg" group-title="FILMES | DRAMA",Laços de um Crime (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Perfeição (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg" group-title="FILMES | DRAMA",A Perfeição (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Post: A Guerra Secreta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOq5Pus5W2IwVcTdveu9tO6yYFB.jpg" group-title="FILMES | DRAMA",The Post: A Guerra Secreta (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Rover: A Caçada (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYBnbrojBYL8FCXUtnjLwOZM3Hx.jpg" group-title="FILMES | DRAMA",The Rover: A Caçada (2014)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Runaways - Garotas do Rock (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1RoNYKoVvR1HqfBeiR0o7i7AWQ.jpg" group-title="FILMES | DRAMA",The Runaways - Garotas do Rock (2010)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Souvenir (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCUSJYRYdQDs8Q9xflAkfI4wUaN.jpg" group-title="FILMES | DRAMA",The Souvenir (2008)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tim Maia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVE2wZU3Xd4yQDKSOwIrLhGGoB3.jpg" group-title="FILMES | DRAMA",Tim Maia (2014)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tina - A Verdadeira História de Tina Turner (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcEYnCzlFtjSjYfueJNMW99X49i.jpg" group-title="FILMES | DRAMA",Tina - A Verdadeira História de Tina Turner (1993)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tinta Bruta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zW8OKgJKaO5JHzZe6geZd2vpgT.jpg" group-title="FILMES | DRAMA",Tinta Bruta (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tio Frank (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9I86XRiuRdZnc4tcgsA8UArpnN.jpg" group-title="FILMES | DRAMA",Tio Frank (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Titanic (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" group-title="FILMES | DRAMA",Titanic (1997)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Dia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oGwEZS1QkZTxn2eyjH49rcHs6y.jpg" group-title="FILMES | DRAMA",Todo Dia (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todos Já Sabem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwyw6WVXqDi6yM3O9zc3w12raIJ.jpg" group-title="FILMES | DRAMA",Todos Já Sabem (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todos os Homens do Presidente (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fjpMQoZyVTj4UNqtii6DSanaTK.jpg" group-title="FILMES | DRAMA",Todos os Homens do Presidente (1976)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Togo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCCgIgIqNHZCxKgZKTqv1LzxuwI.jpg" group-title="FILMES | DRAMA",Togo (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tolkien (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PkKsI7EXAcnov2ap6dnu3fYWFe.jpg" group-title="FILMES | DRAMA",Tolkien (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toque de Recolher (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adZ5ga918DIIPYDqffm1zF13M7H.jpg" group-title="FILMES | DRAMA",Toque de Recolher (2006)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tráfico de Mulheres (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aK2J9k73gUw0DcbO6RiCh3vHVE.jpg" group-title="FILMES | DRAMA",Tráfico de Mulheres (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Três Anúncios Para Um Crime (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6xTMvGWWEReIs8B3BrVF8KYz4c.jpg" group-title="FILMES | DRAMA",Três Anúncios Para Um Crime (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Três Cristos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5J84ImFwR0TTHdn8ePcNBCgmB3K.jpg" group-title="FILMES | DRAMA",Três Cristos (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e Um Bebê (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcpjgDRIgYQTvJE9UPo0WmNKqbz.jpg" group-title="FILMES | DRAMA",Três Ladrões e Um Bebê (2006)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troco em Dobro (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kUoCeyFAfYZKrGI27gSsnnsHN0.jpg" group-title="FILMES | DRAMA",Troco em Dobro (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Começa No Brooklyn (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGu4WLJ7lfzXHs4e12wBa6U8Dg4.jpg" group-title="FILMES | DRAMA",Tudo Começa No Brooklyn (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo e Todas as Coisas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24NQ87f9LI5Md9vSkSCtpRPiFAq.jpg" group-title="FILMES | DRAMA",Tudo e Todas as Coisas (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo o que Tivemos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtftkAdqaM5KFtcyy2Cs9IpxRay.jpg" group-title="FILMES | DRAMA",Tudo o que Tivemos (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo por Amor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiAKFniKNvr2JirmPSvOlVf43TL.jpg" group-title="FILMES | DRAMA",Tudo por Amor (2016)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Por Ela (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eB4MzPUdhF8gzc8f0atnLrXsOC7.jpg" group-title="FILMES | DRAMA",Tudo Por Ela (2008)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tungstênio (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZ3ZQMSelUbyTscDGJcdnnrX4SB.jpg" group-title="FILMES | DRAMA",Tungstênio (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ufo - Estamos Sozinhos? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdy1GTdaAXqhsCVOpIXokifYdCh.jpg" group-title="FILMES | DRAMA",Ufo - Estamos Sozinhos? (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Última Parada 174 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHvsILY4t4nd9Lu3KXMOWB19l5A.jpg" group-title="FILMES | DRAMA",Última Parada 174 (2008)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ultras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHqpFuguBugZZfXIyjsb4tOAXve.jpg" group-title="FILMES | DRAMA",Ultras (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Aventura Perigosa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvQu0cQPwgbtUNvLZazSZ4b9Kkt.jpg" group-title="FILMES | DRAMA",Uma Aventura Perigosa (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Boa História (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IId0ftSS0fYHH2Op0Ja3wx2Mo7.jpg" group-title="FILMES | DRAMA",Uma Boa História (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Conexão para o Natal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnPeY0D2Y5kOZVxJo5AuJ4gqJX2.jpg" group-title="FILMES | DRAMA",Uma Conexão para o Natal (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Criança Como Jake (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stsk7ZEiNfi9qJbBMuOIvaQaEbU.jpg" group-title="FILMES | DRAMA",Uma Criança Como Jake (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Guerra Pessoal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tuw5ZA1n1JJZGAIyOpBtYJynCt.jpg" group-title="FILMES | DRAMA",Uma Guerra Pessoal (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Jornada de Perdão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WLBQK10hcRXNn37cbhPXSVAVEK.jpg" group-title="FILMES | DRAMA",Uma Jornada de Perdão (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Lição de Vida (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35HFXkITwmVAXUZf9UWPZ6zedBO.jpg" group-title="FILMES | DRAMA",Uma Lição de Vida (2010)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Longa Jornada (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYAyIydXMt07vD7fupme9oYCHEe.jpg" group-title="FILMES | DRAMA",Uma Longa Jornada (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Mensagem Através do Tempo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0bGfUSAwlaCsWH4Y3wudw4zmNs.jpg" group-title="FILMES | DRAMA",Uma Mensagem Através do Tempo (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor de Filhote (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kL07g2jfYdiHgJDZKaHiInh0nuC.jpg" group-title="FILMES | DRAMA",Um Amor de Filhote (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Anjo em Minha Vida (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87h2zA23Dhs4pGSt7aRpO9ekqnK.jpg" group-title="FILMES | DRAMA",Um Anjo em Minha Vida (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Prece Antes do Amanhecer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS7MWnE9jzKytQ101KbddnahRRZ.jpg" group-title="FILMES | DRAMA",Uma Prece Antes do Amanhecer (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Questão de Fé (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDSxFpUzaopUJn8O4LWO29Dii5f.jpg" group-title="FILMES | RELIGIOSO",Uma Questão de Fé (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Rua Chamada Pecado (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg" group-title="FILMES | DRAMA",Uma Rua Chamada Pecado (1951)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Segunda Chance: Rivais! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYIDpQ5Y29W11rusWVLJRxiZEqq.jpg" group-title="FILMES | DRAMA",Uma Segunda Chance: Rivais! (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Segunda Chance: Rivais! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYIDpQ5Y29W11rusWVLJRxiZEqq.jpg" group-title="FILMES | DRAMA",Uma Segunda Chance: Rivais! (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Ato de Coragem (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dzUm8R4lnwqNfO56lhVAsFZQH5.jpg" group-title="FILMES | DRAMA",Um Ato de Coragem (2002)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Ato de Esperança (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MDe5w75PORrsTMaqOUgNZUyWw8.jpg" group-title="FILMES | DRAMA",Um Ato de Esperança (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Vida Oculta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg" group-title="FILMES | DRAMA",Uma Vida Oculta (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Chamado Especial (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0hzeCAls3n9i0ImaMMPsGY2hYL.jpg" group-title="FILMES | DRAMA",Um Chamado Especial (2014)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Conto do Destino (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHVdSDgO1JLrKKK4Zn4WndRknAz.jpg" group-title="FILMES | DRAMA",Um Conto do Destino (2014)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Conto do Destino (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHVdSDgO1JLrKKK4Zn4WndRknAz.jpg" group-title="FILMES | DRAMA",Um Conto do Destino (2014)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Crime Nada Perfeito (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mjR8AyEr2Qhw1Luyx6xpwX4guG.jpg" group-title="FILMES | DRAMA",Um Crime Nada Perfeito (2009)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia de Fúria (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIkI1ClWvmnsGQnT5FdibdtwQ9j.jpg" group-title="FILMES | DRAMA",Um Dia de Fúria (1993)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia Perfeito (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93Rr5c1zx6viEDzoRCdk0SEbTzo.jpg" group-title="FILMES | DRAMA",Um Dia Perfeito (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Estranho no Ninho (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqz0NHRmbc57HZdZxi66shMzGKO.jpg" group-title="FILMES | DRAMA",Um Estranho no Ninho (1975)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem Entre Gigantes (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8dQeUiQPs46U9nRSJdMsiXth69.jpg" group-title="FILMES | DRAMA",Um Homem Entre Gigantes (2015)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem Fora de Série (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2QSNW1OgHRBeifcugmo7pG0uS9.jpg" group-title="FILMES | DRAMA",Um Homem Fora de Série (1984)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Laço de Amor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21uwPrntyCV9Z0LW7pZcVfbrqWo.jpg" group-title="FILMES | DRAMA",Um Laço de Amor (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Limite Entre Nós (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVv22WNrXCAFkTZFHYR6u77mfr.jpg" group-title="FILMES | DRAMA",Um Limite Entre Nós (2016)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Novo Despertar (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2f5OLiTAqL8chDZh855ZyTv1z92.jpg" group-title="FILMES | DRAMA",Um Novo Despertar (2011)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Novo Olhar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jPyGQMTtOzmMFVlCOqKrMBuDnT.jpg" group-title="FILMES | DRAMA",Um Novo Olhar (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Novo Recomeço (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVEplIeyc0xobdSwqKoIoDxuz1r.jpg" group-title="FILMES | DRAMA",Um Novo Recomeço (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Refúgio Azul (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph5bSVXarzvkubcMayUBlZfOWYs.jpg" group-title="FILMES | DRAMA",Um Refúgio Azul (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Reino Unido (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bl13OXBp7Ss1rkpHA0Nh3Girkmu.jpg" group-title="FILMES | DRAMA",Um Reino Unido (2016)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Romance nas Entrelinhas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPY7FlNKBDCT7qjLgUYDazt9gng.jpg" group-title="FILMES | DRAMA",Um Romance nas Entrelinhas (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Sonho de Liberdade (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSnM4ahmz692msbMTBsfBWHvR3M.jpg" group-title="FILMES | DRAMA",Um Sonho de Liberdade (1994)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Sonho Distante (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBFM3xgnlzs1EId37IpZEIVts20.jpg" group-title="FILMES | DRAMA",Um Sonho Distante (1992)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Sonho Possível (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/an63NUD0TUMreFNo4z60Ec8poF9.jpg" group-title="FILMES | DRAMA",Um Sonho Possível (2009)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Toque no Coração (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/botp2R9eZcLgMmJQUkRceENsXrO.jpg" group-title="FILMES | DRAMA",Um Toque no Coração (2013)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velocidade Mortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r793ZSCfzEyuqhPcPQM6cfKz4sZ.jpg" group-title="FILMES | DRAMA",Velocidade Mortal (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Verdade e Justiça (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SqUoj7kPpB8wYwVrw9wIzT3JnZ.jpg" group-title="FILMES | DRAMA",Verdade e Justiça (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Versões de um Crime (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvtFzYHjgyahz9MXBsyKZpwcWQJ.jpg" group-title="FILMES | DRAMA",Versões de um Crime (2016)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Versões de um Crime (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvtFzYHjgyahz9MXBsyKZpwcWQJ.jpg" group-title="FILMES | DRAMA",Versões de um Crime (2016)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem Clandestina (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc3efB3JJig0dBRqZNGSnp6LCgb.jpg" group-title="FILMES | DRAMA",Viagem Clandestina (1985)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vice (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1XcudR8wfo7KMtJ7eygAyEkJLx.jpg" group-title="FILMES | DRAMA",Vice (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMBgCt24cKziPOsPF2jHi1BCBjL.jpg" group-title="FILMES | DRAMA",Vida (2017)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Violação de Privacidade (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7c4Wxpo7ZxzTldPd0UfHwpMpFi.jpg" group-title="FILMES | DRAMA",Violação de Privacidade (2004)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIPs (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10Jajl4AeKZFRmr03nneelYCgH7.jpg" group-title="FILMES | DRAMA",VIPs (2011)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viral (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJJF8nOQUdupzGrIeB8JNO65H6c.jpg" group-title="FILMES | DRAMA",Viral (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjRhhE2lN8V4OCxMFJ4LBMZyQUr.jpg" group-title="FILMES | DRAMA",Vivos (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volume Morto (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhqLgWfDQDHudgSiGvtbpY6Gs7y.jpg" group-title="FILMES | DRAMA",Volume Morto (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vôo United 93 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPq0oTWflzK0BI1QjhPbsFwxhDp.jpg" group-title="FILMES | DRAMA",Vôo United 93 (2006)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vou Nadar Até Você (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNbcim9eQqi6oRXotRKTlT9ofXF.jpg" group-title="FILMES | DRAMA",Vou Nadar Até Você (2020)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vox Lux: O Preço da Fama (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0RZH9RklAokKOXHOivtxUo98YM.jpg" group-title="FILMES | DRAMA",Vox Lux: O Preço da Fama (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wasp Network: Rede de Espiões (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEJbGMflG58J7GXTfFlrD2XDmVo.jpg" group-title="FILMES | DRAMA",Wasp Network: Rede de Espiões (2019)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whiplash: Em Busca da Perfeição (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0yDn1HRC5avz0MyRURFAS3xvBt.jpg" group-title="FILMES | DRAMA",Whiplash: Em Busca da Perfeição (2014)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Boy Rick (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIyqAObXHVHpJmbpun95d5iYlMx.jpg" group-title="FILMES | DRAMA",White Boy Rick (2018)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XOXO: A Vida é Uma Festa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRzkTCvXsC7r5Fn6fA7WpwNx6Bj.jpg" group-title="FILMES | DRAMA",XOXO: A Vida é Uma Festa (2016)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zaytoun (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbFq2VFNyrYRo5izFeS1szoesnv.jpg" group-title="FILMES | DRAMA",Zaytoun (2012)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zodíaco (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1HPn1JShrQnqHORCePNKFrDmiI.jpg" group-title="FILMES | DRAMA",Zodíaco (2007)
+http://tv.meuserver.me:8080/movie/000311/CodeMeuserver/211462.mp4
